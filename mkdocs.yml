@@ -1,5 +1,5 @@
 site_name: Superinsight Documentation
-site_url: https://docs.superinsight.ai
+site_url: https://docs.superinsight.me
 theme:
   name: material
   logo: assets/images/superinsight/logo_white.png
@@ -8,15 +8,15 @@ theme:
 nav:
   - What is Superinsight: index.md
   - Quickstart: quickstart.md
-  - FAQ: faq.md
   - How To Guide:
       - Guide: guide/index.md
       - Add Web Page: guide/file-link.md
       - Build Chatbot: guide/chatbot-build.md
-      - Create folder: guide/folder-create.md
+      - Create Folder: guide/folder-create.md
       - Manage Setting: guide/setting-manage.md
       - Share Folder: guide/folder-share.md
       - Upload File: guide/file-upload.md
+  - Login To App: https://app.superinsight.me
   - Official Website: https://www.superinsight.ai
 markdown_extensions:
   - attr_list

@@ -1,8 +1,10 @@
+# What is Superinsight?
+
 Superinsight is a cutting-edge business intelligence tool designed to help you unlock valuable insights from your knowledge base.
 
-## What does it help you to do?
+## What does it do?
 
-### 1. Build Your Own Knowledge base
+### 1. Build Knowledge Base
 
 Superinsight is designed to help you easily access valuable information from your company's knowledge base. With Superinsight, you can quickly upload text, voice, or video files to create a comprehensive knowledge base that is easily searchable using natural language.
 
