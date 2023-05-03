@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>https://docs.superinsight.me/</loc>
+         <lastmod>2023-05-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.superinsight.me/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.superinsight.me/quickstart/</loc>
+         <lastmod>2023-05-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.superinsight.me/en/quickstart/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.superinsight.me/guide/</loc>
+         <lastmod>2023-05-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.superinsight.me/en/guide/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.superinsight.me/guide/chatbot-build/</loc>
+         <lastmod>2023-05-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.superinsight.me/en/guide/chatbot-build/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.superinsight.me/guide/file-link/</loc>
+         <lastmod>2023-05-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.superinsight.me/en/guide/file-link/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.superinsight.me/guide/file-upload/</loc>
+         <lastmod>2023-05-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.superinsight.me/en/guide/file-upload/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.superinsight.me/guide/folder-create/</loc>
+         <lastmod>2023-05-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.superinsight.me/en/guide/folder-create/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.superinsight.me/guide/folder-share/</loc>
+         <lastmod>2023-05-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.superinsight.me/en/guide/folder-share/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.superinsight.me/guide/setting-manage/</loc>
+         <lastmod>2023-05-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.superinsight.me/en/guide/setting-manage/"/>
+         
+    </url>
+</urlset>
