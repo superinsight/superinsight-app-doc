@@ -6,6 +6,7 @@ Learn more about Superinsight with the following How To Guide.
 | How To                            | Overview                       |
 | --------------------------------- | ------------------------------ |
 | [Add Web Page](file-link)         | Add a web page                 |
+| [Add YouTube ](file-youtube)      | Add a youtube video            |
 | [Build Chatbot ](chatbot-build)   | Build your own chatbot         |
 | [Create Folder](folder-create)    | Create folder                  |
 | [Manage Setting ](setting-manage) | Modify models for your account |

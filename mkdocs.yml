@@ -11,6 +11,7 @@ nav:
   - How To Guide:
       - Guide: guide/index.md
       - Add Web Page: guide/file-link.md
+      - Add YouTube Video: guide/file-youtube.md
       - Build Chatbot: guide/chatbot-build.md
       - Create Folder: guide/folder-create.md
       - Manage Setting: guide/setting-manage.md
