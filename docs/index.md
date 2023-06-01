@@ -1,6 +1,6 @@
 # What is Superinsight?
 
-Superinsight is a cutting-edge business intelligence tool designed to help you unlock valuable insights from your knowledge base.
+Superinsight is an AI Copilot for Knowledge Experts.
 
 ## What does it do?
 
