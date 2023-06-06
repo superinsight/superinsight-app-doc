@@ -1,4 +1,4 @@
-# Load History Records
+# View History
 
 You can browse and load your former conversation records by clicking the "History" button on the left navigation.
 

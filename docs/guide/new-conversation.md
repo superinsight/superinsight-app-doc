@@ -1,4 +1,4 @@
-# New Conversation
+# Start Conversation
 
 You can start a new conversation by clicking the "New Conversation" button on the left navigation.
 

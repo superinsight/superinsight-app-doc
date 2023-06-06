@@ -10,7 +10,7 @@ nav:
   - Quickstart: quickstart.md
   - How To Guide:
     - Guide: guide/index.md
-    - Start New Conversation: guide/new-conversation.md
+    - Start Conversation: guide/new-conversation.md
     - Create Folder: guide/folder-create.md
     - Add Web Page: guide/file-link.md
     - Add YouTube Video: guide/file-youtube.md
@@ -18,7 +18,7 @@ nav:
     - Share Folder: guide/folder-share.md
     - Build Chatbot: guide/chatbot-build.md
     - Manage Setting: guide/setting-manage.md
-    - Load History Records: guide/history.md
+    - View History: guide/history.md
   - Login To App: https://app.superinsight.me
   - Official Website: https://www.superinsight.ai
 markdown_extensions:
