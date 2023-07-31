@@ -5,7 +5,7 @@ Once the file is ready, as shown in the screenshots below, you can continue to t
 
 !!! note "Supported File Types"
 
-    Superinsight supports TXT, PDF, DOC, DOCX, MP3, MP4 and M4A files.
+    Superinsight supports TXT, PDF, DOC, DOCX, MP3, MP4, M4A, CSV, XLSX and XLS files.
 
 === "Upload File"
 

@@ -15,6 +15,7 @@ nav:
     - Add Web Page: guide/file-link.md
     - Add YouTube Video: guide/file-youtube.md
     - Upload File: guide/file-upload.md
+    - Sync From Cloud Drive: guide/cloud-drive.md
     - Share Folder: guide/folder-share.md
     - Build Chatbot: guide/chatbot-build.md
     - Manage Setting: guide/setting-manage.md

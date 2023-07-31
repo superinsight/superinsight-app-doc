@@ -10,6 +10,7 @@ Learn more about Superinsight with the following How To Guide.
 | [Add Web Page](file-link)                 | Add a web page                 |
 | [Add YouTube ](file-youtube)              | Add a youtube video            |
 | [Upload File](file-upload)                | Upload File                    |
+| [Sync From Cloud Drive](cloud-drive)      | Connect to your Cloud Drive    |
 | [Share Folder ](folder-share)             | Share folder with others       |
 | [Build Chatbot ](chatbot-build)           | Build your own chatbot         |
 | [Manage Setting ](setting-manage)         | Modify models for your account |

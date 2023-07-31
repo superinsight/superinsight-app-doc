@@ -11,8 +11,6 @@ Superinsight currently supported Models:
 
 * GPT3.5
 * GPT4
-* Open Assistant's Pythia 12B
-* H2O GPT 12B
-* Red Pajama 7B
+* Falcon 40B
 
-![Upload File To Folder](/assets/images/tutorial/setting-manage-model-2.png)
+![Upload File To Folder](/assets/images/tutorial/setting-manage-model.png)
