@@ -22,6 +22,7 @@ nav:
     - View History: guide/history.md
   - Login To App: https://app.superinsight.me
   - Official Website: https://www.superinsight.ai
+  - Privacy Policy: guide/privacy-policy.md
 markdown_extensions:
   - attr_list
   - admonition
