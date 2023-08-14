@@ -11,6 +11,7 @@ Superinsight currently supported Models:
 
 * GPT3.5
 * GPT4
-* Falcon 40B
+* Falcon lite
+* Llama2
 
 ![Upload File To Folder](/assets/images/tutorial/setting-manage-model.png)
