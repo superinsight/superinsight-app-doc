@@ -59,7 +59,7 @@ You have the right at any time to prevent us from contacting you for marketing p
 
 We are not responsible for the privacy practices employed by third party websites or the information or content they contain. This Privacy Policy applies solely to information collected by us through the Site and the Service.
 
-As part of the Service, we may provide links to or compatibility with other websites or applications. Through these third party services, we may access your files or data that was originally saved there and use them only as resources for our services by your permission.
+As part of the Service, we may provide links to or compatibility with other websites or apps. We use and transfer to any other app of information received from our third party services providers, such as Microsoft, Google APIs, etc., will adhere to the data policy that third party services providers made ([Microsoft Privacy](https://privacy.microsoft.com/en-gb/privacy), [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes)), including the Limited Use requirements.
 
 To the extent that you access or use the Service through or on another website or application, then the privacy policy of that other website or application will apply to your access or use of that site or application. We encourage our users to read the privacy statements of other websites before proceeding to use them.
 
@@ -71,7 +71,7 @@ Superinsight reserves the right to change this policy and our Terms of Service a
 
 If you have any questions regarding this Privacy Policy or the practices of this Site, please contact us by sending an email to [help@superinsight.ai](mailto:help@superinsight.ai).
 
-Last Updated: This Privacy Policy was last updated on August 15th, 2023.
+Last Updated: This Privacy Policy was last updated on August 21st, 2023.
 
 
 © 2023 All rights reserved by Superinsight
