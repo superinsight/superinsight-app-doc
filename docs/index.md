@@ -1,21 +1,18 @@
 # What is Superinsight?
 
-Superinsight is a cutting-edge business intelligence tool designed to help you unlock valuable insights from your knowledge base.
+Superinsight streamlines the VA claim process for accredited agents with the power of Generative AI. This not only reduces their workload but also empowers agents to process claims at remarkable speed, ultimately enabling agents to assist more veterans.
 
-## What does it do?
+## What does Superinsight offer?
 
-### 1. Build Knowledge Base
+### 1. Access to our Veterans Law Knowledge Base
 
-Superinsight is designed to help you easily access valuable information from your company's knowledge base. With Superinsight, you can quickly upload text, voice, or video files to create a comprehensive knowledge base that is easily searchable using natural language.
+Superinsight has an extensive knowledge base, which includes federal regulations, VA court cases, and medical data. This resource equips accredited agents with the essential tools to navigate VA claims effortlessly and with remarkable precision, setting a new standard for accuracy, speed, and effectiveness in assisting veterans.
 
-### 2. Discover Insights
 
-Superinsight makes it easy for you to find the information you need, we use state-of-the-art large language models like GPT3 and GPT4 to help you discover key insights and trends within your knowledge base with precision and accuracy. Whether you're looking for customer feedback, market research, or internal performance data,
+### 2. Research By Simply Asking
 
-### 3. Share Knowledge
+Superinsight streamlines information retrieval using our state-of-the-art large language models, guaranteeing the swift discovery of essential insights and trends within your knowledge base with unrivaled precision and accuracy. With the ability to communicate in natural language, accredited agents can effortlessly request information and receive prompt responses.
 
-Superinsight makes it simple for you to share your knowledge base with others without compromising your source files. You can easily collaborate with team members or stakeholders, providing them with access to the information they need without having to share the underlying data.
+### 3. Personalized Knowledge Base for Veterans
 
-### 4. Export To Other Platforms
-
-Superinsight helps you to export your knowledge base to other platforms or websites, Superinsight's chatbot integration feature allows you to do so with ease. With just a few clicks, you can seamlessly export your knowledge base and integrate it into other applications or websites.
+Superinsights empowers accredited agents by enabling them to upload their own files and construct a personalized knowledge base. This capability enables agents to swiftly review and generate documents on behalf of veterans, significantly enhancing their efficiency and speed of service.

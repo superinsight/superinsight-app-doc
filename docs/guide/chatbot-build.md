@@ -12,22 +12,22 @@ To build a chatbot, select the files you want use for your chatbot.
 
 Select files to build chatbot and click next
 
-![Select Files](/assets/images/tutorial/chatbot-build-select-files.png)
+![Select Files](../assets/images/tutorial/chatbot-build-select-files.png)
 
 ## 2. Enter Description
 
 Enter required and optional descriptions for your chatbot, you can provide a description on how the chatbot should be behave and include a greeting for the user. To customize the avatar, include a image url as well.
 
-![Select Files](/assets/images/tutorial/chatbot-build-description.png)
+![Select Files](../assets/images/tutorial/chatbot-build-description.png)
 
 ## 3. Publish Chatbot
 
 To publish your chatbot, check the "Go Live" option and save.
 
-![Select Files](/assets/images/tutorial/chatbot-build-publish.png)
+![Select Files](../assets/images/tutorial/chatbot-build-publish.png)
 
 Once you have published your chatbot, you can copy the url and test it out on your browser
 
 !!! quote "Test Your Chatbot"
 
-    ![Select Files](/assets/images/tutorial/chatbot-build-deployed.png)
+    ![Select Files](../assets/images/tutorial/chatbot-build-deployed.png)

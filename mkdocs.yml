@@ -2,9 +2,9 @@ site_name: Superinsight Documentation
 site_url: https://docs.superinsight.me
 theme:
   name: material
-  logo: assets/images/superinsight/logo_white.png
+  logo: assets/images/superinsight/empty.png
   palette:
-    primary: black
+    primary: custom 
 nav:
   - What is Superinsight: index.md
   - Quickstart: quickstart.md
@@ -12,13 +12,7 @@ nav:
     - Guide: guide/index.md
     - Start Conversation: guide/new-conversation.md
     - Create Folder: guide/folder-create.md
-    - Add Web Page: guide/file-link.md
-    - Add YouTube Video: guide/file-youtube.md
     - Upload File: guide/file-upload.md
-    - Sync From Cloud Drive: guide/cloud-drive.md
-    - Share Folder: guide/folder-share.md
-    - Build Chatbot: guide/chatbot-build.md
-    - Manage Setting: guide/setting-manage.md
     - View History: guide/history.md
   - Login To App: https://app.superinsight.me
   - Official Website: https://www.superinsight.ai
@@ -44,3 +38,5 @@ extra:
   analytics:
     provider: google
     property: G-B69XP516VZ
+extra_css:
+  - stylesheets/extra.css
