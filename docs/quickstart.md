@@ -45,6 +45,6 @@ The information icon will show you the references that was used for this respons
 
     ![File In Progress](assets/images/tutorial/reference-1.png)
 
-## 6. Try More
+## 4. Try More
 
 If you like to learn more advance features, please continue our guide for [How To Guide](guide/index.md)
