@@ -5,14 +5,8 @@ Learn more about Superinsight with the following How To Guide.
 
 | How To                                    | Overview                       |
 | ---------------------------------         | ------------------------------ |
-| [Start Conversation](new-conversation)    | Start New Conversation         |
-| [Create Folder](folder-create)            | Create folder                  |
-| [Add Web Page](file-link)                 | Add a web page                 |
-| [Add YouTube ](file-youtube)              | Add a youtube video            |
-| [Upload File](file-upload)                | Upload File                    |
-| [Sync From Cloud Drive](cloud-drive)      | Connect to your Cloud Drive    |
-| [Share Folder ](folder-share)             | Share folder with others       |
-| [Build Chatbot ](chatbot-build)           | Build your own chatbot         |
-| [Manage Setting ](setting-manage)         | Modify models for your account |
-| [View History](history)                   | Load your history chat         |
+| [Start Conversation](new-conversation.md)    | Start New Conversation         |
+| [Create Folder](folder-create.md)            | Create folder                  |
+| [Upload File](file-upload.md)                | Upload File                    |
+| [View History](history.md)                   | Load your history chat         |
 

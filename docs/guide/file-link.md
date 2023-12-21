@@ -9,12 +9,12 @@ In the example below, you are adding the web page https://www.superinsight.ai
 
 === "Add Web Page"
 
-    ![Upload File To Folder](/assets/images/tutorial/upload-link-to-folder.png)
+    ![Upload File To Folder](../assets/images/tutorial/upload-link-to-folder.png)
 
 === "Web Page In Progress"
 
-    ![Web Page In Progress](/assets/images/tutorial/link-pending.png)
+    ![Web Page In Progress](../assets/images/tutorial/link-pending.png)
 
 === "Web Page Is Ready"
 
-    ![File In Progress](/assets/images/tutorial/link-ready.png)
+    ![File In Progress](../assets/images/tutorial/link-ready.png)
