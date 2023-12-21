@@ -27,24 +27,32 @@ Once the file is ready, as shown in the screenshots below, you can continue to t
 
     ![File In Progress](/assets/images/tutorial/file-ready.png)
 
-## 3. Get Answers
+## 3. Create a Bot
 
-Once your file is ready, you can click on the file you have uploaded earlier and ask your first question.
-After you get your response, you will see two icons on the right top of the message as well. The copy icon allows you to copy your message.
-The information icon will show you the references that was used for this response.
+Once your file is ready, you can select the file you uploaded earlier and build a chatbot with it.
+Chatbot can be accsses as a single web page or you can embed it into your existing web page using javascript.
 
-=== "Ask Question"
+=== "Select Files"
 
-    ![File In Progress](/assets/images/tutorial/question-1.png)
+    Select files to build chatbot and click next
+    ![Select Files](/assets/images/tutorial/chatbot-build-select-files.png)
 
-=== "Get Response"
+=== "Enter Bot Description and Greeting Message"
 
-    ![File In Progress](/assets/images/tutorial/response-1.png)
+    You can provide a description on how the chatbot should be behave and include a greeting for the user. To customize the avatar, include a image url as well.
+    ![Select Files](/assets/images/tutorial/chatbot-build-description.png)
 
-=== "Check Reference"
+=== "Publish Chatbot"
 
-    ![File In Progress](/assets/images/tutorial/reference-1.png)
+    To publish your chatbot, check the "Go Live" option and save.
+    ![Select Files](/assets/images/tutorial/chatbot-build-publish.png)
 
-## 6. Try More
+## 4. Get Answers
+
+Once you have published your chatbot, you can copy the url and test it out on your browser. If everything tests all right, let's start serving your customers/members with your bot!
+
+![Select Files](/assets/images/tutorial/chatbot-build-deployed.png)
+
+## 5. Try More
 
 If you like to learn more advance features, please continue our guide for [How To Guide](/guide/)
