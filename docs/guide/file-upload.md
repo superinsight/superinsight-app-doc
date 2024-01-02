@@ -1,11 +1,12 @@
 # Upload a File
 
-For the purpose of this tutorial, we have prepared a [Sample PDF File](../assets/files/tutorial/tutorial.pdf){: title="Download this Sample PDF File before continuing" target="\_blank"} here for you download so you can upload to your new folder. Once a file is uploaded, you will see a pending icon next to your file, behind the scence Superinsight to processing all the contents in your file and is helping you to build your knowledge base. Depending on how big your files are, this process can take a few minutes to up to an hour.
+Select the folder you want to upload the file to. After file is uploaded, you will see a pending icon next to your file. Behind the scenes, Superinsight is processing all the contents in your file and helping you to build your knowledge base. Depending on how big your files are, this process can take a few minutes to up to an hour.
+
 Once the file is ready, as shown in the screenshots below, you can continue to the next step.
 
 !!! note "Supported File Types"
 
-    Superinsight supports TXT, PDF, DOC, DOCX, MP3, MP4, M4A, CSV, XLSX and XLS files.
+    Superinsight supports txt, pdf, doc, docx, mp3, mp4, m4a, csv, xlsx and xls files.
 
 === "Upload File"
 

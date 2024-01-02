@@ -10,10 +10,14 @@ nav:
   - Quickstart: quickstart.md
   - How To Guide:
     - Guide: guide/index.md
-    - Start Conversation: guide/new-conversation.md
-    - Create Folder: guide/folder-create.md
-    - Upload File: guide/file-upload.md
-    - View History: guide/history.md
+    - Cases:
+      - Manage Contact: guide/case-contact.md
+      - Veteran File: guide/case-files.md
+    - Research: 
+      - Start Conversation: guide/new-conversation.md
+      - Create Folder: guide/folder-create.md
+      - Upload File: guide/file-upload.md
+      - View History: guide/history.md
   - Login To App: https://app.superinsight.me
   - Official Website: https://www.superinsight.ai
   - Privacy Policy: guide/privacy-policy.md
