@@ -140,6 +140,6 @@ This Batch Arbitration provision shall in no way be interpreted as authorizing a
 
 Address: 1259 El Camino Real #1111 Menlo Park, California 94025<br>Email: help@superinsight.ai
 
-Last Updated: This Terms of Use was last updated on August 22ed, 2023.
+Last Updated: This Terms of Use was last updated on March 5th, 2024.
 
-© 2023 All rights reserved by Superinsight
+© 2024 All rights reserved by Superinsight
