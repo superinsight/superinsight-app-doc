@@ -4,12 +4,9 @@ Superinsight is a cutting-edge intelligence tool designed to streamline the VA c
 
 Learn more about Superinsight with the following How To Guide.
 
-| How To                                       | Overview                       |
-| ---------------------------------            | ------------------------------ |
-| [Manage Contact](case-contact.md)            | Add a new contact              |
-| [Veteran File](case-files.md)                | Manage cases relevant files    |
-| [Start Conversation](new-conversation.md)    | Start a new conversation       |
-| [Create Folder](folder-create.md)            | Create folder                  |
-| [Upload File](file-upload.md)                | Upload file                    |
-| [View History](history.md)                   | Load your history chat         |
-
+| How To                                       | Overview                           |
+| ---------------------------------            | ---------------------------------- |
+| [Manage Contact](case-contact.md)            | Add a new contact                  |
+| [Create Folder](case-folder.md)              | Create a new folder                |
+| [Upload File](case-files.md)                 | Manage cases relevant files        |
+| [Generate Report](case-report.md)            | Generate report from selected file |
