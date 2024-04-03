@@ -1,4 +1,6 @@
-# Build a Report
+# Manage Report
+
+## 1. Build a Report
 
 Besides real-time file analysis, Superinsight allows you to select multiple files and generate a complex report that helps you significantly reduce time you spend on reading tons of paper and get your claim way more efficiently.
 
@@ -35,3 +37,17 @@ If you check the report, you will see the elaborate table of contents and list o
 You can download your report in PDF format. Superinsight will combine the report and the original files so that you can easily find the critical evidence after you click on the table of contents we provided, and we will add the bookmarks for you as well.
 
 ![Download Report](../assets/images/tutorial/report-pdf.png)
+
+## 2. Delete Reports
+
+In the "Report Tab", you can see all the reports are listed here and every report has a "Delete Report" button.
+
+You can easily delete any report by clicking the button and confirm.
+
+=== "Delete Report Button"
+
+    ![Delete Report](../assets/images/tutorial/delete-report-1.png)
+
+=== "Confirm Delete"
+
+    ![Confirm Delete](../assets/images/tutorial/delete-report-2.png)
