@@ -1,4 +1,6 @@
-# Upload File
+# Manage File
+
+## 1. Upload Files
 
 Depending on the purpose, you can upload files that can help your legal claims to the folders you created after you click into the folder level.
 
@@ -25,3 +27,15 @@ Once your file is ready, you can click on it and preview it in our viewer. Meanw
 === "File Analysis"
 
     ![Get Analysis](../assets/images/tutorial/doc-analysis.png)
+
+## 2. Delete Files
+
+If you need to delete files, click the file and get into file preview and you will see the "Delete File" button in the navigation on left. Click the button and confirm the deletion to remove the file.
+
+=== "Delete File Button"
+
+    ![Delete File](../assets/images/tutorial/delete-file-1.png)
+
+=== "Confirm Delete"
+
+    ![Confirm Delete](../assets/images/tutorial/delete-file-2.png)

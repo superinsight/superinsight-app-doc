@@ -11,9 +11,10 @@ nav:
   - How To Guide:
     - Guide: guide/index.md
     - Manage Contact: guide/case-contact.md
-    - Create Folder: guide/case-folder.md
-    - Upload File: guide/case-files.md
-    - Generate Report: guide/case-report.md
+    - Manage Folder: guide/case-folder.md
+    - Manage File: guide/case-files.md
+    - Manage Report: guide/case-report.md
+    - Setting Menu: guide/menu.md
   - Release Notes: guide/release-notes.md
   - Login To App: https://app.superinsight.me
   - Official Website: https://www.superinsight.ai

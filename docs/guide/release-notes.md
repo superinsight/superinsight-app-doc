@@ -6,6 +6,16 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
+#### April 3, 2024 Released
+
+* We added delete guides in tutorial of managing cases, folders, files and reports.
+
+* Added guide for setting menu.
+
+* System optimized.
+
+---------------------------------------
+
 #### February 25, 2024 Released
 
 * We added new function tab ***"Reports"***! Now you can find all of your reports here.
