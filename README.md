@@ -16,4 +16,7 @@ mv public ../
 git checkout gh-pages
 cp -R ../public/ ./
 rm -rf ../public
+git add .
+git commit -m "xxxxxx"
+git push
 ```
