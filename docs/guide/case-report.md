@@ -6,29 +6,45 @@ Besides real-time file analysis, Superinsight allows you to select multiple file
 
 Simply click on the "Build Report" button on the left and select all the files you want to be included in reports Superinsight supported. Before you submit to generate, make sure your file list is correct!
 
-=== "Click to Build"
+![Build a Report](../assets/images/tutorial/build-report.png)
 
-    ![Build a Report](../assets/images/tutorial/build-report.png)
+Select the report types that you want to build. Now we offer 3 types of report, including:
 
-=== "Select Report Type"
+* Veteran Disability
+* Social Security Disability
+* Mass Tort.
 
-    ![Select Report Type](../assets/images/tutorial/report-type.png)
+=== "Veteran Disability"
 
-=== "Select Files"
+    ![Veteran Disability](../assets/images/tutorial/report-type-va.png)
 
-    ![Select Files](../assets/images/tutorial/select-file.png)
+=== "Social Security Disability"
 
-=== "Confirm & Submit"
+    ![Social Security Disability](../assets/images/tutorial/report-type-ssd.png)
 
-    ![Confirm & Submit](../assets/images/tutorial/submit-file.png)
+=== "Mass Tort"
+
+    ![Mass Tort](../assets/images/tutorial/report-type-mt.png)
+
+Select files you want to include in the report.
+
+![Select Files](../assets/images/tutorial/select-file.png)
+
+Confirm all your selections and submit.
+
+![Confirm & Submit](../assets/images/tutorial/submit-file.png)
 
 After files are submitted, you will see the unclickable report in the "Reports" tab building behind the scenes. Once it is complete, it will turn black with the download icon, and you can check your reports anytime you want.
 
-If you check the report, you will see the elaborate table of contents and list of points you need.
+If you check the report, you will see the elaborate summary to help you find all the key evidence you need. To your preference, you can switch to the table of contents view as well.
 
 === "Report List"
 
     ![Report List](../assets/images/tutorial/report-list.png)
+
+=== "Summary"
+
+    ![Report Summary](../assets/images/tutorial/report-summary.png)
 
 === "Table of Content"
 
@@ -38,7 +54,13 @@ You can download your report in PDF format. Superinsight will combine the report
 
 ![Download Report](../assets/images/tutorial/report-pdf.png)
 
-## 2. Delete Reports
+## 2. Search Reports
+
+You may build a report with dozens of documents and it will take lots of time to find all the relevant information in a report with thousands of pages. With the search function, we can pick all the key points in seconds for you. Learn more about [Search](../guide/search.md)
+
+![Search Reports](../assets/images/tutorial/search-reports.png)
+
+## 3. Delete Reports
 
 In the "Report Tab", you can see all the reports are listed here and every report has a "Delete Report" button.
 

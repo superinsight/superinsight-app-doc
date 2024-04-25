@@ -10,4 +10,5 @@ Learn more about Superinsight with the following How To Guide.
 | [Manage Folder](case-folder.md)              | Add, modify & delete your folders   |
 | [Manage File](case-files.md)                 | Manage cases relevant files         |
 | [Manage Report](case-report.md)              | Generate report from selected file  |
+| [Search](search.md)                          | Quick search for info you need      |
 | [Setting Menu](menu.md)                      | Check your billing and find support |
