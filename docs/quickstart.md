@@ -3,7 +3,7 @@
 This is a quickstart guide on how to use Superinsight.
 You will learn how to create your knowledge base of case contacts and how to discover insights from your daily massive and messy documentation even hand-written files like medical reports.
 
-If you don't have an account yet, sign up [for access](https://app.superinsight.me) here.
+If you don't have an account yet, sign up [for access](https://www.superinsight.ai/trial) here.
 
 ## 1. Start a New Case
 
