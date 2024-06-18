@@ -6,7 +6,13 @@ Superinsight offers a powerful search feature for different demands. Let's dive 
 
 You can find the search bar at the top of the case contacts list. Type in the name of the contact you are looking for, and Superinsight will find him/her immediately.
 
-![Search Cases](../assets/images/tutorial/search-cases.png)
+If you have cases shared by your co-worker, you can quickly find the contact with the filter as well.
+
+=== "Search Cases"
+    ![Search Cases](../assets/images/tutorial/search-cases.png)
+
+=== "Filter Cases"
+    ![Filter Cases](../assets/images/tutorial/filter-cases.png)
 
 ## 2. Search Documents
 
