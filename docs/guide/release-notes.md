@@ -6,11 +6,25 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
+#### June 18, 2024 Released
+
+* File auto-labeling & label filter feature out now.
+
+* New report types added.
+
+* New report format added.
+
+* Improved the results of reports.
+
+* System optimized.
+
+---------------------------------------
+
 #### April 25, 2024 Released
 
 * We added a new guide for the search function.
 
-* New report types added
+* New report types added.
 
 * Updated guide for building reports and searching reports.
 
