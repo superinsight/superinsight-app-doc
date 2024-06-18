@@ -11,10 +11,6 @@
         <link rel="canonical" href="https://docs.superinsight.me/guide/folder-share/">
       
       
-        <link rel="prev" href="../setting-manage/">
-      
-      
-        <link rel="next" href="../file-upload/">
       
       
       <link rel="icon" href="../../assets/images/favicon.png">
@@ -48,6 +44,8 @@
       
     
     
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -73,7 +71,7 @@
     
     
     
-    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="indigo">
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="indigo">
   
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
@@ -100,7 +98,7 @@
   <nav class="md-header__inner md-grid" aria-label="Header">
     <a href="../.." title="Superinsight Documentation" class="md-header__button md-logo" aria-label="Superinsight Documentation" data-md-component="logo">
       
-  <img src="../../assets/images/superinsight/logo_white.png" alt="logo">
+  <img src="../../assets/images/superinsight/empty.png" alt="logo">
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
@@ -157,7 +155,7 @@
   <label class="md-nav__title" for="__drawer">
     <a href="../.." title="Superinsight Documentation" class="md-nav__button md-logo" aria-label="Superinsight Documentation" data-md-component="logo">
       
-  <img src="../../assets/images/superinsight/logo_white.png" alt="logo">
+  <img src="../../assets/images/superinsight/empty.png" alt="logo">
 
     </a>
     Superinsight Documentation
@@ -209,19 +207,17 @@
       
   
   
-    
   
   
-  
     
     
     
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
         
           
           <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
@@ -235,7 +231,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_3">
             <span class="md-nav__icon md-icon"></span>
             How To Guide
@@ -270,11 +266,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../file-link/" class="md-nav__link">
+      <a href="../case-contact/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Add Web Page
+    Manage Contact
   </span>
   
 
@@ -291,11 +287,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../chatbot-build/" class="md-nav__link">
+      <a href="../case-folder/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Build Chatbot
+    Manage Folder
   </span>
   
 
@@ -312,11 +308,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../folder-create/" class="md-nav__link">
+      <a href="../case-files/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Create Folder
+    Manage File
   </span>
   
 
@@ -333,103 +329,15 @@
   
   
     <li class="md-nav__item">
-      <a href="../setting-manage/" class="md-nav__link">
+      <a href="../case-report/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Manage Setting
+    Manage Report
   </span>
   
 
       </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-    
-  
-  
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          
-  
-  <span class="md-ellipsis">
-    Share Folder
-  </span>
-  
-
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
-        
-  
-  <span class="md-ellipsis">
-    Share Folder
-  </span>
-  
-
-      </a>
-      
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#1-select-folder-to-share" class="md-nav__link">
-    <span class="md-ellipsis">
-      1. Select Folder To Share
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#2-request-target-user-id" class="md-nav__link">
-    <span class="md-ellipsis">
-      2. Request Target User id
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#3-share-folder-to-user" class="md-nav__link">
-    <span class="md-ellipsis">
-      3. Share Folder To User"
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-      
     </li>
   
 
@@ -442,11 +350,32 @@
   
   
     <li class="md-nav__item">
-      <a href="../file-upload/" class="md-nav__link">
+      <a href="../search/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Upload File
+    Search
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../menu/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Setting Menu
   </span>
   
 
@@ -459,6 +388,26 @@
           </ul>
         </nav>
       
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../release-notes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Release Notes
+  </span>
+  
+
+      </a>
     </li>
   
 
@@ -495,6 +444,46 @@
   
   <span class="md-ellipsis">
     Official Website
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../privacy-policy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Privacy Policy
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../terms-of-use/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Terms of Use
   </span>
   
 
@@ -575,17 +564,17 @@
 <p>You can create a new folder by clicking the "Sharing" button on the left navigation. You will need to add the user id for the people you are sharing with. They must have an existing Superinsight account and they can get their user id from the account tab on the top right navigation tab.</p>
 <h2 id="1-select-folder-to-share">1. Select Folder To Share</h2>
 <p>Select a folder to share with another Superinsight account or group
-<img alt="Upload File To Folder" src="/assets/images/tutorial/share-folder.png" /></p>
+<img alt="Upload File To Folder" src="../../assets/images/tutorial/share-folder.png" /></p>
 <h2 id="2-request-target-user-id">2. Request Target User id</h2>
 <p>Add the user or group id that you want to share your folder with.</p>
 <div class="admonition note">
 <p class="admonition-title">Sharing User ID or Group ID</p>
 <p>It is important to note that you will need to request the person you are sharing with to provide their user id must already have an existing Superinsight account. If you account is under an organization, you can share to the entire organization as well by providing your organization id.</p>
 </div>
-<p><img alt="Getting Their User Id" src="/assets/images/tutorial/account-user-id.png" /></p>
+<p><img alt="Getting Their User Id" src="../../assets/images/tutorial/account-user-id.png" /></p>
 <h2 id="3-share-folder-to-user">3. Share Folder To User"</h2>
 <p>Add or Remove and User ID or Group ID as you see fit. Submit when you are done.</p>
-<p><img alt="File In Progress" src="/assets/images/tutorial/share-folder-submit.png" /></p>
+<p><img alt="File In Progress" src="../../assets/images/tutorial/share-folder-submit.png" /></p>
 
 
 
