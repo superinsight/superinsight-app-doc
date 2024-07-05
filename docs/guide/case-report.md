@@ -8,24 +8,32 @@ Simply click on the "Build Report" button on the left and select all the files y
 
 ![Build a Report](../assets/images/tutorial/build-report.png)
 
-Select the report types that you want to build. Now we offer 3 types of report, including:
+Select the report types that you want to build. Now we offer 4 types of report, including:
 
 * Veteran Disability
 * Social Security Disability
 * Mass Tort.
 * Personal Injury
 
+!!! TIP
+    Feel free to [contact us](mailto:help@superinsight.ai) if you need any other reports we're not supporting yet. We'd love to discuss that!
+
 === "Veteran Disability"
+    CFile report covers all the information you need while helping veterans, including deep analysis of Rating Decisions, Service Treatment Records & Post Service Medical Records.
     ![Veteran Disability](../assets/images/tutorial/report-type-va.png)
 
 === "Social Security Disability"
+    Find key points that impact claimants' work performance according to objective analysis provided by physicians.
     ![Social Security Disability](../assets/images/tutorial/report-type-ssd.png)
 
 === "Mass Tort"
+    Uncover medical conditions that are related to Camp Lejeune & Water Contamination.
     ![Mass Tort](../assets/images/tutorial/report-type-mt.png)
 
 === "Personal Injury"
+    Reveal various medical procedures and provides corresponding CPT codes.
     ![Personal Injury](../assets/images/tutorial/report-type-pi.png)
+
 
 Select files you want to include in the report. And of course, you can filter certain labels to find the files you need more efficiently.
 
