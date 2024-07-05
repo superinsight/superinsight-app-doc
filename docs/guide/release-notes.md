@@ -6,6 +6,18 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
+#### July 5, 2024 Released
+
+* New report types added.
+
+* Breadcrumbs added the number of files.
+
+* Improved the results of reports.
+
+* System optimized.
+
+---------------------------------------
+
 #### June 18, 2024 Released
 
 * File auto-labeling & label filter feature out now.

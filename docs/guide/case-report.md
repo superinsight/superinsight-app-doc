@@ -23,12 +23,15 @@ Select the report types that you want to build. Now we offer 4 types of report, 
     ![Veteran Disability](../assets/images/tutorial/report-type-va.png)
 
 === "Social Security Disability"
+    Find key points that impact claimants' work performance according to objective analysis provided by physicians.
     ![Social Security Disability](../assets/images/tutorial/report-type-ssd.png)
 
 === "Mass Tort"
+    Uncover medical conditions that are related to Camp Lejeune & Water Contamination.
     ![Mass Tort](../assets/images/tutorial/report-type-mt.png)
 
 === "Personal Injury"
+    Reveal various medical procedures and provides corresponding CPT codes.
     ![Personal Injury](../assets/images/tutorial/report-type-pi.png)
 
 

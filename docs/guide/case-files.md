@@ -5,7 +5,6 @@
 Depending on the purpose, you can upload files that can help your legal claims to the folders you created after you click into the folder level.
 
 !!! TIP
-
     Now we support zip file upload! You can compress multiple files as one zip file and upload them at once. The maximum file size is 10GB.
 
 After files are uploaded, you will see them in the folder with a red color processing icon on right and the file can not be clicked on. Behind the scenes, Superinsight is processing all the contents in your files. Depending on how large your files are, this process can take a few minutes to hours.
@@ -35,17 +34,14 @@ Besides auto-labeling, you can also add or remove labels from the files by deman
 
 === "Manage Labels"
     Click on the black icon to manage labels on this file.
-
     ![Manage Labels](../assets/images/tutorial/manage-labels.png)
 
 === "Add New Labels"
     You can assign existing labels to the files or create new labels by clicking + icon on left.
-
     ![Create Labels](../assets/images/tutorial/add-labels.png)
 
 === "Filter by Labels"
     Click on the filter icon and choose what labels you want to show.
-    
     ![Filter Labels](../assets/images/tutorial/filter-labels.png)
 
 ## 3. Delete Files
