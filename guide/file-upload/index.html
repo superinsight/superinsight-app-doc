@@ -11,28 +11,26 @@
         <link rel="canonical" href="https://docs.superinsight.me/guide/file-upload/">
       
       
+        <link rel="prev" href="../folder-share/">
       
       
       <link rel="icon" href="../../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.27">
+      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.15">
     
     
       
-        <title>Upload a File - Superinsight Documentation</title>
+        <title>Upload File - Superinsight Documentation</title>
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/main.6543a935.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/main.26e3688c.min.css">
       
         
-        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ecc896b0.min.css">
       
       
 
-
     
-    
-      
     
     
       
@@ -44,8 +42,6 @@
       
     
     
-      <link rel="stylesheet" href="../../stylesheets/extra.css">
-    
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -55,7 +51,9 @@
   
   
 
-<script id="__analytics">function __md_analytics(){function n(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],n("js",new Date),n("config","G-B69XP516VZ"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){this.value&&n("event","search",{search_term:this.value})}),document$.subscribe(function(){var a=document.forms.feedback;if(void 0!==a)for(var e of a.querySelectorAll("[type=submit]"))e.addEventListener("click",function(e){e.preventDefault();var t=document.location.pathname,e=this.getAttribute("data-md-value");n("event","feedback",{page:t,data:e}),a.firstElementChild.disabled=!0;e=a.querySelector(".md-feedback__note [data-md-value='"+e+"']");e&&(e.hidden=!1)}),a.hidden=!1}),location$.subscribe(function(e){n("config","G-B69XP516VZ",{page_path:e.pathname})})});var e=document.createElement("script");e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=G-B69XP516VZ",document.getElementById("__analytics").insertAdjacentElement("afterEnd",e)}</script>
+
+  <script id="__analytics">function __md_analytics(){function n(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],n("js",new Date),n("config","G-B69XP516VZ"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){this.value&&n("event","search",{search_term:this.value})}),document$.subscribe(function(){var a=document.forms.feedback;if(void 0!==a)for(var e of a.querySelectorAll("[type=submit]"))e.addEventListener("click",function(e){e.preventDefault();var t=document.location.pathname,e=this.getAttribute("data-md-value");n("event","feedback",{page:t,data:e}),a.firstElementChild.disabled=!0;e=a.querySelector(".md-feedback__note [data-md-value='"+e+"']");e&&(e.hidden=!1)}),a.hidden=!1}),location$.subscribe(function(e){n("config","G-B69XP516VZ",{page_path:e.pathname})})});var e=document.createElement("script");e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=G-B69XP516VZ",document.getElementById("__analytics").insertAdjacentElement("afterEnd",e)}</script>
+
   
     <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
   
@@ -71,8 +69,9 @@
     
     
     
-    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="indigo">
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="indigo">
   
+    
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
@@ -98,11 +97,10 @@
   <nav class="md-header__inner md-grid" aria-label="Header">
     <a href="../.." title="Superinsight Documentation" class="md-header__button md-logo" aria-label="Superinsight Documentation" data-md-component="logo">
       
-  <img src="../../assets/images/superinsight/empty.png" alt="logo">
+  <img src="../../assets/images/superinsight/logo_white.png" alt="logo">
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
-      
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
     </label>
     <div class="md-header__title" data-md-component="header-title">
@@ -115,7 +113,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Upload a File
+              Upload File
             
           </span>
         </div>
@@ -123,7 +121,6 @@
     </div>
     
       
-    
     
     
     
@@ -150,12 +147,11 @@
                     
 
 
-
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
     <a href="../.." title="Superinsight Documentation" class="md-nav__button md-logo" aria-label="Superinsight Documentation" data-md-component="logo">
       
-  <img src="../../assets/images/superinsight/empty.png" alt="logo">
+  <img src="../../assets/images/superinsight/logo_white.png" alt="logo">
 
     </a>
     Superinsight Documentation
@@ -165,19 +161,14 @@
     
       
       
-  
+      
+
   
   
   
     <li class="md-nav__item">
       <a href="../.." class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    What is Superinsight
-  </span>
-  
-
+        What is Superinsight
       </a>
     </li>
   
@@ -185,19 +176,14 @@
     
       
       
-  
+      
+
   
   
   
     <li class="md-nav__item">
       <a href="../../quickstart/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Quickstart
-  </span>
-  
-
+        Quickstart
       </a>
     </li>
   
@@ -205,228 +191,159 @@
     
       
       
-  
-  
-  
-  
-    
-    
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
       
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
-        
-          
-          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
-            
-  
-  <span class="md-ellipsis">
-    How To Guide
-  </span>
-  
 
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_3">
-            <span class="md-nav__icon md-icon"></span>
-            How To Guide
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+          How To Guide
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          How To Guide
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
             
               
-                
-  
   
   
   
     <li class="md-nav__item">
       <a href="../" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Guide
-  </span>
-  
-
+        Guide
       </a>
     </li>
   
 
-              
+            
+          
             
               
-                
-  
   
   
   
     <li class="md-nav__item">
-      <a href="../case-contact/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Manage Contact
-  </span>
-  
-
+      <a href="../file-link/" class="md-nav__link">
+        Add Web Page
       </a>
     </li>
   
 
-              
+            
+          
             
               
-                
-  
   
   
   
     <li class="md-nav__item">
-      <a href="../case-folder/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Manage Folder
-  </span>
-  
-
+      <a href="../chatbot-build/" class="md-nav__link">
+        Build Chatbot
       </a>
     </li>
   
 
-              
+            
+          
             
               
-                
-  
   
   
   
     <li class="md-nav__item">
-      <a href="../case-files/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Manage File
-  </span>
-  
-
+      <a href="../folder-create/" class="md-nav__link">
+        Create Folder
       </a>
     </li>
   
 
-              
+            
+          
             
               
-                
-  
   
   
   
     <li class="md-nav__item">
-      <a href="../case-report/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Manage Report
-  </span>
-  
-
+      <a href="../setting-manage/" class="md-nav__link">
+        Manage Setting
       </a>
     </li>
   
 
-              
+            
+          
             
               
-                
-  
   
   
   
     <li class="md-nav__item">
-      <a href="../search/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Search
-  </span>
-  
-
+      <a href="../folder-share/" class="md-nav__link">
+        Share Folder
       </a>
     </li>
   
 
-              
+            
+          
             
               
-                
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../menu/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Setting Menu
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
+    <li class="md-nav__item md-nav__item--active">
       
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Upload File
+      </a>
+      
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
     </li>
   
 
     
       
       
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../release-notes/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Release Notes
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-    
       
-      
-  
+
   
   
   
     <li class="md-nav__item">
       <a href="https://app.superinsight.me" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Login To App
-  </span>
-  
-
+        Login To App
       </a>
     </li>
   
@@ -434,59 +351,14 @@
     
       
       
-  
+      
+
   
   
   
     <li class="md-nav__item">
       <a href="https://www.superinsight.ai" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Official Website
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../privacy-policy/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Privacy Policy
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../terms-of-use/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Terms of Use
-  </span>
-  
-
+        Official Website
       </a>
     </li>
   
@@ -526,32 +398,25 @@
 
 
 <h1 id="upload-a-file">Upload a File</h1>
-<p>Select the folder you want to upload the file to. After file is uploaded, you will see a pending icon next to your file. Behind the scenes, Superinsight is processing all the contents in your file and helping you to build your knowledge base. Depending on how big your files are, this process can take a few minutes to up to an hour.</p>
-<p>Once the file is ready, as shown in the screenshots below, you can continue to the next step.</p>
+<p>For the purpose of this tutorial, we have prepared a <a href="/assets/files/tutorial/tutorial.pdf" target="_blank" title="Download this Sample PDF File before continuing">Sample PDF File</a> here for you download so you can upload to your new folder. Once a file is uploaded, you will see a pending icon next to yiur file, behind the scence Superinsight to processing all the contents in your file and is helping you to build your knowledge base. Depending on how big your files are, this process can take a few minutes to up to an hour.
+Once the file is ready, as shown in the screenshots below, you can continue to the next step.</p>
 <div class="admonition note">
 <p class="admonition-title">Supported File Types</p>
-<p>Superinsight supports txt, pdf, doc, docx, mp3, mp4, m4a, csv, xlsx and xls files.</p>
+<p>Superinsight supports TXT, PDF, DOC, DOCX, MP3, MP4 and M4A files.</p>
 </div>
 <div class="tabbed-set tabbed-alternate" data-tabs="1:3"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><input id="__tabbed_1_3" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1">Upload File</label><label for="__tabbed_1_2">File In Progress</label><label for="__tabbed_1_3">File Is Ready</label></div>
 <div class="tabbed-content">
 <div class="tabbed-block">
-<p><img alt="Upload File To Folder" src="../../assets/images/tutorial/upload-file-to-folder.png" /></p>
+<p><img alt="Upload File To Folder" src="/assets/images/tutorial/upload-file-to-folder.png" /></p>
 </div>
 <div class="tabbed-block">
-<p><img alt="File In Progress" src="../../assets/images/tutorial/file-pending.png" /></p>
+<p><img alt="File In Progress" src="/assets/images/tutorial/file-pending.png" /></p>
 </div>
 <div class="tabbed-block">
-<p><img alt="File In Progress" src="../../assets/images/tutorial/file-ready.png" /></p>
+<p><img alt="File In Progress" src="/assets/images/tutorial/file-ready.png" /></p>
 </div>
 </div>
 </div>
-
-
-
-
-
-
-
 
 
   
@@ -564,7 +429,6 @@
             </div>
           
           
-<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
         </div>
         
       </main>
@@ -587,11 +451,10 @@
       <div class="md-dialog__inner md-typeset"></div>
     </div>
     
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.208ed371.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
-    <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
-    
-      <script src="../../assets/javascripts/bundle.ad660dcc.min.js"></script>
+      <script src="../../assets/javascripts/bundle.b4d07000.min.js"></script>
       
     
   </body>

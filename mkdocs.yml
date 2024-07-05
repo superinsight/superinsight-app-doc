@@ -30,10 +30,8 @@ plugins:
   - i18n:
       default_language: en
       languages:
-        - en:
+        en:
           name: English
-          locale: en
-          default: true
           build: true
 extra:
   generator: false
