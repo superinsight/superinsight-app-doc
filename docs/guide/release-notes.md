@@ -6,6 +6,16 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
+#### August 19, 2024 Released
+
+* New version of Social Security Disability Report added.
+
+* Improved the results of reports.
+
+* System optimized.
+
+---------------------------------------
+
 #### July 5, 2024 Released
 
 * New report types added.
