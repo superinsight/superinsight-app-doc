@@ -30,12 +30,15 @@ markdown_extensions:
       alternate_style: true
   - tables
 plugins:
+  - search
+  - mkdocs-pdf
   - i18n:
-      default_language: en
       languages:
-        en:
-          name: English
-          build: true
+        - locale: en
+          name: "English"
+          bild: true
+          default: true
+      default_language: 'en'
 
 extra:
   generator: false
