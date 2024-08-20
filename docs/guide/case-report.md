@@ -17,6 +17,8 @@ Select the report types that you want to build. Now we offer 4 types of report, 
 
 !!! TIP
     Feel free to [contact us](mailto:help@superinsight.ai) if you need any other reports we're not supporting yet. We'd love to discuss that!
+    
+    If you need a sample report, please click [HERE](sample-report.md)
 
 === "Veteran Disability"
     CFile report covers all the information you need while helping veterans, including deep analysis of Rating Decisions, Service Treatment Records, Post Service Medical Records and more.
@@ -25,7 +27,6 @@ Select the report types that you want to build. Now we offer 4 types of report, 
 === "Social Security Disability"
     Summary key points of claimant information according to objective analysis provided by physicians. Such as severe impairments, imaging results, medication, medical chronology, etc.
     ![Social Security Disability](../assets/images/tutorial/report-type-ssd.png)
-    You can see the sample SSD report here ![here](../assets/files/tutorial/ssd-sample-report.pdf){type=application/pdf style="min-height:25vh;width:100%"}
 
 === "Mass Tort"
     Uncover medical conditions that are related to Camp Lejeune & Water Contamination.
