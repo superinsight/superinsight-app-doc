@@ -33,7 +33,7 @@ Select the report types that you want to build. Now we offer 4 types of report, 
     ![Mass Tort](../assets/images/tutorial/report-type-mt.png)
 
 === "Personal Injury"
-    Reveal various medical procedures and provides corresponding CPT codes.
+    Reveal various medical procedures and provides corresponding ICD codes.
     ![Personal Injury](../assets/images/tutorial/report-type-pi.png)
 
 

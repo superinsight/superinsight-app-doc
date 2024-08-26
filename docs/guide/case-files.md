@@ -41,7 +41,7 @@ Besides auto-labeling, you can also add or remove labels from the files by deman
     ![Create Labels](../assets/images/tutorial/add-labels.png)
 
 === "Filter by Labels"
-    Click on the filter icon and choose what labels you want to show.
+    Click on the filter icon and choose what labels you want to show. You can also use "Non-Labeled" to find all the non-labeled files.
     ![Filter Labels](../assets/images/tutorial/filter-labels.png)
 
 ## 3. Delete Files

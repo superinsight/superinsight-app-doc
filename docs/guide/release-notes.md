@@ -6,6 +6,22 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
+#### August 26, 2024 Released
+
+* New feature - File Sorting added
+
+* New feature - Case Sorting added
+
+* File Filter added a "Non-Labeled" option.
+
+* Personal Injury Report enhancement.
+
+* Improved the results of reports.
+
+* System optimized.
+
+---------------------------------------
+
 #### August 20, 2024 Released
 
 * New version of Social Security Disability Report added.
