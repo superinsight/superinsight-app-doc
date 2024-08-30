@@ -39,9 +39,8 @@ plugins:
       languages:
         - locale: en
           name: "English"
-          bild: true
+          build: true
           default: true
-      default_language: 'en'
 
 extra:
   generator: false
