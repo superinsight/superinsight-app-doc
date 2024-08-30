@@ -5,12 +5,17 @@
 Depending on the purpose, you can upload files that can help your legal claims to the folders you created after you click into the folder level.
 
 !!! TIP
-    Now we support zip file upload! You can compress multiple files as one zip file and upload them at once. The maximum file size is 10GB.
+    Now we support zip file upload! You can compress multiple files as one zip file and upload them at once. The maximum file size is 1GB.
+
+Click the upload button on the left and select the files to upload. Once you submit the files, you can see the uploading progress bar. If you have multiple files to upload and don't want to wait, you can also open a new tab to do your next upload.
 
 After files are uploaded, you will see them in the folder with a red color processing icon on right and the file can not be clicked on. Behind the scenes, Superinsight is processing all the contents in your files. Depending on how large your files are, this process can take a few minutes to hours.
 
 === "Click to Upload"
     ![Upload File To Folder](../assets/images/tutorial/case-file-upload.png)
+
+=== "Uploading File"
+    ![File uploading](../assets/images/tutorial/case-uploading-file.png)
 
 === "File In Progress"
     ![File In Progress](../assets/images/tutorial/cases-file-pending.png)

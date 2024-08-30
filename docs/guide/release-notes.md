@@ -6,6 +6,16 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
+#### August 30, 2024 Released
+
+* File upload process optimized.
+
+* Minor bugs fixed.
+
+* System optimized.
+
+---------------------------------------
+
 #### August 26, 2024 Released
 
 * New feature - File Sorting added
