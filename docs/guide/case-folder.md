@@ -2,9 +2,9 @@
 
 ## 1. Create Folders
 
-In the "Documents" tab, you can create your own folders based on the contacts and your workflow needs. 
+In the **Documents** tab, you can create your own folders based on the contacts and your workflow needs. 
 
-Click the "Create a New Folder" button on the left and give this folder an easily identified name.
+Click the **Create a New Folder** button on the left and give this folder an easily identified name.
 
 === "Create Folders"
 
@@ -16,7 +16,7 @@ Click the "Create a New Folder" button on the left and give this folder an easil
 
 ## 2. Delete Folders
 
-If you need to delete your folder, click into the folder and you will see the "Delete Folder" button in the navigation on left. Click the button and confirm the deletion to remove the folder.
+If you need to delete your folder, click into the folder and you will see the **Delete Folder** button in the navigation on left. Click the button and confirm the deletion to remove the folder.
 
 !!! Warning "NOTICE"
 

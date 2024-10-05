@@ -21,16 +21,10 @@ If you have cases shared by your co-worker, you can quickly find the contact wit
 
 In the Documents tab, you can also find the search bar. Type in the terms you're searching for, and then Superinsight will locate all the relevant information from thousands of your documents in seconds. Even precisely tell you which page of the documents.
 
-For now, your documents are sorted by update date. You can also sort them by file name, or label by clicking the column. If you need to find them descending, just click the column again.
+Your documents are sorted by update date by default. You can also sort them by file name, or label by clicking the column. If you need to find them descending, just click the column again
 
 === "Search Documents"
     ![Search Documents](../assets/images/tutorial/search-docs.png)
 
 === "Sort Documents"
     ![Sort Documents](../assets/images/tutorial/sort-docs.png)
-
-## 3. Search Reports
-
-You may build a report with dozens of documents and it will take lots of time to find all the relevant information in a report with thousands of pages. With the search function, we can pick all the key points in seconds for you.
-
-![Search Reports](../assets/images/tutorial/search-reports.png)

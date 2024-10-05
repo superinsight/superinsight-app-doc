@@ -6,6 +6,24 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
+#### October 4, 2024 Released
+
+* New feature - Change Mobile Phone Number.
+
+* Personal Injury Report enhancement.
+
+* App UI optimized.
+
+* File upload process optimized.
+
+* Minor bugs fixed.
+
+* System optimized.
+
+* Remove feature - Search Report.
+
+---------------------------------------
+
 #### August 30, 2024 Released
 
 * File upload process optimized.
