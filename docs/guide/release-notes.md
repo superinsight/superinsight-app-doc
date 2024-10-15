@@ -6,6 +6,18 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
+#### October 14, 2024 Released
+
+* Search feature optimized.
+
+* Minor bugs fixed.
+
+* Improved the results of reports.
+
+* System optimized.
+
+---------------------------------------
+
 #### October 4, 2024 Released
 
 * New feature - Change Mobile Phone Number.
