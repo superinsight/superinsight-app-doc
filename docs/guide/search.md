@@ -19,12 +19,17 @@ If you have cases shared by your co-worker, you can quickly find the contact wit
 
 ## 2. Search Documents
 
-In the Documents tab, you can also find the search bar. Type in the terms you're searching for, and then Superinsight will locate all the relevant information from thousands of your documents in seconds. Even precisely tell you which page of the documents.
+In the Documents tab, you can also find the search bar. Like Google Search, type in the terms or keywords you're looking for, and then Superinsight will locate all the relevant information from thousands of your files in seconds. Even precisely tell you which page of the files.
 
-Your documents are sorted by update date by default. You can also sort them by file name, or label by clicking the column. If you need to find them descending, just click the column again
+You can even search in one particular file and let Superinsight find all the pages that are relevant to your terms and keywords at once.
 
-=== "Search Documents"
-    ![Search Documents](../assets/images/tutorial/search-docs.png)
+Your files are sorted by update date by default. You can also sort them by file name, or label by clicking the column. If you need to find them descending, just click the column again.
 
-=== "Sort Documents"
+=== "Search in Folder"
+    ![Search in Folder](../assets/images/tutorial/search-docs.png)
+
+=== "Search in File"
+    ![Search in File](../assets/images/tutorial/search-file.png)
+
+=== "Sort Files"
     ![Sort Documents](../assets/images/tutorial/sort-docs.png)
