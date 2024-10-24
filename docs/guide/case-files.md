@@ -5,7 +5,7 @@
 Depending on the purpose, you can upload files that can help your legal claims to the folders you created after you click into the folder level.
 
 !!! TIP
-    Now we support zip file upload! You can compress multiple files as one zip file and upload them at once. The maximum file size is 1GB.
+    Now we support zip file upload! You can compress multiple files as one zip file and upload them at once. The maximum file size is 2GB.
 
 Click the upload button on the left and select the files to upload. Once you submit the files, you can see a little window at the right-down corner of the screen showing your file upload progress.
 
@@ -58,3 +58,36 @@ If you need to delete files, click the file and get into file preview and you wi
 
 === "Confirm Delete"
     ![Confirm Delete](../assets/images/tutorial/delete-file-2.png)
+
+## 4. Batch Management
+
+If you need to delete multiple files or add labels to multiple files at a time, Superinsight also provides a batch management function.
+
+Click on the dots icon beside the filter to enable the multi-select, then you can select all the files you need to do further management.
+
+=== "Advanced Actions"
+    ![Advanced Actions](../assets/images/tutorial/advanced-actions.png)
+
+=== "Select Multiple"
+    ![Select Multiple](../assets/images/tutorial/select-multiple.png)
+
+=== "Batch Manage"
+    ![Batch Manage](../assets/images/tutorial/batch-manage.png)
+
+**Batch Labeling**
+
+After you select all the files you want to add labels on, click on the dots icon again and choose "**Edit Labels**", then you'll see the batch label management window.
+
+In the batch label management window, you can add any existing labels to the files you selected as you want. You can also add labels to all the selected files with one drag and drop. And add new labels based on your need of course.
+
+=== "Edit Labels"
+    ![Edit Labels](../assets/images/tutorial/edit-labels.png)
+
+=== "Drag Labels to Add"
+    ![Add Labels](../assets/images/tutorial/drag-labels.png)
+
+=== "Create New Label"
+    ![New Label](../assets/images/tutorial/new-labels.png)
+
+=== "Save Changes"
+    ![Save Label Editing](../assets/images/tutorial/save-labels.png)

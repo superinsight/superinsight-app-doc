@@ -6,6 +6,22 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
+#### October 23, 2024 Released
+
+* Maximum upload file size increase to 2 GB.
+
+* Batch File Management feature added.
+
+* Email settings added.
+
+* Minor bugs fixed.
+
+* Improved the results of reports.
+
+* System optimized.
+
+---------------------------------------
+
 #### October 14, 2024 Released
 
 * Search feature optimized.
