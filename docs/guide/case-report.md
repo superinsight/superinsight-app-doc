@@ -20,6 +20,8 @@ Select the report types that you want to build. Now we offer 4 types of report, 
     
     If you need a sample report, please click [HERE](sample-report.md)
 
+Each report costs 1-5 credits, based on required resources. If you need extra credits, [contact us](mailto:help@superinsight.ai) to purchase **10 credits for $250** or **30 credits for $500**.
+
 === "Veteran Disability"
     CFile report covers all the information you need while helping veterans, including deep analysis of Rating Decisions, Service Treatment Records, Post Service Medical Records and more.
 
