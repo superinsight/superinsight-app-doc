@@ -6,6 +6,22 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
+#### November 11, 2024 Released
+
+* Credit System implemented
+
+* New Social Security Disability report type added.
+
+* Personal Injury Report enhancement.
+
+* Minor UI changed.
+
+* Improved the results of reports.
+
+* System optimized.
+
+---------------------------------------
+
 #### October 23, 2024 Released
 
 * Maximum upload file size increase to 2 GB.
