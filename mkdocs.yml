@@ -1,5 +1,5 @@
 site_name: Superinsight Documentation
-site_url: https://docs.superinsight.me
+site_url: https://docs.superinsight.me/
 theme:
   name: material
   logo: assets/images/superinsight/empty.png
@@ -35,7 +35,6 @@ markdown_extensions:
 plugins:
   - search
   - mkdocs-pdf
-  - jekyll-sitemap
   - i18n:
       languages:
         - locale: en
