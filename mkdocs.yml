@@ -35,6 +35,7 @@ markdown_extensions:
 plugins:
   - search
   - mkdocs-pdf
+  - jekyll-sitemap
   - i18n:
       languages:
         - locale: en
