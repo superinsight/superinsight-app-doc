@@ -35,12 +35,6 @@ markdown_extensions:
 plugins:
   - search
   - mkdocs-pdf
-  - i18n:
-      languages:
-        - locale: en
-          name: "English"
-          build: true
-          default: true
 
 extra:
   generator: false
