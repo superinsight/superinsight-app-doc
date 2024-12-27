@@ -51,13 +51,16 @@ Besides auto-labeling, you can also add or remove labels from the files by deman
 
 ## 3. Delete Files
 
-If you need to delete files, click the file and get into file preview and you will see the "Delete File" button in the navigation on left. Click the button and confirm the deletion to remove the file.
+If you need to delete files, click the "Delete File" button beside the file you want to delete or click the file and get into file preview and you will see the "Delete File" button in the navigation on left as well. Click the button and confirm the deletion to remove the file.
 
-=== "Delete File Button"
-    ![Delete File](../assets/images/tutorial/delete-file-1.png)
+=== "Delete in Folder"
+    ![Delete File in Folder Level](../assets/images/tutorial/delete-file-1.png)
+
+=== "Delete in Preview"
+    ![Delete File in Preview](../assets/images/tutorial/delete-file-2.png)
 
 === "Confirm Delete"
-    ![Confirm Delete](../assets/images/tutorial/delete-file-2.png)
+    ![Confirm Delete](../assets/images/tutorial/delete-file-3.png)
 
 ## 4. Batch Management
 
