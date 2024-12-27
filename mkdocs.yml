@@ -10,12 +10,13 @@ nav:
   - Quickstart: quickstart.md
   - How To Guide:
     - Guide: guide/index.md
-    - Manage Contact: guide/case-contact.md
+    - Manage Case: guide/case-contact.md
     - Manage Folder: guide/case-folder.md
     - Manage File: guide/case-files.md
     - Manage Report: guide/case-report.md
     - Search: guide/search.md
     - Setting Menu: guide/menu.md
+    - Share Case: guide/case-share.md
   - Release Notes: guide/release-notes.md
   - Login To App: https://app.superinsight.me
   - Official Website: https://www.superinsight.ai

@@ -1,12 +1,12 @@
-# Manage Contact
+# Manage Case
 
-## 1. Create Contacts
+## 1. Create Case
 
 Build up your case information before everything! Click **Start a New Case** or the **New Case** button in the navigation on left to add a new contact.
 
-Simply Fill in your contact's name and click **Create**. The contact list will shown on the left and you can easily switch contacts.
+Simply Fill in your claimant's name and click **Create**. The case list will shown on the left and you can easily switch from case to case.
 
-You can go to the **Contact** tab if you need to modify contact's personal info or even delete the contact.
+You can go to the **Contact** tab if you need to modify personal info of the case or even delete this case.
 
 
 === "New Case"
@@ -17,13 +17,13 @@ You can go to the **Contact** tab if you need to modify contact's personal info 
 
     ![File In Progress](../assets/images/tutorial/start-new-case-2.png)
 
-=== "Contact List"
+=== "Case List"
 
     ![File In Progress](../assets/images/tutorial/start-new-case-3.png)
 
-## 2. Delete Contacts
+## 2. Delete Case
 
-When you select the contacts that you want to remove from your contact list, you can see the **Delete Case** button in the navigation on left. Click the button and confirm the deletion to remove the contact.
+When you select the case that you want to remove from your case list, you can see the **Delete Case** button in the navigation on left. Click the button and confirm the deletion to remove the case.
 
 === "Delete Case Button"
     ![Delete Button](../assets/images/tutorial/delete-contact-1.png)

@@ -6,9 +6,31 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
+#### December 30, 2024 Released
+
+* Organization & Group mechanisms implemented.
+
+* New feature - Share Cases.
+
+* Notification Center added.
+
+* Show Information of subscription status and credit usages.
+
+* Veteran Disability Report enhancement.
+
+* Social Security Disability Report enhancement.
+
+* Personal Injury Report enhancement.
+
+* Improved the results of reports.
+
+* System optimized.
+
+---------------------------------------
+
 #### November 11, 2024 Released
 
-* Credit System implemented
+* Credit System implemented.
 
 * New Social Security Disability report type added.
 

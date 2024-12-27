@@ -7,7 +7,7 @@ If you don't have an account yet, sign up [for access](https://www.superinsight.
 
 ## 1. Start a New Case
 
-Build up your case information before everything, the first step is to add your contacts. Simply Fill in your contact's name and click **Create**.
+Build up your case information before everything, the first step is to add your contacts. Simply Fill in your contact's name and assign this contact to your organization, then click **Create**.
 
 === "New Case"
 
