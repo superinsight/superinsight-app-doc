@@ -6,7 +6,7 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
-#### December 30, 2024 Released
+#### January 4, 2024 Released
 
 * Organization & Group mechanisms implemented.
 
