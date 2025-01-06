@@ -9,7 +9,7 @@ You can find the burger menu in the right-up corner of the app UI. Here you can 
     ![Setting](../assets/images/tutorial/menu-2.png)
 
 
-## 1. Change Contact Info
+## Change Contact Info
 
 In some cases, you might need to change your contact information like mobile phone number and email address, which may affect your login. For security, Superinsight will verify your new mobile or email before actually using it to interact with the system. To change your contact information, please follow the steps below.
 
@@ -36,7 +36,7 @@ In some cases, you might need to change your contact information like mobile pho
 If you change your mobile number, your login number will also be changed after verified successfully. Please use your new number to login to Superinsight afterward.
 
 
-## 2. Manage Organization
+## Manage Organization
 
 The subscription for Superinsight is billed per organization, and payment is handled by the organization owner. Users are allowed to join multiple organizations but can only be the owner of one organization. If you want to manage your organization or view the information of the organizations you belong to, click on **Settings** in the Menu.
 
@@ -68,7 +68,7 @@ If you are a member of the organization, you can:
     ![Leave Organization](../assets/images/tutorial/org-leave.png)
 
 
-## 3. Manage Group
+## Manage Group
 
 You can create multiple groups according to your working scenarios and needs. You can also be invited into multiple groups. If you need to manage your groups, click on **Settings** in the Menu.
 
@@ -108,7 +108,7 @@ If you are a member of the group, you can:
     ![Leave Group](../assets/images/tutorial/group-leave.png)
 
 
-## 4. Check Your Current Credits
+## Check Your Current Credits
 
 In the **Credits**, you can see your current subscription status and remaining credits for this subscription period. 
 

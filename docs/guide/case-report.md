@@ -1,6 +1,6 @@
 # Manage Report
 
-## 1. Build a Report
+## Build a Report
 
 Besides real-time file analysis, Superinsight allows you to select multiple files and generate a complex report that helps you significantly reduce time you spend on reading tons of paper and get your claim way more efficiently.
 
@@ -67,7 +67,7 @@ You can download your report in either pdf or docx format. Superinsight will com
 
 ![Download Report](../assets/images/tutorial/report-pdf.png)
 
-## 2. Delete Reports
+## Delete Reports
 
 In the "Report Tab", you can see all the reports are listed here and every report has a "Delete Report" button.
 

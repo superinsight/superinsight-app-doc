@@ -1,6 +1,6 @@
 # Manage Folder
 
-## 1. Create Folders
+## Create Folders
 
 In the **Documents** tab, you can create your own folders based on the contacts and your workflow needs. 
 
@@ -14,7 +14,7 @@ Click the **Create a New Folder** button on the left and give this folder an eas
 
     ![Folder Name](../assets/images/tutorial/case-folder-2.png)
 
-## 2. Delete Folders
+## Delete Folders
 
 If you need to delete your folder, click into the folder and you will see the **Delete Folder** button in the navigation on left. Click the button and confirm the deletion to remove the folder.
 
