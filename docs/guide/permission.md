@@ -1,10 +1,10 @@
 # Access Permission Settings
 
-When you [share your cases](/guide/case-share), you might not want to share all the information about them. Superinsight provides flexibility in setting up access permissions for every single case. All the case has 3 parts of permission: **Documents**, **Reports**, and **Contact**. There are 2 places to set up your cases' access permission.
+When [sharing your cases](/guide/case-share), you may not want to disclose all their information. Superinsight offers flexible options to set access permissions for each case. Each case has three permission categories: **Documents**, **Reports**, and **Contact**. You can manage access permissions for your cases in two different locations.
 
 ## Single Case Access Permissions
 
-In the sharing list, you can find a gear icon next to each sharing recipient. You can use this icon to adjust the recipient's access permissions for this case.
+In the sharing list, you'll see a gear icon next to each recipient's name. Click this icon to adjust the access permissions for the case.
 
 You can set access permissions for the Documents, Reports, and Contact sections of this case. Each section can be configured with one of three permissions: **Write**, **Read**, or **None**.
 

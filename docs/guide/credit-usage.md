@@ -3,14 +3,14 @@
 Superinsight adopts the credit system which lets you more clearly manage your usage and distribute the resources where they are needed. This page provides a comprehensive overview of how our credit system works, ensuring you can easily manage your subscription and utilize our services efficiently.
 
 ## Subscription Plan
-Superinsight operates on a credits-based system, where users receive a monthly allocation of credits as part of their subscription plan. Below are 2 tiers of our subscription:
+Superinsight operates on a credit-based system, where users receive a monthly allocation of credits as part of their subscription plan. Below are 2 tiers of our subscription:
 
 --------------------
 **Starter - Credits: 6 / $250**
 <br>Ideal for firms that have a small to medium volume of cases.
 --------------------
 **Pro - Credits: 18 / $500**
-<br>Perfect for firms with high-volume needs.
+<br>Perfect for firms with high volume needs.
 --------------------
 
 Credits will be added to your account on the first day of your billing cycle and **expire after 30 days** if unused.
@@ -20,7 +20,6 @@ Credits will be added to your account on the first day of your billing cycle and
 Each of our reports requires a specific amount of credits. Here is the detailed breakdown:
 
 * *Veteran Disability - 2 credits*
-* *Veteran Disability(Lagacy) - 1 credit*
 * *Social Security Disability - 1 credit*
 * *Mass Tort - 1 credit*
 * *Personal Injury - 3 credits*
@@ -33,7 +32,7 @@ You can see credit cost per report while you're building it.
 
 In the **Menu** you can find **Credits**. Here you can see your current subscription status and remaining credits for this subscription period.
 
-We also show your credit usage here. You can clearly see the credits you and even the whole organization used in a certain period.
+We also display your credit usage here, allowing you to clearly see the credits used by you or your entire organization during a specific period.
 
 === "Credits"
     ![Credits in Menu](../assets/images/tutorial/credits.png)
@@ -43,7 +42,7 @@ We also show your credit usage here. You can clearly see the credits you and eve
 
 ## Increase Your Credits
 
-If you need more credits, you can click "**UPGRADE**" button in the credit section to upgrade your subscription plan or purchase extra credits for your reports.
+If you need more credits, click the "**UPGRADE**" button in the credits section to upgrade your subscription plan or purchase extra credits for your reports.
 
 ![Purchase Button](../assets/images/tutorial/purchase-button.png)
 
