@@ -1,6 +1,6 @@
 # Manage Case
 
-## 1. Create Case
+## Create Case
 
 Build up your case information before everything! Click **Start a New Case** or the **New Case** button in the navigation on left to add a new contact.
 
@@ -21,7 +21,7 @@ You can go to the **Contact** tab if you need to modify personal info of the cas
 
     ![File In Progress](../assets/images/tutorial/start-new-case-3.png)
 
-## 2. Delete Case
+## Delete Case
 
 When you select the case that you want to remove from your case list, you can see the **Delete Case** button in the navigation on left. Click the button and confirm the deletion to remove the case.
 

@@ -1,6 +1,6 @@
 # Manage File
 
-## 1. Upload Files
+## Upload Files
 
 Depending on the purpose, you can upload files that can help your legal claims to the folders you created after you click into the folder level.
 
@@ -31,7 +31,7 @@ Once your file is ready, you will see the black label icon on right and now you 
 === "File Analysis"
     ![Get Analysis](../assets/images/tutorial/doc-analysis.png)
 
-## 2. File Labeling
+## File Labeling
 
 During the file processing, your files would be auto-labeled as well. Superinsight categorizes all your files by type; with the filter, you can find certain files more easily.
 
@@ -49,7 +49,7 @@ Besides auto-labeling, you can also add or remove labels from the files by deman
     Click on the filter icon and choose what labels you want to show. You can also use "Non-Labeled" to find all the non-labeled files.
     ![Filter Labels](../assets/images/tutorial/filter-labels.png)
 
-## 3. Delete Files
+## Delete Files
 
 If you need to delete files, click the "Delete File" button beside the file you want to delete or click the file and get into file preview and you will see the "Delete File" button in the navigation on left as well. Click the button and confirm the deletion to remove the file.
 
@@ -62,7 +62,7 @@ If you need to delete files, click the "Delete File" button beside the file you 
 === "Confirm Delete"
     ![Confirm Delete](../assets/images/tutorial/delete-file-3.png)
 
-## 4. Batch Management
+## Batch Management
 
 If you need to delete multiple files or add labels to multiple files at a time, Superinsight also provides a batch management function.
 

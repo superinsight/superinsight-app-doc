@@ -5,7 +5,7 @@ Sometimes, you might need to share information about the case with your stakehol
 
 Now you can share your cases with every stakeholder who needs to read files and reports. Of course, you can share cases with your co-workers and let them build reports for the cases.
 
-## 1. Share Your Cases
+## Share Your Cases
 
 To share your cases, click on the "**Share**" button in the navigator on left or click the 3 dots "Action" button beside your cases' name.
 
@@ -29,7 +29,7 @@ You can set access permissions for the Documents, Reports, and Contact sections 
 
 ![Access Permission](../assets/images/tutorial/share-permission.png)
 
-## 2. Accept the Sharing
+## Accept the Sharing
 
 When someone shares cases with you via Email, you should receive an Email Invitation. In the meantime, your app notification will receive the invite as well.
 
@@ -50,7 +50,7 @@ After you accept the invitation, this case will be shown in your case list. You 
 === "Group Shared"
     ![Group Shared](../assets/images/tutorial/share-group.png)
 
-## 3. Disconnect the Sharing
+## Disconnect the Sharing
 
 When you don't need the shared cases anymore, you can click on the **Disconnect** button to remove them from your case list.
 
