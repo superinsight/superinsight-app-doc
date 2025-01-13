@@ -65,7 +65,7 @@ After files are submitted, you will see the unclickable report in the "Reports" 
 
 ## Download Reports
 
-You can download your report in **PDF**, **DOCS**, or **CSV** format depending on the type of report you built.
+You can download your report in **PDF**, **DOCX**, or **CSV** format depending on the type of report you built.
 
 ![Download Report](../assets/images/tutorial/report-download.png)
 
