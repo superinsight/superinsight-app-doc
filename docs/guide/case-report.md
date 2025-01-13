@@ -63,9 +63,21 @@ After files are submitted, you will see the unclickable report in the "Reports" 
 
 ![Report List](../assets/images/tutorial/report-list.png)
 
-You can download your report in either pdf or docx format. Superinsight will combine the report and the original files so that you can easily find the critical evidence after you click on the table of contents we provided, and we will add the bookmarks for you as well.
+## Download Reports
 
-![Download Report](../assets/images/tutorial/report-pdf.png)
+You can download your report in **PDF**, **DOCS**, or **CSV** format depending on the type of report you built.
+
+![Download Report](../assets/images/tutorial/report-download.png)
+
+In PDF format, Superinsight will combine the report and the original files so that you can easily find the critical evidence after you click on the table of contents we provided, and we will add the bookmarks for you as well.
+
+In CSV format, Superinsight lists all the impairment issues row by row so you can easily find them and link with the source documents.
+
+=== "PDF Report"
+    ![PDF Report](../assets/images/tutorial/report-pdf.png)
+
+=== "CSV Report"
+    ![CSV Report](../assets/images/tutorial/report-csv.png)
 
 ## Delete Reports
 
