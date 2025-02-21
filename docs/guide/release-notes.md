@@ -6,6 +6,22 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
+#### February 20, 2025 Released
+
+* Live Help feature added.
+
+* Support building reports with custom prompts.
+
+* Veteran Disability Report enhancement.
+
+* Social Security Disability Report enhancement.
+
+* Personal Injury Report enhancement.
+
+* System optimized.
+
+---------------------------------------
+
 #### January 13, 2025 Released
 
 * VA Cfile report supports download in CSV format.
