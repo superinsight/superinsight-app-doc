@@ -14,3 +14,8 @@ Learn more about Superinsight with the following How To Guide.
 | [Setting Menu](menu.md)                      | Check your billing and find support |
 | [Share Case](case-share.md)                  | Share your cases to stakeholders    |
 | [Access Permission](permission.md)           | Set up your cases' access permission|
+
+
+If you are still confused after this guide, feel free to contact us on our **Live Help**.
+
+![Live Help](../assets/images/tutorial/live-help.png)

@@ -4,16 +4,20 @@
 
 Besides real-time file analysis, Superinsight allows you to select multiple files and generate a complex report that helps you significantly reduce time you spend on reading tons of paper and get your claim way more efficiently.
 
-Simply click on the "Build Report" button on the left and select all the files you want to be included in reports Superinsight supported. Before you submit to generate, make sure your file list is correct!
+Simply click on the "Build Report" button on the left, choose the way you want to build, and select all the files you want to be included in reports that Superinsight supports. Before you submit to generate, make sure your file list is correct!
 
 ![Build a Report](../assets/images/tutorial/build-report.png)
 
-Select the report types that you want to build. Now we offer 4 types of report, including:
+Before you build the report, you can either choose the build-in options that Superinsight made for you or use your own prompts to generate the specific reports.
 
-* Veteran Disability
-* Social Security Disability
-* Mass Tort
+![Building Ways](../assets/images/tutorial/ways-to-build.png)
+
+Now we offer 4 types of report, including:
+
 * Personal Injury
+* Social Security Disability
+* Veteran Disability
+* Mass Tort (Build-in only)
 
 !!! TIP
     Feel free to [contact us](mailto:help@superinsight.ai) if you need any other reports we're not supporting yet. We'd love to discuss that!
@@ -22,25 +26,31 @@ Select the report types that you want to build. Now we offer 4 types of report, 
 
 Each report costs 1-5 credits, based on required resources. If you need extra credits, [contact us](mailto:help@superinsight.ai) to purchase **6 credits for $250** or **18 credits for $500**.
 
-=== "Veteran Disability"
-    CFile report covers all the information you need while helping veterans, including deep analysis of Rating Decisions, Service Treatment Records, Post Service Medical Records and more.
+If you choose **Build My Own Report**, each report type offers three templates that you can freely edit and customize with your own prompts based on your habits or scenarios.
 
-    ![Veteran Disability](../assets/images/tutorial/report-type-va.png)
+![Build My Own Report](../assets/images/tutorial/free-prompts.png)
+
+If you choose **Select From Build-in Options**, then you can select types of report by practice areas.
+
+=== "Personal Injury"
+    Reveal various medical procedures and provides corresponding ICD codes.
+    
+    ![Personal Injury](../assets/images/tutorial/report-type-pi.png)
 
 === "Social Security Disability"
     Summary key points of claimant information according to objective analysis provided by physicians. Such as severe impairments, imaging results, medication, medical chronology, etc.
 
     ![Social Security Disability](../assets/images/tutorial/report-type-ssd.png)
 
+=== "Veteran Disability"
+    CFile report covers all the information you need while helping veterans, including deep analysis of Rating Decisions, Service Treatment Records, Post Service Medical Records and more.
+
+    ![Veteran Disability](../assets/images/tutorial/report-type-va.png)
+
 === "Mass Tort"
     Uncover medical conditions that are related to Camp Lejeune & Water Contamination.
 
     ![Mass Tort](../assets/images/tutorial/report-type-mt.png)
-
-=== "Personal Injury"
-    Reveal various medical procedures and provides corresponding ICD codes.
-    
-    ![Personal Injury](../assets/images/tutorial/report-type-pi.png)
 
 
 Select files you want to include in the report. And of course, you can filter certain labels to find the files you need more efficiently.
@@ -51,13 +61,9 @@ Select files you want to include in the report. And of course, you can filter ce
 === "Filter Labels"
     ![Filter Labels](../assets/images/tutorial/report-filter-file.png)
 
-Confirm all your selections and submit. If you're building **Veteran Disability Report** please make sure you label all your files well.
+Confirm all your selections before you submit to build.
 
-=== "Confirm & Submit"
-    ![Confirm & Submit](../assets/images/tutorial/submit-file.png)
-
-=== "VA File Type Confirm"
-    ![File Type](../assets/images/tutorial/submit-file-va.png)
+![Confirm & Submit](../assets/images/tutorial/submit-file.png)
 
 After files are submitted, you will see the unclickable report in the "Reports" tab building behind the scenes. Once it is complete, it will turn black with the download icon, then you can download and check your reports anytime you want.
 
