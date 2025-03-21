@@ -1,38 +1,31 @@
 # Credits and Usage
 
-Superinsight adopts the credit system which lets you more clearly manage your usage and distribute the resources where they are needed. This page provides a comprehensive overview of how our credit system works, ensuring you can easily manage your subscription and utilize our services efficiently.
+Superinsight uses a **credit-based system** that helps you efficiently manage your usage and allocate resources where they are needed. This page provides an overview of how the credit system works, so you can easily track your subscription and make the most of our services.
 
 ## Subscription Plan
-Superinsight operates on a credit-based system, where users receive a monthly allocation of credits as part of their subscription plan. Below are 2 tiers of our subscription:
+Superinsight operates on a monthly credit allocation system based on your subscription plan. Below are the available tiers:
 
 --------------------
 **Starter - Credits: 6 / $250**
-<br>Ideal for firms that have a small to medium volume of cases.
+<br>Ideal for firms handling a small to medium volume of cases.
 --------------------
 **Pro - Credits: 18 / $500**
-<br>Perfect for firms with high volume needs.
+<br>Perfect for firms with high-volume needs.
 --------------------
 
-Credits will be added to your account on the first day of your billing cycle and **expire after 30 days** if unused.
+Credits are added to your account on the **first day of your billing cycle** and **expire after 30 days** if not used.
 
 ## Credits Cost per Report
 
-Each of our reports requires a specific amount of credits. Here is the detailed breakdown:
-
-* *Veteran Disability - 2 credits*
-* *Social Security Disability - 1 credit*
-* *Mass Tort - 1 credit*
-* *Personal Injury - 3 credits*
-
-You can see credit cost per report while you're building it.
+Each report requires a specific number of credits. You can view the credit cost while building your report.
 
 ![Report Credit](../assets/images/tutorial/report-credit.png)
 
 ## Check Your Usage
 
-In the **Menu** you can find **Credits**. Here you can see your current subscription status and remaining credits for this subscription period.
+In the **Menu**, navigate to **Credits** to check your subscription status and remaining credits for the current billing period.
 
-We also display your credit usage here, allowing you to clearly see the credits used by you or your entire organization during a specific period.
+You can also track credit usage, whether by yourself or your entire organization, over a specific time frame.
 
 === "Credits"
     ![Credits in Menu](../assets/images/tutorial/credits.png)
@@ -42,12 +35,12 @@ We also display your credit usage here, allowing you to clearly see the credits 
 
 ## Increase Your Credits
 
-If you need more credits, click the "**UPGRADE**" button in the credits section to upgrade your subscription plan or purchase extra credits for your reports.
+If you need additional credits, click the **"UPGRADE"** button in the credits section to either upgrade your subscription plan or purchase extra credits for reports.
 
 ![Purchase Button](../assets/images/tutorial/purchase-button.png)
 
-If your remaining credits haven't expired, they will automatically roll over to your new subscription plan.
+**Unused credits roll over** when you upgrade your subscription.
 
-For example, if your current subscription ends on January 31, 2025, and you have 4 credits left, upgrading to the Pro plan will give you a total of 22 credits (4 existing + 18 new) after completing the payment.
+For example, if your current subscription ends on January 31, 2025, and you have 4 remaining credits, upgrading to the Pro plan will give you a total of 22 credits (4 existing + 18 new) after payment.
 
-If you have any questions about our credits system, need assistance with your subscription, or encounter issues, please [contact our support team.](mailto:help@superinsight.ai)
+For any questions about our credit system, subscription assistance, or troubleshooting, please [contact our support team.](mailto:help@superinsight.ai)

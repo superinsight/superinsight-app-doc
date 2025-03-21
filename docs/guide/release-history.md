@@ -148,7 +148,7 @@ Previous release notes are listed here.
 
 * We added delete guides in tutorial of managing cases, folders, files and reports.
 
-* Added guide for setting menu.
+* Added guide for settings menu.
 
 * System optimized.
 

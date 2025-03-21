@@ -2,14 +2,14 @@
 
 ## Upload Files
 
-Depending on the purpose, you can upload files that can help your legal claims to the folders you created after you click into the folder level.
+Depending on the purpose, you can upload files that support your legal claims to the folders you have created after navigating to the folder level.
 
 !!! TIP
-    Now we support zip file upload! You can compress multiple files as one zip file and upload them at once. The maximum file size is 2GB.
+    We now support ZIP file uploads! You can compress multiple files into a single ZIP file and upload them at once. The maximum file size is 2GB.
 
-Click the upload button on the left and select the files to upload. Once you submit the files, you can see a little window at the right-down corner of the screen showing your file upload progress.
+Click the upload button on the left and select the files to upload. Once you submit the files, a small window will appear in the bottom-right corner of the screen, displaying your file upload progress.
 
-After files are uploaded, you will see them in the folder with a red color processing icon on right and the file can not be clicked on. Behind the scenes, Superinsight is processing all the contents in your files. Depending on how large your files are, this process can take a few minutes to hours.
+After the files are uploaded, you will see them in the folder with a red processing icon on the right. These files cannot be clicked on at this stage. Behind the scenes, Superinsight is processing the content of your files. Depending on the size of your files, this process can take anywhere from a few minutes to several hours.
 
 === "Click to Upload"
     ![Upload File To Folder](../assets/images/tutorial/case-file-upload.png)
@@ -23,35 +23,32 @@ After files are uploaded, you will see them in the folder with a red color proce
 === "File Is Ready"
     ![File In Progress](../assets/images/tutorial/case-file-ready.png)
 
-Once your file is ready, you will see the black label icon on right and now you can click on it and preview it in our viewer. Meanwhile, Superinsight will find you all the key points and insights from the file in real time.
+Once your file is ready, you can click on it to preview the file in our viewer.
 
-=== "Original File"
-    ![Original File](../assets/images/tutorial/medical_evidence.png)
-
-=== "File Analysis"
-    ![Get Analysis](../assets/images/tutorial/doc-analysis.png)
+=== "Document Viewer"
+    ![Document Viewer](../assets/images/tutorial/doc-viewer.png)
 
 ## File Labeling
 
-During the file processing, your files would be auto-labeled as well. Superinsight categorizes all your files by type; with the filter, you can find certain files more easily.
+During file processing, your files will be automatically labeled. Superinsight categorizes all files by type, allowing you to easily find specific files using the filter feature.
 
-Besides auto-labeling, you can also add or remove labels from the files by demand.
+In addition to auto-labeling, you can manually add or remove labels from files as needed.
 
 === "Manage Labels"
-    Click on the black icon to manage labels on this file.
+    Click on the label icon to manage labels for this file.
     ![Manage Labels](../assets/images/tutorial/manage-labels.png)
 
 === "Add New Labels"
-    You can assign existing labels to the files or create new labels by clicking + icon on left.
+    You can assign existing labels to files or create new labels by clicking the + icon on the left
     ![Create Labels](../assets/images/tutorial/add-labels.png)
 
 === "Filter by Labels"
-    Click on the filter icon and choose what labels you want to show. You can also use "Non-Labeled" to find all the non-labeled files.
+    Click the filter icon and select the labels you want to display. You can also use the "Non-Labeled" option to find all unlabeled files.
     ![Filter Labels](../assets/images/tutorial/filter-labels.png)
 
 ## Delete Files
 
-If you need to delete files, click the "Delete File" button beside the file you want to delete or click the file and get into file preview and you will see the "Delete File" button in the navigation on left as well. Click the button and confirm the deletion to remove the file.
+To delete a file, click the Delete File button next to the file you want to remove. Alternatively, you can open the file, where you will also find the Delete File button on the left. Click the button and confirm the deletion to remove the file.
 
 === "Delete in Folder"
     ![Delete File in Folder Level](../assets/images/tutorial/delete-file-1.png)
@@ -64,9 +61,9 @@ If you need to delete files, click the "Delete File" button beside the file you 
 
 ## Batch Management
 
-If you need to delete multiple files or add labels to multiple files at a time, Superinsight also provides a batch management function.
+If you need to delete multiple files or apply labels to multiple files at once, Superinsight provides a batch management feature.
 
-Click on the dots icon beside the filter to enable the multi-select, then you can select all the files you need to do further management.
+Click the dots icon next to the filter to enable multi-selection, then select all the files you want to manage.
 
 === "Advanced Actions"
     ![Advanced Actions](../assets/images/tutorial/advanced-actions.png)
@@ -79,9 +76,9 @@ Click on the dots icon beside the filter to enable the multi-select, then you ca
 
 **Batch Labeling**
 
-After you select all the files you want to add labels on, click on the dots icon again and choose "**Edit Labels**", then you'll see the batch label management window.
+After selecting the files to which you want to add labels, click the dots icon again and choose Edit Labels to open the batch label management window.
 
-In the batch label management window, you can add any existing labels to the files you selected as you want. You can also add labels to all the selected files with one drag and drop. And add new labels based on your need of course.
+In this window, you can add existing labels to the selected files. You can also apply labels to all selected files via drag and drop, and create new labels as needed.
 
 === "Edit Labels"
     ![Edit Labels](../assets/images/tutorial/edit-labels.png)

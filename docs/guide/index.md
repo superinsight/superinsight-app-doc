@@ -11,7 +11,7 @@ Learn more about Superinsight with the following How To Guide.
 | [Manage File](case-files.md)                 | Manage cases relevant files         |
 | [Manage Report](case-report.md)              | Generate report from selected file  |
 | [Search](search.md)                          | Quick search for info you need      |
-| [Setting Menu](menu.md)                      | Check your billing and find support |
+| [Settings Menu](menu.md)                     | Check your billing and find support |
 | [Share Case](case-share.md)                  | Share your cases to stakeholders    |
 | [Access Permission](permission.md)           | Set up your cases' access permission|
 
