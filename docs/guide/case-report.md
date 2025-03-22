@@ -88,6 +88,6 @@ To delete a report, simply click the button and confirm the deletion.
 
     ![Delete Report](../assets/images/tutorial/delete-report-1.png)
 
-=== "Confirm Delete"
+=== "Confirm Deletion"
 
-    ![Confirm Delete](../assets/images/tutorial/delete-report-2.png)
+    ![Confirm Deletion](../assets/images/tutorial/delete-report-2.png)

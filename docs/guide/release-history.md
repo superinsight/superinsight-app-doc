@@ -6,7 +6,7 @@ Previous release notes are listed here.
 
 ---------------------------------------
 
-**November 11, 2024 Released**
+**November 11, 2024 Release**
 
 * Credit System implemented.
 
@@ -22,7 +22,7 @@ Previous release notes are listed here.
 
 ---------------------------------------
 
-**October 23, 2024 Released**
+**October 23, 2024 Release**
 
 * Maximum upload file size increase to 2 GB.
 
@@ -38,7 +38,7 @@ Previous release notes are listed here.
 
 ---------------------------------------
 
-**October 14, 2024 Released**
+**October 14, 2024 Release**
 
 * Search feature optimized.
 
@@ -50,7 +50,7 @@ Previous release notes are listed here.
 
 ---------------------------------------
 
-**October 4, 2024 Released**
+**October 4, 2024 Release**
 
 * New feature - Change Mobile Phone Number.
 
@@ -68,7 +68,7 @@ Previous release notes are listed here.
 
 ---------------------------------------
 
-**August 30, 2024 Released**
+**August 30, 2024 Release**
 
 * File upload process optimized.
 
@@ -78,7 +78,7 @@ Previous release notes are listed here.
 
 ---------------------------------------
 
-**August 26, 2024 Released**
+**August 26, 2024 Release**
 
 * New feature - File Sorting added
 
@@ -94,7 +94,7 @@ Previous release notes are listed here.
 
 ---------------------------------------
 
-**August 20, 2024 Released**
+**August 20, 2024 Release**
 
 * New version of Social Security Disability Report added.
 
@@ -104,7 +104,7 @@ Previous release notes are listed here.
 
 ---------------------------------------
 
-**July 5, 2024 Released**
+**July 5, 2024 Release**
 
 * New report types added.
 
@@ -116,7 +116,7 @@ Previous release notes are listed here.
 
 ---------------------------------------
 
-**June 18, 2024 Released**
+**June 18, 2024 Release**
 
 * File auto-labeling & label filter feature out now.
 
@@ -130,7 +130,7 @@ Previous release notes are listed here.
 
 ---------------------------------------
 
-**April 25, 2024 Released**
+**April 25, 2024 Release**
 
 * We added a new guide for the search function.
 
@@ -144,7 +144,7 @@ Previous release notes are listed here.
 
 ---------------------------------------
 
-**April 3, 2024 Released**
+**April 3, 2024 Release**
 
 * We added delete guides in tutorial of managing cases, folders, files and reports.
 
@@ -154,7 +154,7 @@ Previous release notes are listed here.
 
 ---------------------------------------
 
-**February 25, 2024 Released**
+**February 25, 2024 Release**
 
 * We added new function tab ***"Reports"***! Now you can find all of your reports here.
 

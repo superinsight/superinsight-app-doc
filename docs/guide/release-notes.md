@@ -6,7 +6,21 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
-#### February 20, 2025 Released
+#### March 20, 2025 Release
+
+* Updated the flow for building report
+
+* Added report viewer and other report related features
+
+* Added insight tab
+
+* Relocated contact information page
+
+* Improved UI/UX
+
+---------------------------------------
+
+#### February 20, 2025 Release
 
 * Live Help feature added.
 
@@ -22,7 +36,7 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
-#### January 13, 2025 Released
+#### January 13, 2025 Release
 
 * VA Cfile report supports download in CSV format.
 
@@ -32,7 +46,7 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
-#### January 4, 2025 Released
+#### January 4, 2025 Release
 
 * Organization & Group mechanisms implemented.
 
