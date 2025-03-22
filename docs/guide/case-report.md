@@ -23,9 +23,14 @@ Next, select the practice area for this report.
 
 Each report costs 1-5 credits, depending on the required resources. If you need extra credits, [contact us](mailto:help@superinsight.ai) to purchase **6 credits for $250** or **18 credits for $500**.
 
-After selecting the practice area, you can choose an instruction template from the dropdown and freely edit it and customize with your own prompts to suit your preferences or specific scenarios.
+After selecting the practice area, you can choose an instruction template from the dropdown or customize with your own prompts to suit your preferences or specific scenarios by choosing **Build My Own**.
 
-![Build My Own Report](../assets/images/tutorial/free-prompts.png)
+=== "Instruction Template"
+    ![Instruction Template](../assets/images/tutorial/instruction-template.png)
+=== "Templates Dropdown"
+    ![Templates Dropdown](../assets/images/tutorial/templates-dropdown.png)
+=== "Build My Own"
+    ![Build My Own Report](../assets/images/tutorial/free-prompts.png)
 
 Next, select the files you want to include in the report. You can also filter files using labels to quickly find the ones you need.
 
@@ -42,6 +47,32 @@ Confirm all your selections before submitting to build the report.
 Once submitted, the report will appear in the "Reports" tab as an unclickable entry while it is being generated. Once completed, it will turn black with a download icon, allowing you to download and review it anytime.
 
 ![Report List](../assets/images/tutorial/report-list.png)
+
+## Report Viewer
+
+To view a report in the app, click on the report item or the icon on the right.
+
+On the **Report Viewer page**, you can navigate directly to specific sections by clicking on the headers in the left panel.
+
+Within the report, references are provided for key statements. Clicking on a **source** reference will open a document viewer on the right, displaying the exact page from the source document.
+
+=== "Viewer Button"
+    ![Viewer Button](../assets/images/tutorial/report-viewer-button.png)
+=== "Report Viewer"
+    ![Report Viewer](../assets/images/tutorial/report-viewer.png)
+=== "References"
+    ![References](../assets/images/tutorial/report-viewer-references.png)
+
+## Rebuild Report
+
+AI-generated reports may sometimes contain inaccuracies. If you find errors, you can rebuild the report up to **3 times** by clicking the **Rebuild** button.
+
+If you are still not satisfied after 3 attempts, please contact our support team for further assistance.
+
+=== "Rebuild Button"
+    ![Rebuild Button](../assets/images/tutorial/rebuild-button.png)
+=== "Contact Us"
+    ![Contact Us](../assets/images/tutorial/rebuild-contact-us.png)
 
 ## Download Reports
 
