@@ -9,9 +9,10 @@ Learn more about Superinsight with the following How To Guide.
 | [Manage Case](case-contact.md)               | Add, modify & delete your contacts  |
 | [Manage Folder](case-folder.md)              | Add, modify & delete your folders   |
 | [Manage File](case-files.md)                 | Manage cases relevant files         |
+| [Insight](insight.md)                        | Chat with documents to gain insights|
 | [Manage Report](case-report.md)              | Generate report from selected file  |
 | [Search](search.md)                          | Quick search for info you need      |
-| [Setting Menu](menu.md)                      | Check your billing and find support |
+| [Settings Menu](menu.md)                     | Check your billing and find support |
 | [Share Case](case-share.md)                  | Share your cases to stakeholders    |
 | [Access Permission](permission.md)           | Set up your cases' access permission|
 
