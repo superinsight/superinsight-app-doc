@@ -43,17 +43,31 @@ Once the file is ready, as shown in the screenshots below, you can continue to t
 
     ![File In Progress](assets/images/tutorial/case-file-ready.png)
 
-## 3. Get Insights
+## 3. Build Report
 
-Once your file is ready, you can click on the file you uploaded earlier and Superinsight will show all the key points and insights that are found in the file.
+Once your files are ready, you can generate a comprehensive report by selecting multiple files. Simply click the "Build Report" button on the left to start building your report.
 
-=== "Original File"
+=== "Build Report"
 
-    ![Original File](assets/images/tutorial/medical_evidence.png)
+    ![Build a Report](assets/images/tutorial/build-report.png)
 
-=== "File Analysis"
+=== "Select Practice Area"
 
-    ![Get Analysis](assets/images/tutorial/doc-analysis.png)
+    ![Practice Areas](assets/images/tutorial/practice-areas.png)
+
+=== "Choose Template"
+
+    ![Instruction Template](assets/images/tutorial/instruction-template.png)
+
+=== "Select Files"
+
+    ![Select Files](assets/images/tutorial/select-file.png)
+
+Once submitted, the report will appear in the "Reports" tab and you can download it when completed.
+
+=== "Report List"
+
+    ![Report List](assets/images/tutorial/report-list.png)
 
 ## 4. Try More
 
