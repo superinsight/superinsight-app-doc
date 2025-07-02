@@ -6,6 +6,18 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
+#### June 30, 2025 Release
+
+* Windows Desktop Application launched - download and install the desktop version for enhanced performance.
+
+* Report Editing feature added - modify and customize your generated reports directly within the platform.
+
+* Enhanced Insight functionality - ask questions about specific files or report sections for targeted analysis.
+
+* Medical Malpractice Report improvements - now includes supporting details with precision down to specific hours and minutes.
+
+---------------------------------------
+
 #### March 20, 2025 Release
 
 * Updated the flow for building report
