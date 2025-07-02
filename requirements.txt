@@ -3,3 +3,4 @@ mkdocs-material
 mkdocs-i18n
 mkdocs-static-i18n
 mkdocs-pdf
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
