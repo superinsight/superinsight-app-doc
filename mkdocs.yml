@@ -7,6 +7,7 @@ theme:
     primary: custom 
 nav:
   - What is Superinsight: index.md
+  - Installation: download.md
   - Quickstart: quickstart.md
   - How To Guide:
     - Guide: guide/index.md

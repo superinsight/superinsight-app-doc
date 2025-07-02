@@ -1,17 +1,19 @@
 # What is Superinsight?
 
-Superinsight is designed with trust and transparency at their core. Every piece of information provided includes the original source for easy human review and verification, complete with necessary citations. This human-in-the-loop approach ensures the highest accuracy and reliability, empowering you to make decisions based on trustworthy data and fostering greater accountability in your practice.
+Superinsight is the #1 AI-driven medical record review solution for attorneys. Our technology analyzes complex medical records in minutes, uncovering hidden insights to strengthen your case, save time, and maximize wins—all backed by our no-risk, money-back guarantee.
+
+Our platform is designed specifically for legal professionals handling complex medical cases, offering fast, reliable, and affordable medical record review for law firms across multiple practice areas including Social Security Disability, Personal Injury, Veterans Disability, Workers' Compensation, Mass Tort, and Medical Malpractice cases.
 
 ## What does Superinsight offer?
 
-### 1. Effortless Evidence Discovery
+### 1. Industry-Leading Speed & Efficiency
 
-Unlock unparalleled insights with our AI-driven evidence discovery. Our technology sifts through vast data sets to identify relevant information swiftly, ensuring you have all the critical evidence at your fingertips. Make informed decisions faster and with greater confidence, setting new standards for success in your advocacy efforts.
+Our AI system reviews thousands of pages of medical records in minutes instead of days or weeks, with no human bottlenecks in the review process. Law firm clients report time savings of up to 90% compared to traditional medical record review methods, allowing your legal team to focus on case strategy rather than document review.
 
-### 2. Streamlined Medical Record Review
+### 2. Comprehensive Medical Analysis
 
-Transform the way you review medical records with our AI. Our platform not only aggregates and organizes medical data efficiently but also highlights key information, saving you countless hours. Focus on what matters most, knowing you have a comprehensive understanding of each case.
+Advanced algorithms identify key medical evidence that might otherwise be overlooked in complex documentation, with consistent reliability across all cases. Our system uncovers approximately 3x more relevant medical evidence compared to manual reviews, helping attorneys build stronger arguments and achieve better case outcomes.
 
-### 3. Handwritten Record Analysis
+### 3. Complete Security & Compliance
 
-Revolutionize your analysis with our cutting-edge AI that interprets handwritten medical records beyond industry standards. We bridge the gap between traditional documentation and digital innovation, offering unparalleled accuracy in extracting and analyzing crucial data from handwritten notes. Elevate your case preparation with insights that were once beyond reach.
+Our medical record review platform operates with no human reviewers, ensuring maximum privacy protection for sensitive client information. We are fully HIPAA-compliant with advanced encryption and security protocols that exceed industry standards, giving law firms peace of mind when handling confidential medical data.
