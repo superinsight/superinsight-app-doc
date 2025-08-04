@@ -1,22 +1,64 @@
-# Manage Folder
+# Manage Documents
 
-## Create Folder
+## Overview
 
-In the **Documents** tab, you can create your own folders based on your needs.
+The **Documents** section provides a comprehensive file management system with two main organizational areas:
 
-Click the **Create a New Folder** button on the left and give the folder an easily identifiable name.
+- **My Documents**: A personal workspace for your own file uploads and organization
+- **Case Documents**: A dedicated space for files that are linked to specific cases
 
-=== "Create Folders"
+This updated layout offers better organization and clearer separation between personal files and case-related documents.
 
-    ![Create Folders](../assets/images/tutorial/case-folder-1.png)
+## Navigation
 
-=== "Enter Folder Name"
+Access the Documents section from the left-hand sidebar. The Documents tab is prominently displayed and provides easy access to both your personal documents and case-related files.
 
-    ![Folder Name](../assets/images/tutorial/case-folder-2.png)
+=== "Documents Section"
+
+    ![Documents Section](../assets/images/tutorial/case-folder-1.png)
+
+## Folder Management
+
+### Accessing Document Areas
+
+To manage your documents, you can enter either:
+
+=== "My Documents"
+    Click on **My Documents** to access your personal file workspace.
+
+    ![My Documents](../assets/images/tutorial/case-folder-1.png)
+
+=== "Case Documents"
+    Click on **Case Documents** to access files linked to specific cases.
+
+    ![Case Documents](../assets/images/tutorial/case-folder-2.png)
+
+### Creating New Folders
+
+You can create new folders in either area using the following methods:
+
+=== "New Folder Button"
+    Click the **New Folder** button to create a new folder in the current area.
+
+    ![New Folder Button](../assets/images/tutorial/create-folder.png)
+
+=== "Create a New Folder Link"
+    Alternatively, use the **Create a New Folder** link for the same functionality.
+
+    ![Create New Folder Link](../assets/images/tutorial/case-folder-1.png)
+
+=== "Name and Create"
+    Enter a descriptive name for your folder and click **Create** to confirm.
+
+    ![Name and Create](../assets/images/tutorial/case-folder-2.png)
+
+## UI Updates
+
+The updated Documents interface provides a more intuitive and organized experience compared to the previous version. The clear separation between personal and case documents helps users better manage their files and maintain proper organization.
 
 ## Delete Folders
 
-If you need to delete your folder, click into the folder, and you will see the **Delete Folder** button on the left. Click the button and confirm the deletion to remove the folder.
+If you need to delete a folder, click into the folder, and you will see the **Delete Folder** button on the left. Click the button and confirm the deletion to remove the folder.
 
 !!! Warning "NOTICE"
 
