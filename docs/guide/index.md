@@ -8,15 +8,12 @@ Learn more about Superinsight with the following How To Guide.
 | ---------------------------------            | ----------------------------------- |
 | [Manage Case](case-contact.md)               | Add, modify & delete your contacts  |
 | [Manage Documents](case-folder.md)            | Add, modify & delete your folders   |
-| [Manage File](case-files.md)                 | Manage cases relevant files         |
-| [Manage Groups](groups.md)                   | Create and manage team groups       |
 | [Manage Research](research.md)               | Query documents with natural language|
-| [Insight](insight.md)                        | Chat with documents to gain insights|
-| [Manage Report](case-report.md)              | Generate report from selected file  |
-| [Search](search.md)                          | Quick search for info you need      |
-| [Settings Menu](menu.md)                     | Check your billing and find support |
-| [Share Case](case-share.md)                  | Share your cases to stakeholders    |
-| [Access Permission](permission.md)           | Set up your cases' access permission|
+| [Manage Groups](groups.md)                   | Create and manage team groups       |
+| [Manage Organizations](organizations.md)     | Manage organization settings and members|
+| [Manage Subscription](subscription.md)       | View and manage your subscription plan|
+| [Referral Program](referral.md)              | Invite others and earn rewards      |
+| [Support](support.md)                        | Get help and contact support team  |
 
 
 If you are still confused after this guide, feel free to contact us on our **Live Help**.

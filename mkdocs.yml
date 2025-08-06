@@ -13,15 +13,12 @@ nav:
     - Guide: guide/index.md
     - Manage Case: guide/case-contact.md
     - Manage Documents: guide/case-folder.md
-    - Manage File: guide/case-files.md
-    - Manage Groups: guide/groups.md
     - Manage Research: guide/research.md
-    - Insight: guide/insight.md
-    - Manage Report: guide/case-report.md
-    - Search: guide/search.md
-    - Settings Menu: guide/menu.md
-    - Share Case: guide/case-share.md
-    - Access Permission: guide/permission.md
+    - Manage Groups: guide/groups.md
+    - Manage Organizations: guide/organizations.md
+    - Manage Subscription: guide/subscription.md
+    - Referral Program: guide/referral.md
+    - Support: guide/support.md
   - Credits and Usage: guide/credit-usage.md
   - Release Notes: guide/release-notes.md
   - Login To App: https://app.superinsight.me

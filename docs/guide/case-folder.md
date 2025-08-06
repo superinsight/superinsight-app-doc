@@ -9,6 +9,7 @@ The **Documents** section provides a comprehensive file management system with t
 
 This updated layout offers better organization and clearer separation between personal files and case-related documents.
 
+<!--
 ## Navigation
 
 Access the Documents section from the left-hand sidebar. The Documents tab is prominently displayed and provides easy access to both your personal documents and case-related files.
@@ -71,3 +72,4 @@ If you need to delete a folder, click into the folder, and you will see the **De
 === "Confirm Deletion"
 
     ![Confirm Deletion](../assets/images/tutorial/delete-folder-2.png)
+-->
