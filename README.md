@@ -4,7 +4,7 @@ Documentation for superinsight app
 
 ## Installation virtual environment
 ```
-python3 -m pip install virtualenv
+python3.11 -m pip install virtualenv
 python3 -m virtualenv -p python3 .venv
 ```
 

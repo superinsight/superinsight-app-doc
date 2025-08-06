@@ -5,7 +5,7 @@ You will learn how to create your knowledge base of case contacts and how to dis
 
 If you don't have an account yet, sign up [for access](https://www.superinsight.ai/trial) here.
 
-## 1. Start a New Case
+## 1. Start a New Case Here
 
 Build up your case information before everything, the first step is to add your contacts. Simply Fill in your contact's name and assign this contact to your organization, then click **Create**.
 
