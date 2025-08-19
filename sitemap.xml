@@ -2,106 +2,132 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docs.superinsight.me/</loc>
-         <lastmod>2025-08-06</lastmod>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.superinsight.me/download/</loc>
-         <lastmod>2025-08-06</lastmod>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.superinsight.me/quickstart/</loc>
-         <lastmod>2025-08-06</lastmod>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.superinsight.me/guide/</loc>
-         <lastmod>2025-08-06</lastmod>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.superinsight.me/guide/case-contact/</loc>
-         <lastmod>2025-08-06</lastmod>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.superinsight.me/guide/case-files/</loc>
-         <lastmod>2025-08-06</lastmod>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.superinsight.me/guide/case-folder/</loc>
-         <lastmod>2025-08-06</lastmod>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.superinsight.me/guide/case-report/</loc>
-         <lastmod>2025-08-06</lastmod>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.superinsight.me/guide/case-share/</loc>
-         <lastmod>2025-08-06</lastmod>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.superinsight.me/guide/credit-usage/</loc>
-         <lastmod>2025-08-06</lastmod>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.superinsight.me/guide/groups/</loc>
-         <lastmod>2025-08-06</lastmod>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.superinsight.me/guide/insight/</loc>
-         <lastmod>2025-08-06</lastmod>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.superinsight.me/guide/manage-reports/</loc>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.superinsight.me/guide/menu/</loc>
-         <lastmod>2025-08-06</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.superinsight.me/guide/organization/</loc>
-         <lastmod>2025-08-06</lastmod>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.superinsight.me/guide/organizations/</loc>
-         <lastmod>2025-08-06</lastmod>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.superinsight.me/guide/permission/</loc>
-         <lastmod>2025-08-06</lastmod>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.superinsight.me/guide/privacy-policy/</loc>
-         <lastmod>2025-08-06</lastmod>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.superinsight.me/guide/referral/</loc>
-         <lastmod>2025-08-06</lastmod>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.superinsight.me/guide/release-history/</loc>
-         <lastmod>2025-08-06</lastmod>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.superinsight.me/guide/release-notes/</loc>
-         <lastmod>2025-08-06</lastmod>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.superinsight.me/guide/research/</loc>
-         <lastmod>2025-08-06</lastmod>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.superinsight.me/guide/sample-report/</loc>
-         <lastmod>2025-08-06</lastmod>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.superinsight.me/guide/search/</loc>
-         <lastmod>2025-08-06</lastmod>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.superinsight.me/guide/subscription/</loc>
-         <lastmod>2025-08-06</lastmod>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.superinsight.me/guide/support/</loc>
-         <lastmod>2025-08-06</lastmod>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.superinsight.me/guide/terms-of-use/</loc>
-         <lastmod>2025-08-06</lastmod>
+         <lastmod>2025-08-19</lastmod>
+         <changefreq>daily</changefreq>
     </url>
 </urlset>
