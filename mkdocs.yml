@@ -12,6 +12,7 @@ nav:
   - How To Guide:
     - Guide: guide/index.md
     - Manage Case: guide/case-contact.md
+    - How to Manage Reports: guide/manage-reports.md
     - Manage Documents: guide/case-folder.md
     - Manage Research: guide/research.md
     - Manage Groups: guide/groups.md

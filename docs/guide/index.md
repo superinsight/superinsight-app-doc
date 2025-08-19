@@ -7,6 +7,7 @@ Learn more about Superinsight with the following How To Guide.
 | How To                                       | Overview                            |
 | ---------------------------------            | ----------------------------------- |
 | [Manage Case](case-contact.md)               | Add, modify & delete your contacts  |
+| [How to Manage Reports](manage-reports.md)      | View, organize and manage generated reports|
 | [Manage Documents](case-folder.md)            | Add, modify & delete your folders   |
 | [Manage Research](research.md)               | Query documents with natural language|
 | [Manage Groups](groups.md)                   | Create and manage team groups       |
