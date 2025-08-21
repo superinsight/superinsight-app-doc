@@ -1,5 +1,11 @@
 # Manage Case
 
+## Overview
+
+The **Case Management** system is the central hub for organizing and processing your legal cases in Superinsight. This comprehensive tool allows you to create, organize, and collaborate on cases with team members while maintaining complete control over documents, reports, and contact information.
+
+This section will guide you through each aspect of case management, from initial setup to advanced collaboration features.
+
 ## Manage Case
 
 ### Add New Case

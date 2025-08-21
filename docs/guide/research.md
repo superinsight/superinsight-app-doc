@@ -16,84 +16,122 @@ The Research feature provides intelligent, context-aware responses based on the 
 
 ## How to Use
 
+### Quick Start Summary
+
+To use the Research feature effectively, follow these key steps:
+
+1. **Access Research**: Navigate to the Research section from the left sidebar
+2. **Select Files**: Choose at least one document from the Source Files panel
+3. **Ask Questions**: Type your question and press Enter to submit
+4. **Review Results**: Read AI responses and click source links to view references
+5. **Manage Conversations**: Start new conversations or delete old ones as needed
+
 ### Accessing Research
 
 Navigate to the **Research** section from the left sidebar. The Research tab provides a dedicated workspace for document querying and analysis.
 
 === "Research Section"
-    ![Research Section](../assets/images/tutorial/insight-tab.png)
+    ![Research Section](../assets/images/tutorial/Research-page.png)
 
 ### Selecting Source Files
 
-Before you can start asking questions, you need to select one or more source files:
+!!! warning "Required Step"
+    **You must select at least one source file before you can start asking questions.** The Research feature cannot function without document access.
+
+Before you can start asking questions, you need to select one or more source files from your document collection. Without file selection, the message input field will remain disabled and you cannot proceed with your research queries:
 
 === "Source Files Panel"
     Use the right-hand **Source Files** panel to select documents from either **My Documents** or **Case Documents**.
 
-    ![Source Files Panel](../assets/images/tutorial/insight-select-files.png)
+    ![Source Files Panel](../assets/images/tutorial/Research-sourcefile.png)
 
 === "File Selection"
-    Click on files to select them. You can select multiple files for comprehensive analysis across multiple documents.
+    Click on files to select them. **At least one file must be selected** to enable the Research feature. You can select multiple files for comprehensive analysis across multiple documents.
 
-    ![File Selection](../assets/images/tutorial/insight-selected-files.png)
+    ![File Selection](../assets/images/tutorial/Research-fileselection.png)
 
 ### Starting a Conversation
 
-Once you have selected at least one file, the message input field becomes active:
+!!! info "Ready to Research"
+    Once you have selected at least one file, the message input field becomes active and you can begin asking questions:
 
-=== "Message Input"
-    Type your natural-language question in the input field at the bottom of the screen.
+**Basic Steps:**
 
-    ![Message Input](../assets/images/tutorial/insight-start-conversation.png)
+1. Type your question in the message input field
+2. Write naturally - ask as you would speak to a colleague  
+3. Press **Enter** or click the **send arrow (→)** to submit
+
+**Advanced: Target Specific Files**
+
+1. Type **"@"** to open file dropdown
+2. Select specific documents for focused analysis
+3. Example: "@document.pdf What medical conditions are mentioned?"
+
+**Question Types & Examples:**
+
+- **General Analysis**: "What are the key points in this report?"
+- **Summaries**: "Summarize the main findings"
+- **File-Specific**: "@filename.pdf What does this document say about...?"
+- **Comparisons**: "Compare the recommendations between @file.name1 and @file.name2"
 
 === "Send Question"
-    Press **Enter** or click the arrow icon to send your question and start the conversation.
-
-    ![Send Question](../assets/images/tutorial/question-1.png)
+    ![Send Question](../assets/images/tutorial/Research-ask.png)
 
 ### Getting Responses
 
-The Research feature will analyze your selected documents and provide contextual answers:
+The Research feature will analyze your selected documents and provide contextual answers. Please note that processing may take up to one minute as the AI thoroughly analyzes your documents to provide accurate and comprehensive responses:
 
 === "AI Response"
     The system processes your question and returns relevant information from your documents.
 
-    ![AI Response](../assets/images/tutorial/response-1.png)
+    ![AI Response](../assets/images/tutorial/research-ai-response.png)
 
 === "References"
-    Responses include references to specific parts of your documents for verification.
+    Responses include references to specific parts of your documents for verification. When you **click on a source link** in the AI response, the referenced document **opens in a panel** on the right side, showing the exact page and location where the information was found. This allows you to **verify the AI's answers** against the original source material.
 
-    ![References](../assets/images/tutorial/insight-references.png)
+    ![References](../assets/images/tutorial/research-reference.png)
 
 ## Conversations Panel
 
-The **Conversations** panel on the left side of the Research interface maintains a history of your research sessions:
-
-=== "Conversations History"
-    Previous questions and answers are automatically saved in the Conversations panel.
-
-    ![Conversations History](../assets/images/tutorial/insight-chatroom.png)
+The **Conversations** panel on the left side of the Research interface provides comprehensive conversation management with three main capabilities:
 
 ### Conversation Management
 
-- **Document Association**: Each conversation is tied to the specific documents you selected when asking the question
-- **Session Continuity**: You can continue conversations by asking follow-up questions
-- **Historical Access**: Access previous research sessions and their results
-- **Context Preservation**: The system maintains context across related questions
+=== "Start New Conversation"
+    1. Click the **New Conversation** button to clear previous context
+    2. Select new source files from the **Source Files** panel
+    3. Begin asking questions about your newly selected documents
 
-### Starting New Conversations
+    ![New Conversation](../assets/images/tutorial/research-new-conversation.png)
 
-To start a new research session:
+=== "Delete Conversation"
+    Remove unwanted conversations from your history to keep your workspace organized.
 
-=== "New Conversation"
-    Click the **New Conversation** button to begin a fresh research session.
+    **How to Delete:**
 
-    ![New Conversation](../assets/images/tutorial/new-conversation.png)
+    1. **Locate Conversation**: Find the conversation in the Conversations panel
+    2. **Open Menu**: Click the **three dots (⋮)** next to the conversation
+    3. **Select Delete**: Choose **Delete** from the dropdown menu
+    4. **Confirm**: Click **Yes** in the confirmation dialog
 
-=== "Select Different Files"
-    Choose different source files for your new research query.
+    ![Delete Conversation](../assets/images/tutorial/research-delete-conversation.png)
 
-    ![Select Different Files](../assets/images/tutorial/insight-select-files.png)
+    !!! warning "Permanent Action"
+        Deleted conversations cannot be recovered.
+
+### View Conversation History
+
+=== "Conversations History"
+    All previous questions and answers are automatically saved and displayed in the Conversations panel. Each conversation is tied to the specific documents you selected when asking the question.
+
+    ![Conversations History](../assets/images/tutorial/research-history-conversation.png)
+
+**Key Features:**
+
+- **Access Previous Conversations**: Click on any conversation to view its complete question and answer history
+- **Document Tracking**: Each conversation displays which specific documents were analyzed
+- **Continue Discussions**: Resume existing conversations by adding follow-up questions
+- **Smart Context**: The system remembers previous exchanges within the same conversation
 
 ## Best Practices
 
