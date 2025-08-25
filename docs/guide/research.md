@@ -31,7 +31,7 @@ To use the Research feature effectively, follow these key steps:
 Navigate to the **Research** section from the left sidebar. The Research tab provides a dedicated workspace for document querying and analysis.
 
 === "Research Section"
-    ![Research Section](../assets/images/tutorial/Research-page.png)
+    ![Research Section](../assets/images/tutorial/research-section.png)
 
 ### Selecting Source Files
 
@@ -43,12 +43,12 @@ Before you can start asking questions, you need to select one or more source fil
 === "Source Files Panel"
     Use the right-hand **Source Files** panel to select documents from either **My Documents** or **Case Documents**.
 
-    ![Source Files Panel](../assets/images/tutorial/Research-sourcefile.png)
+    ![Source Files Panel](../assets/images/tutorial/research-filesource.png)
 
 === "File Selection"
     Click on files to select them. **At least one file must be selected** to enable the Research feature. You can select multiple files for comprehensive analysis across multiple documents.
 
-    ![File Selection](../assets/images/tutorial/Research-fileselection.png)
+    ![File Selection](../assets/images/tutorial/research-selectionfile.png)
 
 ### Starting a Conversation
 
@@ -75,7 +75,7 @@ Before you can start asking questions, you need to select one or more source fil
 - **Comparisons**: "Compare the recommendations between @file.name1 and @file.name2"
 
 === "Send Question"
-    ![Send Question](../assets/images/tutorial/Research-ask.png)
+    ![Send Question](../assets/images/tutorial/research-ask.png)
 
 ### Getting Responses
 
