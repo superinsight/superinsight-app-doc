@@ -48,3 +48,5 @@ extra:
     property: G-B69XP516VZ
 extra_css:
   - stylesheets/extra.css
+extra_javascript:
+  - javascripts/scrollspy.js
