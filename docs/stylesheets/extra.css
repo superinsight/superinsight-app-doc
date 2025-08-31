@@ -3,3 +3,22 @@
     --md-primary-fg-color--light: #153464;
     --md-primary-fg-color--dark:  #153464;
   }
+
+/* ScrollSpy TOC Highlighting */
+.md-nav__item .md-nav__link.active {
+    background-color: #eaecf0 !important;
+    border-radius: 4px;
+    font-weight: 600;
+}
+
+.md-nav__item .md-nav__link {
+    position: relative;
+    transition: background-color 0.2s ease, font-weight 0.2s ease;
+    padding: 4px 8px;
+    margin: 2px 0;
+}
+
+/* Smooth scroll behavior */
+html {
+    scroll-behavior: smooth;
+}
