@@ -6,6 +6,8 @@ The **Case Management** system is the central hub for organizing and processing 
 
 This section will guide you through each aspect of case management, from initial setup to advanced collaboration features.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K_RJNONhUmc?si=9wSv48gTs14iej7b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Manage Case
 
 ### Add New Case
