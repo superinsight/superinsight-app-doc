@@ -4,7 +4,13 @@
 
 The **Reports** section provides a comprehensive management system for all your generated reports. This area allows you to view, organize, and manage reports that have been created from your case documents and research activities.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sI9clpIOlis?si=L3rU28mEQaVyap6F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/sI9clpIOlis?rel=0&si=XJezGeCH_ctuhxxm" 
+title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+referrerpolicy="strict-origin-when-cross-origin" 
+allowfullscreen></iframe>
 
 ## Report List
 
@@ -33,7 +39,13 @@ View all your generated reports in an organized list format. Each report display
 
 On the **Report List** page, you'll find Actions icons on the right side of each report row. These icons provide 4 different action buttons that offer various management options for your reports. These action buttons allow you to **download**, **edit**, **rebuild**, or **delete** individual reports as needed:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_vZi64D9bw4?si=7eIdId1b-NT_3-u4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/_vZi64D9bw4?rel=0&si=-dNQ2faQo4jFltJ9" 
+title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+referrerpolicy="strict-origin-when-cross-origin" 
+allowfullscreen></iframe>
 
 === "Download Report"
     Download reports in various formats:

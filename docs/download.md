@@ -34,6 +34,7 @@ Download the latest version of Superinsight for Windows:
 !!! tip "Recommended"
     We recommend downloading the latest version to ensure you have access to all the newest features and security updates.
 
+<!--
 ## Previous Versions
 
 If you need to download a specific previous version, you can choose from the versions below:
@@ -48,6 +49,7 @@ If you need to download a specific previous version, you can choose from the ver
 
 !!! warning "Previous Versions"
     Previous versions may not include the latest features and security updates. We recommend using the latest version unless you have specific compatibility requirements.
+-->
 
 ## Installation Instructions
 

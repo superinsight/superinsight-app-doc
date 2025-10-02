@@ -2,7 +2,13 @@
 
 Groups enable efficient **team organization and management** for different work scenarios. **Create groups to collaborate on cases, share files, and set different access permissions** based on your specific needs.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iZOaLA0_sZE?si=8BIbTatGKC7xvUM2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/iZOaLA0_sZE?rel=0&si=no1Sm1ePwA50t1VB" 
+title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+referrerpolicy="strict-origin-when-cross-origin" 
+allowfullscreen></iframe>
 
 ## Create a New Group
 
