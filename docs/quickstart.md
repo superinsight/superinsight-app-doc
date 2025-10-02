@@ -5,70 +5,47 @@ You will learn how to create your knowledge base of case contacts and how to dis
 
 If you don't have an account yet, sign up [for access](https://www.superinsight.ai/trial) here.
 
-## 1. Start a New Case Here
+## Watch the Tutorial Video
 
-Build up your case information before everything, the first step is to add your contacts. Simply Fill in your contact's name and assign this contact to your organization, then click **Create**.
+Follow along with this comprehensive video tutorial that demonstrates how to manage cases and create reports in Superinsight:
 
-=== "New Case"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sI9clpIOlis?si=VdEBRbhwlwgJztle" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-    ![Upload File To Folder](assets/images/tutorial/start-new-case-1.png)
+## Step-by-Step Guide
 
-=== "Contact Info"
+Follow these steps as demonstrated in the video above:
 
-    ![File In Progress](assets/images/tutorial/start-new-case-2.png)
+### 1. Create a New Case
 
-## 2. Upload a File
+- **Navigate to Cases**: Click on "Cases" in the left sidebar
+- **Start New Case**: Click the "New Case" button
+- **Enter Case Details**: Fill in the case name and relevant information
+- **Add Contact Information**: Enter client contact details
 
-Depending on the purpose, you can upload files that can help your legal claims to the folders you created or Superinsight prepared and organized for you.
+### 2. Upload Documents
 
-After you upload the file, you can see a little window at the right-down corner of the screen showing your file upload progress.
+- **Access Documents**: Go to the Documents section within your case
+- **Upload Files**: Click to upload or drag and drop your files
+- **File Processing**: Wait for Superinsight to process your documents
+- **Verify Upload**: Ensure all files are successfully processed and ready
 
-As the file is uploaded, you will see it in the folder as a gray color and can not be clicked on. Behind the scenes, Superinsight processes all the contents of your file. Depending on how large your files are, this process can take a few minutes to hours.
+### 3. Build Your Report
 
-Once the file is ready, as shown in the screenshots below, you can continue to the next step.
+- **Navigate to Report tab in Case**: Go to the Reports section within your case
+- **Select Files**: Choose the files you want to include in your report
+- **Choose Report Type**: Select the appropriate report type
+- **Confirm Report Details**: Confirm credits usage, report type and files
+- **Generate Report**: Click "Build Report" to start the generation process
 
-=== "Click to Upload"
+### 4. Review and Download
 
-    ![Upload File To Folder](assets/images/tutorial/case-file-upload.png)
+- **Monitor Progress**: Track report generation status
+- **Review Results**: Open and review your completed report
+- **Download Report**: Save the report to your local device
 
-=== "File Uploading"
+!!! tip "Pro Tip"
+    Watch the video multiple times to familiarize yourself with the interface before starting your first case.
 
-    ![File Uploading](assets/images/tutorial/case-uploading-file.png)
+## Next Steps
 
-=== "File In Progress"
-
-    ![File In Progress](assets/images/tutorial/cases-file-pending.png)
-
-=== "File Is Ready"
-
-    ![File In Progress](assets/images/tutorial/case-file-ready.png)
-
-## 3. Build Report
-
-Once your files are ready, you can generate a comprehensive report by selecting multiple files. Simply click the "Build Report" button on the left to start building your report.
-
-=== "Build Report"
-
-    ![Build a Report](assets/images/tutorial/build-report.png)
-
-=== "Select Practice Area"
-
-    ![Practice Areas](assets/images/tutorial/practice-areas.png)
-
-=== "Choose Template"
-
-    ![Instruction Template](assets/images/tutorial/instruction-template.png)
-
-=== "Select Files"
-
-    ![Select Files](assets/images/tutorial/select-file.png)
-
-Once submitted, the report will appear in the "Reports" tab and you can download it when completed.
-
-=== "Report List"
-
-    ![Report List](assets/images/tutorial/report-list.png)
-
-## 4. Try More
-
-If you like to learn more advance features, please continue our guide for [How To Guide](guide/index.md)
+Ready to explore more advanced features? Continue with our detailed [How To Guide](guide/index.md) for comprehensive instructions on all Superinsight capabilities.
