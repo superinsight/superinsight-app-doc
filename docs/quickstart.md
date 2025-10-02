@@ -9,7 +9,13 @@ If you don't have an account yet, sign up [for access](https://www.superinsight.
 
 Follow along with this comprehensive video tutorial that demonstrates how to manage cases and create reports in Superinsight:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sI9clpIOlis?si=VdEBRbhwlwgJztle" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/sI9clpIOlis?rel=0&si=XJezGeCH_ctuhxxm" 
+title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+referrerpolicy="strict-origin-when-cross-origin" 
+allowfullscreen></iframe>
 
 ## Step-by-Step Guide
 

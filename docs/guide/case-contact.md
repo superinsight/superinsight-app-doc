@@ -6,7 +6,11 @@ The **Case Management** system is the central hub for organizing and processing 
 
 This section will guide you through each aspect of case management, from initial setup to advanced collaboration features.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K_RJNONhUmc?si=9wSv48gTs14iej7b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/K_RJNONhUmc?rel=0" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Manage Case
 
@@ -64,7 +68,13 @@ You can click on any case in the list to open it and access its details, documen
 
 Easily share your case with teammates or collaborators by following a few simple steps. This guide walks you through the process.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GmUYhPkIbOU?si=qXPJxej8CwzpKKij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/GmUYhPkIbOU?rel=0&si=ce4dFYqS2eZy8ZLn" 
+title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+referrerpolicy="strict-origin-when-cross-origin" 
+allowfullscreen></iframe>
 
 === "Share Case Button"
     To share a case, first in the Case List page and then click the three dots menu (⋮) next to case name, select **Share** buttom to open the sharing dialog.

@@ -4,7 +4,13 @@
 
 Organizations in Superinsight enable teams to collaborate effectively by providing centralized member management. As an organization owner, you have full administrative control to **invite members** and **configure organizational settings**. As a member, you can **view organization information** and **leave organizations** when needed.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UT0n5SMxLPI?si=stXVOQVCG8yEIvRm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/UT0n5SMxLPI?rel=0&si=3UT9UUzwZkFmGhQl" 
+title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+referrerpolicy="strict-origin-when-cross-origin" 
+allowfullscreen></iframe>
 
 ## Accessing Organization
 
