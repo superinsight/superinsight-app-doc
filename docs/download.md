@@ -29,7 +29,7 @@ Access Superinsight instantly through your web browser - no download or installa
 
 Download the latest version of Superinsight for Windows:
 
-[Download Latest Version :material-download:](assets/downloads/installer/windows/latest.exe){ .md-button .md-button--primary }
+[Download Latest Version :material-download:](https://superinsight-prod-windows-desktop-app.s3.us-west-2.amazonaws.com/main/superinsight.exe){ .md-button .md-button--primary }
 
 !!! tip "Recommended"
     We recommend downloading the latest version to ensure you have access to all the newest features and security updates.
