@@ -105,19 +105,20 @@ Once shared
 After sharing, all invited users or groups will be listed under the "Who has access to this case?" section.  
 You can remove access anytime if needed.
 
-#### Access Control
+=== "Access Control"
+    You can customize access levels for each user or group by using the **Access Control** feature.
 
-You can customize access levels for each user or group by using the **Access Control** feature.
+    This ensures that collaborators only see and edit what they're authorized to handle.
 
-This ensures that collaborators only see and edit what they're authorized to handle.
+    **Set Access**
 
-=== "Set Access"
     Next to each person listed in the **Who has access to this case?** section, you'll find a **gear icon**.  
     Click this icon to open the Access Control dialog and manage permissions.
 
     ![Access Control Button](../assets/images/tutorial/case-share-case-access-control-1.png)
 
-=== "Set Permissions"
+    **Set Permissions**
+
     In the Access Control dialog, you can assign different access levels to individual parts of the case including **Documents**, **Reports**, and **Contact**.
 
     For each part, choose one of the following roles:
@@ -137,8 +138,6 @@ This ensures that collaborators only see and edit what they're authorized to han
 Use filters to quickly narrow down your case list and focus only on the cases that matter to you.
 
 This feature helps you switch between different case sources with just a few clicks.
-
-#### Filter by Case Source
 
 Click the **Filter** button at the top right of the case list to open the dropdown menu.
 
@@ -229,18 +228,18 @@ To begin building a report, go to any **Case**, then click the **Reports** tab a
 
 ![Step 1](../assets/images/tutorial/case-build-report-1.png)  
 
-#### Step 2: Select Report Type  
-- Choose your **Practice Area** (e.g., Medical Service or Personal Injury etc...)
-- Choose your **Report Type** (e.g., Medical Chronology, Basic Summary, or Advanced Mode).
-Each option will display how many credits are required.
-
-![Step 2](../assets/images/tutorial/case-build-report-2.png)
-
-#### Step 3: Select Source Files  
+#### Step 2: Select Source Files  
 - Choose which files you'd like to include in the report.  
 - You can filter by labels or use folders and may select one or multiple documents.
 
-![Step 3](../assets/images/tutorial/case-build-report-3.png)
+![Step 2](../assets/images/tutorial/case-build-report-3.png)
+
+#### Step 3: Select Report Type  
+- Choose your **Practice Area** (e.g., Medical Service or Personal Injury etc...)
+- Choose your **Report Type** (e.g., Medical Chronology, Basic Summary, or Advanced Templates).
+Each option will display how many credits are required.
+
+![Step 3](../assets/images/tutorial/case-build-report-2.png)
 
 #### Step 4: Build Report  
 Confirm your report detail:
