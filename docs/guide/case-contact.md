@@ -217,31 +217,27 @@ You can upload file to your case folders for storage, review, or building a repo
 ### How to Build a Report  
 <!-- These are step-by-step instructions -->
 
-This section walks users through the full report generation process in four steps.
+This section walks users through the full report generation process.
 
-To begin building a report, go to any **Case**, then click the **Reports** tab at the top.
+#### Click Start Building
+To begin building a report, go to any **Case**, then click the **Reports** tab at the top and click the **Build Report** button to start.
 
-![Build Report Start](../assets/images/tutorial/case-build-report-start.png)
-#### Step 1: Open the Report Builder  
-- Navigate to the **Reports** tab inside any case.  
-- Click the **Build Report** button to start.
+![Start Building](../assets/images/tutorial/case-build-report-1.png)
 
-![Step 1](../assets/images/tutorial/case-build-report-1.png)  
-
-#### Step 2: Select Source Files  
+#### Step 1: Select Source Files  
 - Choose which files you'd like to include in the report.  
 - You can filter by labels or use folders and may select one or multiple documents.
 
-![Step 2](../assets/images/tutorial/case-build-report-3.png)
+![Step 1](../assets/images/tutorial/case-build-report-2.png)
 
-#### Step 3: Select Report Type  
+#### Step 2: Choose Template  
 - Choose your **Practice Area** (e.g., Medical Service or Personal Injury etc...)
 - Choose your **Report Type** (e.g., Medical Chronology, Basic Summary, or Advanced Templates).
 Each option will display how many credits are required.
 
-![Step 3](../assets/images/tutorial/case-build-report-2.png)
+![Step 2](../assets/images/tutorial/case-build-report-3.png)
 
-#### Step 4: Build Report  
+#### Step 3: Build Report  
 Confirm your report detail:
 
 • Practice Area
@@ -252,9 +248,9 @@ Confirm your report detail:
 
 • The Number of Credits Required
 
-And build the report click **Build** to generate your report.  
+And click **Build** to generate your report.  
 
-![Step 4](../assets/images/tutorial/case-build-report-4.png)
+![Step 3](../assets/images/tutorial/case-build-report-4.png)
 
 The report status will show as `In Progress` in the Reports tab.  
 Processing may take a few minutes.
