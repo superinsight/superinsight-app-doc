@@ -190,12 +190,12 @@ Organize your case documents by creating and managing folders. This helps you ke
 
 ### Upload File
 
-You can upload file to your case folders for storage, review, or building a report. All uploaded files are automatically processed and logged in the system.
+You can upload files to your case folders for storage, review, or building a report. All uploaded files are automatically processed and logged in the system.
 
 === "Upload a File"
     To upload a file into a folder:
 
-    1. Click the **Upload File** button on the left panel.  
+    1. Click the **Upload File** button on the left panel. **Supported file types:** ZIP, PDF, DOCX, and Plain Text (.txt)  
     2. Select a file from your device and confirm the upload.
 
     Once uploaded, the file will appear in the file list with its upload date, name, and any assigned labels.
@@ -209,6 +209,26 @@ You can upload file to your case folders for storage, review, or building a repo
     > You can proceed to the **Reports** tab to build reports using the uploaded documents.
 
     ![Upload Confirmation](../assets/images/tutorial/case-upload-waiting.png) 
+
+### Bulk Download
+
+You can download multiple files at once using the bulk download feature.
+
+Step 1: Click the **three dots** menu icon in the top right corner of the documents list.
+
+![Bulk Download Step 1](../assets/images/tutorial/documents-files-bulkdownload-1.png)
+
+Step 2: Click **Select Multiple** and use the checkbox to select all files you want to download.
+
+![Bulk Download Step 2](../assets/images/tutorial/documents-files-bulkdownload-2.png)
+
+Step 3: Click the **three dots** menu icon again.
+
+![Bulk Download Step 3](../assets/images/tutorial/documents-files-bulkdownload-3.png)
+
+Step 4: Click **Download Selected** to download all selected files.
+
+![Bulk Download Step 4](../assets/images/tutorial/documents-files-bulkdownload-4.png)
 
 ## Build Report
 
