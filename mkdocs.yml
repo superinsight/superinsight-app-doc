@@ -11,14 +11,16 @@ nav:
   - Quickstart: quickstart.md
   - How To Guide:
     - Guide: guide/index.md
-    - Manage Case: guide/case-contact.md
+    - Manage Case: 
+      - Overview: guide/case-contact.md
+      - Integration: guide/case-integration.md
     - How to Manage Reports: guide/manage-reports.md
     - Manage Documents: guide/case-folder.md
     - Manage Research: guide/research.md
     - Manage Groups: guide/groups.md
     - Manage Organizations: guide/organizations.md
     - Manage Subscription: guide/subscription.md
-    - Referral Program: guide/referral.md
+    - User Profile: guide/user-profile.md
     - Support: guide/support.md
   - Credits and Usage: guide/credit-usage.md
   - Release Notes: guide/release-notes.md

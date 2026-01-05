@@ -105,19 +105,20 @@ Once shared
 After sharing, all invited users or groups will be listed under the "Who has access to this case?" section.  
 You can remove access anytime if needed.
 
-#### Access Control
+=== "Access Control"
+    You can customize access levels for each user or group by using the **Access Control** feature.
 
-You can customize access levels for each user or group by using the **Access Control** feature.
+    This ensures that collaborators only see and edit what they're authorized to handle.
 
-This ensures that collaborators only see and edit what they're authorized to handle.
+    **Set Access**
 
-=== "Set Access"
     Next to each person listed in the **Who has access to this case?** section, you'll find a **gear icon**.  
     Click this icon to open the Access Control dialog and manage permissions.
 
     ![Access Control Button](../assets/images/tutorial/case-share-case-access-control-1.png)
 
-=== "Set Permissions"
+    **Set Permissions**
+
     In the Access Control dialog, you can assign different access levels to individual parts of the case including **Documents**, **Reports**, and **Contact**.
 
     For each part, choose one of the following roles:
@@ -137,8 +138,6 @@ This ensures that collaborators only see and edit what they're authorized to han
 Use filters to quickly narrow down your case list and focus only on the cases that matter to you.
 
 This feature helps you switch between different case sources with just a few clicks.
-
-#### Filter by Case Source
 
 Click the **Filter** button at the top right of the case list to open the dropdown menu.
 
@@ -191,12 +190,12 @@ Organize your case documents by creating and managing folders. This helps you ke
 
 ### Upload File
 
-You can upload file to your case folders for storage, review, or building a report. All uploaded files are automatically processed and logged in the system.
+You can upload files to your case folders for storage, review, or building a report. All uploaded files are automatically processed and logged in the system.
 
 === "Upload a File"
     To upload a file into a folder:
 
-    1. Click the **Upload File** button on the left panel.  
+    1. Click the **Upload File** button on the left panel. **Supported file types:** ZIP, PDF, DOCX, and Plain Text (.txt)  
     2. Select a file from your device and confirm the upload.
 
     Once uploaded, the file will appear in the file list with its upload date, name, and any assigned labels.
@@ -211,6 +210,26 @@ You can upload file to your case folders for storage, review, or building a repo
 
     ![Upload Confirmation](../assets/images/tutorial/case-upload-waiting.png) 
 
+### Bulk Download
+
+You can download multiple files at once using the bulk download feature.
+
+Step 1: Click the **three dots** menu icon in the top right corner of the documents list.
+
+![Bulk Download Step 1](../assets/images/tutorial/documents-files-bulkdownload-1.png)
+
+Step 2: Click **Select Multiple** and use the checkbox to select all files you want to download.
+
+![Bulk Download Step 2](../assets/images/tutorial/documents-files-bulkdownload-2.png)
+
+Step 3: Click the **three dots** menu icon again.
+
+![Bulk Download Step 3](../assets/images/tutorial/documents-files-bulkdownload-3.png)
+
+Step 4: Click **Download Selected** to download all selected files.
+
+![Bulk Download Step 4](../assets/images/tutorial/documents-files-bulkdownload-4.png)
+
 ## Build Report
 
 
@@ -218,31 +237,27 @@ You can upload file to your case folders for storage, review, or building a repo
 ### How to Build a Report  
 <!-- These are step-by-step instructions -->
 
-This section walks users through the full report generation process in four steps.
+This section walks users through the full report generation process.
 
-To begin building a report, go to any **Case**, then click the **Reports** tab at the top.
+#### Click Start Building
+To begin building a report, go to any **Case**, then click the **Reports** tab at the top and click the **Build Report** button to start.
 
-![Build Report Start](../assets/images/tutorial/case-build-report-start.png)
-#### Step 1: Open the Report Builder  
-- Navigate to the **Reports** tab inside any case.  
-- Click the **Build Report** button to start.
+![Start Building](../assets/images/tutorial/case-build-report-1.png)
 
-![Step 1](../assets/images/tutorial/case-build-report-1.png)  
-
-#### Step 2: Select Report Type  
-- Choose your **Practice Area** (e.g., Medical Service or Personal Injury etc...)
-- Choose your **Report Type** (e.g., Medical Chronology, Basic Summary, or Advanced Mode).
-Each option will display how many credits are required.
-
-![Step 2](../assets/images/tutorial/case-build-report-2.png)
-
-#### Step 3: Select Source Files  
+#### Step 1: Select Source Files  
 - Choose which files you'd like to include in the report.  
 - You can filter by labels or use folders and may select one or multiple documents.
 
-![Step 3](../assets/images/tutorial/case-build-report-3.png)
+![Step 1](../assets/images/tutorial/case-build-report-2.png)
 
-#### Step 4: Build Report  
+#### Step 2: Choose Template  
+- Choose your **Practice Area** (e.g., Medical Service or Personal Injury etc...)
+- Choose your **Report Type** (e.g., Medical Chronology, Basic Summary, or Advanced Templates).
+Each option will display how many credits are required.
+
+![Step 2](../assets/images/tutorial/case-build-report-3.png)
+
+#### Step 3: Build Report  
 Confirm your report detail:
 
 • Practice Area
@@ -253,9 +268,9 @@ Confirm your report detail:
 
 • The Number of Credits Required
 
-And build the report click **Build** to generate your report.  
+And click **Build** to generate your report.  
 
-![Step 4](../assets/images/tutorial/case-build-report-4.png)
+![Step 3](../assets/images/tutorial/case-build-report-4.png)
 
 The report status will show as `In Progress` in the Reports tab.  
 Processing may take a few minutes.

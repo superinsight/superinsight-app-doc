@@ -184,6 +184,9 @@ The report editor provides powerful tools for content modification:
     
     - **AI-powered suggestions** for content improvement
     - **Summary generation** for key findings
+    - **Choose AI Model** to select your preferred AI model for generating insights
+    
+    ![Choose AI Model](../assets/images/tutorial/reports-edit-insight-ai.png)
     
     **Example questions you can ask:**
     
