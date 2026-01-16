@@ -6,27 +6,31 @@ THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSE
 
 ## Our Commitment to Your Privacy
 
-Superinsight ("we," "us," or "our") is dedicated to maintaining the privacy of your Protected Health Information (PHI). In conducting our business as an AI-driven medical record review and chronology software provider, we may create, receive, maintain, and transmit records regarding your medical history and health status. We are required by law to maintain the privacy of your PHI, to provide you with this Notice of our legal duties and privacy practices, and to notify you following a breach of unsecured PHI.
+Superinsight ("we," "us," or "our") is dedicated to maintaining the privacy of your Protected Health Information (PHI). Superinsight provides services that allow users to upload or synchronize their enterprise/personal files or data to our services and get insights and assistance. In the course of providing these services, we may create, receive, maintain, and transmit records that may contain Protected Health Information (PHI). We are committed to maintaining the privacy of your PHI in accordance with applicable laws, including the Health Insurance Portability and Accountability Act (HIPAA) and its implementing regulations.
 
-We are required to abide by the terms of this Notice currently in effect. We reserve the right to change the terms of this Notice and to make the new Notice provisions effective for all PHI that we maintain. If we make material changes, we will provide a revised Notice by posting it on our website at [superinsight.ai](https://superinsight.ai/).
+We are required to abide by the terms of this Notice currently in effect. We reserve the right to change the terms of this Notice and to make the new Notice provisions effective for all PHI that we maintain. If we make material changes, we will provide a revised Notice by posting it on our website at [www.superinsight.ai](https://www.superinsight.ai/) and will notify you of significant changes in accordance with our Privacy Policy.
 
 ## How We May Use and Disclose Your Information
 
 We may use and disclose your PHI for the following purposes:
 
-**1. Treatment:** We may use your PHI to provide, coordinate, or manage your health care and related services. For example, we may process medical records to provide chronologies or summaries to legal or medical experts involved in your care or case management.
+**1. Service Provision:** We may use your PHI to provide, coordinate, or manage the services you have requested. For example, we may process files or data you upload to provide insights, chronologies, summaries, or other assistance as part of our Service.
 
-**2. Payment:** We may use and disclose your PHI to bill and collect payment for the services we provide.
+**2. Business Associates:** We do not share Personal Information, including PHI, with vendors who are performing services for Superinsight, such as artificial intelligence or large language model companies, or third parties integration services like cloud drives and databases, except as required by law or with your explicit authorization. Any disclosures to business associates will be made only with appropriate safeguards and written agreements requiring them to protect your privacy.
 
-**3. Health Care Operations:** We may use and disclose your PHI for our business operations. These uses are necessary to run our organization and ensure quality service. For example, we may use your information to evaluate the accuracy of our AI software, for quality assessment, or for internal audits to improve our medical review tools.
+**3. Required by Law:** We will disclose your PHI when required to do so by federal, state, or local law, including disclosures to the Secretary of the Department of Health and Human Services to investigate our compliance with HIPAA.
 
-**4. Business Associates:** We may disclose PHI to our third-party business associates who perform services on our behalf (e.g., cloud storage providers, IT support). We require them to protect your privacy appropriately through written agreements.
-
-**5. Required by Law:** We will disclose your PHI when required to do so by federal, state, or local law, including disclosures to the Secretary of the Department of Health and Human Services to investigate our compliance with HIPAA.
-
-**6. Public Health and Safety:** We may disclose PHI for public health activities, to report abuse or neglect, or to prevent a serious threat to health or safety.
+**4. Public Health and Safety:** We may disclose PHI for public health activities, to report abuse or neglect, or to prevent a serious threat to health or safety.
 
 **Other Uses and Disclosures:** Uses and disclosures not described in this Notice (such as for marketing purposes or the sale of PHI) will be made only with your written authorization. You may revoke such authorization at any time in writing, except to the extent that we have already taken action in reliance on it.
+
+## How We Protect Information
+
+We implement security measures designed to protect your information from unauthorized access. Your account is protected by our mechanism that sends an OTP pin code to your personal phone number to ensure the login session is done by you personally, and we urge you to take steps to keep your personal information safe by not disclosing your phone number and by logging out of your account after each use.
+
+We further protect your information from potential security breaches by implementing certain technological security measures including encryption, firewalls and secure socket layer technology. However, these measures do not guarantee that your information will not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software. By using our Service, you acknowledge that you understand and agree to assume these risks.
+
+In the event of a breach of unsecured PHI, we will notify you in accordance with applicable HIPAA breach notification requirements.
 
 ## Your Rights Regarding Your Health Information
 
@@ -36,9 +40,9 @@ You have the following rights regarding the PHI we maintain about you:
 
 **Right to Amend:** If you feel that the PHI we have is incorrect or incomplete, you may ask us to amend the information.
 
-**Right to an Accounting of Disclosures:** You have the right to request a list (accounting) of certain disclosures we made of your PHI for purposes other than treatment, payment, or health care operations.
+**Right to an Accounting of Disclosures:** You have the right to request a list (accounting) of certain disclosures we made of your PHI for purposes other than service provision.
 
-**Right to Request Restrictions:** You have the right to request a restriction or limitation on the PHI we use or disclose for treatment, payment, or health care operations.
+**Right to Request Restrictions:** You have the right to request a restriction or limitation on the PHI we use or disclose for service provision.
 
 **Right to Request Confidential Communications:** You have the right to request that we communicate with you about medical matters in a certain way or at a certain location.
 
@@ -54,6 +58,9 @@ To file a complaint with us, please contact our Privacy Officer using the inform
 
 If you have any questions about this Notice or wish to exercise your rights, please contact:
 
-Address: 1259 El Camino #1111 Menlo Park, CA 94025 USA  
-Email: support@superinsight.ai  
-**Last Updated:** This HIPAA Notice of Privacy Practices was last updated on Jan 12th, 2026.
+Address: 1259 El Camino Real #1111 Menlo Park, California 94025  
+Email: [help@superinsight.ai](mailto:help@superinsight.ai)
+
+**Last Updated:** This HIPAA Notice of Privacy Practices was last updated on January 12th, 2026.
+
+© 2026 All rights reserved by Superinsight

@@ -28,7 +28,7 @@ nav:
   - Official Website: https://www.superinsight.ai
   - Privacy Policy: guide/privacy-policy.md
   - Terms of Use: guide/terms-of-use.md
-  - HIPAA Notice of Privacy Practices: guide/hipaa-notice.md
+  - HIPAA Notice: guide/hipaa-notice.md
 markdown_extensions:
   - attr_list
   - admonition
