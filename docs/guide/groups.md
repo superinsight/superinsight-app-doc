@@ -1,48 +1,74 @@
 # Manage Groups
 
-The Groups feature allows you to create multiple groups based on your work scenarios and needs, enabling better organization and management of team members. You can create groups to collaborate on cases, share files, and set different access permissions for different groups.
+Groups enable efficient **team organization and management** for different work scenarios. **Create groups to collaborate on cases, share files, and set different access permissions** based on your specific needs.
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/iZOaLA0_sZE?rel=0&si=no1Sm1ePwA50t1VB" 
+title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+referrerpolicy="strict-origin-when-cross-origin" 
+allowfullscreen></iframe>
 
 ## Create a New Group
 
-To create a new group, follow these steps:
+Navigate to **Groups** from the left sidebar to access the group management workspace.
 
-=== "Access Settings"
-    Click the menu icon in the upper-right corner, then select **Settings**.
+**Steps to create a new group:**
 
-    ![Menu](../assets/images/tutorial/menu-1.png)
+1. Click **Groups** in the left sidebar to open the Groups section
+2. Click the **New Group** button in the top-right corner, or
+3. Click **Create Your First Group** button in the center (if no groups exist yet)
+4. Enter the group name and click **Create** to complete setup
 
-=== "Manage Groups"
-    Click the "**>**" button next to **Manage Group**.
-
-    ![Manage Group](../assets/images/tutorial/manage-group.png)
-
-=== "Create Group"
-    Click the **Create Group** button, enter the group name, then click **Create**.
-
-    ![Create Group](../assets/images/tutorial/create-folder.png)
+![Groups Navigation](../assets/images/tutorial/group-navigator.png)
 
 ## Invite Members to a Group
 
-After creating a group, you can invite members through the following methods:
+After creating a group, invite members using these methods:
 
 === "Invite New Member"
     Click the **Invite New Member** button and enter the member's email address to send an invitation.
 
-    ![Invite New Member](../assets/images/tutorial/group-invite.png)
+    ![Invite New Member](../assets/images/tutorial/group-invite-member.png)
 
 === "Import from Organization"
-    You can also import members to your group from your organization. Members will receive an invitation and must accept it before joining the group.
+    **Import existing organization members** to your group. Invited members must accept before joining.
 
-    ![Import New Member](../assets/images/tutorial/group-import.png)
+    ![Import New Member](../assets/images/tutorial/group-import-organization1.png)
+
+    ![Import Confirmation](../assets/images/tutorial/group-import-organization2.png)
 
 === "Member List"
-    View all members in the group. Group owners can remove any member.
+    View all members in the group. **Group owners can remove any member**.
 
-    ![Group Member List](../assets/images/tutorial/group-owner-list.png)
+    ![Group Member List](../assets/images/tutorial/group-member-list.png)
+
+## Share My Cases
+
+After creating a group and adding members, you can share your cases with the entire group for collaborative work.
+
+=== "Share All Cases"
+    Enable the **"Share all my cases with this group"** toggle at the bottom of the group page to automatically share all current and future cases with group members. The access control dialog appears automatically after enabling the toggle, or you can **click the gear icon** on the right to access it anytime.
+
+    ![Share All Cases](../assets/images/tutorial/group-share-cases.png)
+
+=== "Access Control"
+    Set appropriate **access permissions** for group members to control what they can view and edit in shared cases.
+
+    In the Access Control dialog, you can assign different access levels to individual parts of the case including **Documents**, **Reports**, and **Contact**.
+
+    For each part, choose one of the following roles:
+
+    - **Read** – View-only access. The user can see the content but cannot make any changes.
+    - **Write** – Full access to view, edit, and update content.
+    - **None** – The user has no access to this section.
+
+    ![Control Access](../assets/images/tutorial/group-access-control.png)
 
 ## Example Use Cases for Groups
 
-The Groups feature is suitable for the following scenarios:
+Groups are ideal for these scenarios:
 
 ### 1. Case Collaboration
 - Create dedicated groups for specific cases
@@ -65,6 +91,7 @@ The Groups feature is suitable for the following scenarios:
 - Easily disband groups after project completion
 - Flexible management of project-related access permissions
 
+<!--
 ## Group Permission Management
 
 Group owners can:
@@ -74,14 +101,10 @@ Group owners can:
 
     ![Edit Group](../assets/images/tutorial/group-edit.png)
 
-=== "Share with Group"
-    Share all your cases with group members and set access permissions for members.
-
-    ![Share with Group](../assets/images/tutorial/group-permission.png)
-
 === "Leave Group"
     If you are a group member, click the **Leave** button to leave the group.
 
     ![Leave Group](../assets/images/tutorial/group-leave.png)
 
-Through effective group management, you can improve team collaboration efficiency, ensure information security, and provide flexible organizational structures for different work scenarios. 
+Effective group management improves collaboration efficiency, ensures information security, and provides flexible organizational structures for various work scenarios.
+--> 
