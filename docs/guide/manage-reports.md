@@ -202,7 +202,30 @@ The report editor provides powerful tools for content modification:
     
     ![Report Insight](../assets/images/tutorial/reports-edit-insight.png)
 
+## Advanced Template
 
+Advanced Template provides a powerful way to create customized reports with more control over the output. Unlike Basic Templates that generate predefined report structures, Advanced Template allows you to define your own report sections and content requirements.
+
+### What is Advanced Template?
+
+Advanced Template is designed for users who need:
+
+- **Custom report structures** tailored to specific case requirements
+- **Flexible section definitions** to match your workflow
+- **Greater control** over the analysis and output format
+
+### How to Use Advanced Template
+
+1. When building a report, select **Advanced Templates** tab in the Choose Template step
+2. Choose an advanced template or create custom sections
+3. Define your specific requirements for each section
+4. Build the report with your customized structure
+
+### When to Use Advanced Template
+
+- When standard report templates don't meet your specific needs
+- When you need a unique report structure for a particular case type
+- When you want to focus on specific aspects of the medical records
 
 
 
