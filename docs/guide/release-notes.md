@@ -6,6 +6,22 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
+#### January 19, 2026 Release
+
+This update introduces a redesigned settings interface for more intuitive account management, upgrades our file access security protocols, and adds self-service BAA downloads.
+
+**Features & Improvements**
+
+* **Redesigned Settings Page** - We have revamped the settings page with a new tabbed layout, introducing "User Settings" and a brand new "Legal & Compliance" section. This enhanced structure provides quicker navigation and a cleaner, more intuitive user experience.
+
+* **Self-Service BAA Access** - Within the new "Legal & Compliance" tab, we have added the ability to check the status of and download your BAA (Business Associate Agreement). Users with compliance requirements can now access these documents directly within the platform.
+
+**Security & Stability**
+
+* **Enhanced File Access Security** - We have upgraded the mechanism for viewing and downloading files. The new architecture utilizes time-sensitive, secure links, which significantly improves data security while also enhancing overall system stability.
+
+---------------------------------------
+
 #### January 12, 2026 Release
 
 This update focuses on optimizing the synchronization mechanism with Chronicle, enhancing security features, and resolving interruptions in report generation.
@@ -59,6 +75,56 @@ This update introduces greater payment flexibility and improves the handling of 
 * **One-Time Payment Support** - We have expanded our payment capabilities to support one-time transactions. This addition provides greater flexibility alongside our existing subscription models, allowing for seamless single-use purchases.
 
 * **Enhanced Discount & Referral Codes** - We have optimized the input interface and logic for discount and referral codes. This enhancement ensures that your codes are accurately preserved and calculated during plan modifications—such as upgrades, downgrades, or re-subscriptions—so your benefits remain intact.
+
+---------------------------------------
+
+#### November 30, 2025 Release
+
+**Highlights: Chronicle Integration & History Retention**
+
+* **Chronicle Legal Integration** - Launched seamless integration with Chronicle, allowing legal professionals to connect case data directly for a more efficient workflow.
+
+* **Conversation History Retention** - Your Report Insight and Research conversations are now fully preserved. You can revisit previous analysis threads anytime without losing context after a refresh.
+
+* **Section-Specific Download** - Added flexibility to exports. You can now choose to download specific sections of a report instead of the entire document.
+
+---------------------------------------
+
+#### October 31, 2025 Release
+
+**Highlights: Credit Management & Stability**
+
+* **Credits Usage Dashboard** - Introduced a dedicated Credits Usage Page, giving you a transparent view of your organization's credit consumption and remaining balance.
+
+* **Subscription & Feature Fixes** - Resolved issues preventing some organizations from renewing or purchasing credits, and fixed the @mention file referencing to ensure a smooth research experience.
+
+---------------------------------------
+
+#### September 30, 2025 Release
+
+**Highlights: Team Collaboration & File Safety**
+
+* **Protected File Alerts** - If you attempt to use password-protected files, a clear popup warning will let you know immediately.
+
+* **Enhanced Team Sharing** - Improved permission logic for Shared Groups and resolved issues with missing shared case folders, ensuring accurate data synchronization for teams.
+
+---------------------------------------
+
+#### August 31, 2025 Release
+
+**Highlights: Report Generation Performance**
+
+* **Custom Template Stability** - Optimized the engine for Custom Templates, resolving timeout issues to ensure reliable and fast generation even for complex reports.
+
+---------------------------------------
+
+#### July 31, 2025 Release
+
+**Highlights: Editor Efficiency**
+
+* **Smart File Referencing** - Easily reference specific files in the chat window using commands (like @), making it faster to direct the AI to analyze specific documents.
+
+* **Table Copy & Paste Support** - The report editor now supports seamless copy-and-paste for tables, preserving formatting and saving you time on data rearrangement.
 
 ---------------------------------------
 
