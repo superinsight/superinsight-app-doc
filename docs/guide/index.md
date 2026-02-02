@@ -13,7 +13,6 @@ Learn more about Superinsight with the following How To Guide.
 | [Manage Groups](groups.md)                   | Create and manage team groups       |
 | [Manage Organizations](organizations.md)     | Manage organization settings and members|
 | [Manage Subscription](subscription.md)       | View and manage your subscription plan|
-| [User Profile](user-profile.md)              | View and manage your profile settings|
 | [Support](support.md)                        | Get help and contact support team  |
 
 

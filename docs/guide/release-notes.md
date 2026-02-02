@@ -6,6 +6,54 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
+#### February 2, 2026 Release
+
+This update introduces the powerful Deep 2.0 analysis engine, alongside improvements to export formatting and file compatibility.
+
+**Major Updates**
+
+* **Introducing Deep 2.0** - We have introduced the Deep 2.0 engine into the Research and Insight. This infrastructure upgrade significantly enhances data consistency and reliability, delivering higher-quality, more structured analysis and insights.
+
+**Improvements**
+
+* **Support for Underlines in Word Export** - We have added support for exporting underline formatting. Underlined text displayed in the web report now renders correctly in downloaded DOCX files, ensuring your documents look exactly as intended.
+
+* **Enhanced PDF Compatibility** - We have upgraded our file processing engine to better handle structurally damaged or older PDF files. This ensures smoother previews and processing, significantly reducing file read errors.
+
+* **Responsive "Stop" Button** - The behavior of the "Stop" button in the Research and Insight has been optimized. Clicking it now instantly halts the generation process, and the task will not resume unexpectedly after a page refresh, giving you better control.
+
+---------------------------------------
+
+#### January 26, 2026 Release
+
+This update focuses on streamlining the subscription experience and improving system performance for image processing and file access.
+
+**Features & Improvements**
+
+* **Enhanced Pricing Page** - We have redesigned the Pricing Plan page to clearly present all options and plan differences. Additionally, we introduced a Bulk Purchase feature, allowing you to buy multiple credit packages at once for greater flexibility.
+
+* **Vision-to-Text Performance Boost** - We upgraded the core engine for our Vision-to-text tasks. This improvement delivers faster and more reliable image content recognition, ensuring a smoother report generation process.
+
+* **Optimized File Viewing & Downloading** - The mechanisms for the Source File Viewer and download buttons have been improved. This update ensures a more secure and stable experience when loading or retrieving your documents.
+
+---------------------------------------
+
+#### January 19, 2026 Release
+
+This update introduces a redesigned settings interface for more intuitive account management, upgrades our file access security protocols, and adds self-service BAA downloads.
+
+**Features & Improvements**
+
+* **Redesigned Settings Page** - We have revamped the settings page with a new tabbed layout, introducing "User Settings" and a brand new "Legal & Compliance" section. This enhanced structure provides quicker navigation and a cleaner, more intuitive user experience.
+
+* **Self-Service BAA Access** - Within the new "Legal & Compliance" tab, we have added the ability to check the status of and download your BAA (Business Associate Agreement). Users with compliance requirements can now access these documents directly within the platform.
+
+**Security & Stability**
+
+* **Enhanced File Access Security** - We have upgraded the mechanism for viewing and downloading files. The new architecture utilizes time-sensitive, secure links, which significantly improves data security while also enhancing overall system stability.
+
+---------------------------------------
+
 #### January 12, 2026 Release
 
 This update focuses on optimizing the synchronization mechanism with Chronicle, enhancing security features, and resolving interruptions in report generation.
@@ -36,103 +84,7 @@ This update focuses on optimizing the payment synchronization, alongside fixes f
 
 ---------------------------------------
 
-#### December 29, 2025 Release
-
-This update focuses on upgrading our underlying security infrastructure and validating compliance standards, ensuring the highest level of protection for your data.
-
-**Security & Infrastructure**
-
-* **Data Encryption Upgrade** - We have fully enabled Encryption at Rest for our databases. This upgrade ensures that all your data is encrypted using high-security standards while stored, providing an extra layer of protection for sensitive information.
-
-* **SOC 2 Compliance & Disaster Recovery** - As part of our commitment to SOC 2 compliance, we have successfully validated our Disaster Recovery protocols. This ensures that our systems maintain data integrity and recoverability even in the event of unexpected incidents.
-
-* **Enhanced Network Isolation** - We have optimized our network architecture by migrating core databases to a strictly isolated environment, significantly strengthening the system's defense against external threats.
-
----------------------------------------
-
-#### December 22, 2025 Release
-
-This update introduces greater payment flexibility and improves the handling of discount and referral codes.
-
-**Features & Improvements**
-
-* **One-Time Payment Support** - We have expanded our payment capabilities to support one-time transactions. This addition provides greater flexibility alongside our existing subscription models, allowing for seamless single-use purchases.
-
-* **Enhanced Discount & Referral Codes** - We have optimized the input interface and logic for discount and referral codes. This enhancement ensures that your codes are accurately preserved and calculated during plan modifications—such as upgrades, downgrades, or re-subscriptions—so your benefits remain intact.
-
----------------------------------------
-
-#### June 30, 2025 Release
-
-* Windows Desktop Application launched - download and install the desktop version for enhanced performance.
-
-* Report Editing feature added - modify and customize your generated reports directly within the platform.
-
-* Enhanced Insight functionality - ask questions about specific files or report sections for targeted analysis.
-
-* Medical Malpractice Report improvements - now includes supporting details with precision down to specific hours and minutes.
-
----------------------------------------
-
-#### March 20, 2025 Release
-
-* Updated the flow for building report
-
-* Added report viewer and other report related features
-
-* Added insight tab
-
-* Relocated contact information page
-
-* Improved UI/UX
-
----------------------------------------
-
-#### February 20, 2025 Release
-
-* Live Help feature added.
-
-* Support building reports with custom prompts.
-
-* Veteran Disability Report enhancement.
-
-* Social Security Disability Report enhancement.
-
-* Personal Injury Report enhancement.
-
-* System optimized.
-
----------------------------------------
-
-#### January 13, 2025 Release
-
-* VA Cfile report supports download in CSV format.
-
-* UI tutorial for first-time users added.
-
-* System optimized.
-
----------------------------------------
-
-#### January 4, 2025 Release
-
-* Organization & Group mechanisms implemented.
-
-* New feature - Share Cases.
-
-* Notification Center added.
-
-* Show Information of subscription status and credit usages.
-
-* Veteran Disability Report enhancement.
-
-* Social Security Disability Report enhancement.
-
-* Personal Injury Report enhancement.
-
-* Improved the results of reports.
-
-* System optimized.
+#### [2025 Release History](/guide/release-history-2025)
 
 ---------------------------------------
 
