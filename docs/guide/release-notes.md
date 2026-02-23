@@ -6,6 +6,20 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
+#### February 23, 2026 Release
+
+This update focuses on upgrading the report editing experience and implementing backend architecture improvements for faster generation.
+
+**Improvements**
+
+* **Side-by-Side Markdown Editor Preview** - We have upgraded the editor on the report editing page! It now supports a real-time side-by-side preview, allowing you to easily edit Markdown while simultaneously viewing the final formatted output, significantly boosting your editing efficiency.
+
+* **Smart Task Routing for Faster Generation** - We have upgraded our backend processing architecture. "Fast" agent and "Deep" agent in Research tasks are now intelligently routed to dedicated processing queues. This reduces wait times and ensures all tasks are completed at optimal speeds.
+
+* **Streamlined Agent Selection** - To ensure you always get the best results, we have retired the legacy Deep-0.9 and Deep-1.0 engines from the selector in Research page. This simplifies the interface, allowing you to focus on our latest and most capable models.
+
+---------------------------------------
+
 #### February 2, 2026 Release
 
 This update introduces the powerful Deep 2.0 analysis engine, alongside improvements to export formatting and file compatibility.
