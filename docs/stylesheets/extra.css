@@ -22,3 +22,56 @@
 html {
     scroll-behavior: smooth;
 }
+
+/* Center tabbed content labels */
+.md-typeset .tabbed-labels {
+    justify-content: center;
+    background-color: #f0f0f0;
+    border-radius: 20px;
+    padding: 3px;
+    width: fit-content;
+    margin: 0 auto 1rem auto;
+    border: none;
+    gap: 0;
+}
+
+/* Tab label styling - default black text (未選中) */
+.md-typeset .tabbed-labels > label {
+    padding: 4px 20px;
+    border-radius: 16px;
+    font-weight: 500;
+    font-size: 0.75rem;
+    line-height: 1;
+    color: #000000 !important;
+    background-color: transparent;
+    border: none;
+    transition: all 0.3s ease;
+}
+
+/* Active tab styling - blue background with white text (選中) */
+.md-typeset .tabbed-set > input:checked + label,
+.md-typeset .tabbed-labels > label:has(+ input:checked),
+.md-typeset [data-md-component="content"] .tabbed-set > input:checked + label,
+.md-typeset .tabbed-labels label[for].tabbed-labels--active,
+.md-typeset .tabbed-labels > label.tabbed-labels--active {
+    color: #ffffff !important;
+    background-color: #153464 !important;
+    font-weight: 700 !important;
+}
+
+/* Hide the default underline indicator */
+.md-typeset .tabbed-set > input:checked + label::after,
+.md-typeset .tabbed-labels--active::after,
+.md-typeset .tabbed-labels > label::after {
+    background-color: transparent !important;
+    display: none !important;
+    height: 0 !important;
+}
+
+/* Override any theme defaults for active state */
+.md-typeset .tabbed-labels > .tabbed-labels--active,
+.md-typeset .tabbed-labels label.tabbed-labels--active {
+    color: #ffffff !important;
+    background-color: #153464 !important;
+    font-weight: 700 !important;
+}
