@@ -6,6 +6,90 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
+#### April 1, 2026 Release
+
+This update introduces major enhancements to file management, expands supported upload formats, and includes key stability fixes for file parsing and permission management.
+
+**Improvements**
+
+* **Advanced File Management**
+    * **Rename** - Users can now rename files and folders directly via the right-click context menu.
+    * **Move to Folder** - Move files intuitively using drag-and-drop or the newly designed folder selection dialog. The system includes built-in safeguards and warnings to prevent accidental movement of files linked to active reports.
+    * **Retry Failed Pages** - If a file encounters an error during processing, users can now specifically retry the failed pages. The system updates its status in real-time, eliminating the need to re-upload the entire document.
+
+* **Expanded Upload Formats** - Added support for image files (JPG, JPEG, PNG) and email files (EML, MSG), allowing for a wider variety of data sources to be imported for analysis.
+
+* **Encrypted PDF Detection** - The system now automatically detects password-protected PDFs during the upload stage and immediately displays a warning dialog, preventing downstream processing failures.
+
+* **Upgraded Bookmark Extraction** - Fixed and upgraded the technology used to extract PDF bookmarks. The system now reads and preserves bookmarks from all PDF structures without missing chapter information.
+
+**Bug Fixes**
+
+* **Shared Folder Permissions Fix** - Resolved a permission resolution issue for sub-folders within Shared Cases, ensuring accurate read/write access for team collaboration.
+
+---------------------------------------
+
+#### March 23, 2026 Release
+
+This release focuses on resolving issues within the report editor and payment flow, enhancing system stability, and improving the output quality for specific report templates.
+
+**Improvements**
+
+* **Template Quality Enhancements** - Upgraded the generation logic for the SSA 5-Step Chronology templates. This update improves structural consistency and the overall quality of the analysis.
+
+* **Improved Payment Error Handling** - Refined the error handling mechanism during the subscription and payment process. If a transaction fails, users will now see a clear error dialog instead of being stuck on a loading screen.
+
+**Bug Fixes**
+
+* **Report Editor Fix** - Resolved an issue where the report editor interface could crash when users attempted to add a new section to a completely empty report.
+
+---------------------------------------
+
+#### March 16, 2026 Release
+
+This release includes updates to report progress tracking, multi-tasking capabilities in Report Insight, and backend infrastructure improvements for enhanced stability.
+
+**Features & Improvements**
+
+* **Real-time Report Progress Bar** - The Report List page now displays a real-time progress percentage for reports currently being generated, allowing users to track processing status.
+
+* **Multi-Conversation & Concurrent Questions in Report Insight**
+    * **Independent Conversations** - Users can now open multiple independent conversation windows within a single report. Each conversation separately retains its history, selected files, and AI settings.
+    * **Concurrent Processing** - Users can now submit multiple questions simultaneously. The system processes these requests in parallel and provides real-time status updates for each.
+
+* **File Upload Notifications** - Improved the notification mechanism for batch uploads. The system now displays clear error messages for unsupported or failed files, replacing the previous silent-skip behavior.
+
+* **Optimized Source Citations** - Refined the display logic for the Deep 2.0 engine in Report Insight to ensure more accurate and consistent source citations.
+
+**Bug Fixes**
+
+* **Fixed Deleted Conversation Display** - Resolved an issue where previously deleted conversation histories would still appear on the Research and Report Insight pages.
+
+---------------------------------------
+
+#### March 2, 2026 Release
+
+This update brings greater flexibility to report management, introduces smart safety guards for file deletion, and significantly accelerates file processing speeds through major infrastructure upgrades.
+
+**Features & Improvements**
+
+* **Custom Report Naming** - You can now name your reports! Whether during creation or afterward by clicking the "Rename" button, customizing report names is now fully supported, helping you keep your projects perfectly organized.
+
+* **Smart Deletion Safety Guards** - To prevent accidental data loss, we have introduced a new verification system when deleting files:
+    * If you try to delete a file that is currently being used to generate a report, the system will block the deletion to ensure the process finishes successfully.
+    * If you try to delete a file that is linked to existing completed reports, a warning dialog will list the affected reports, asking for your confirmation before proceeding.
+    * Additionally, the system will now clearly notify you if a report cannot be "Rebuild" because its source file was previously deleted.
+
+**UI & Usability Enhancements**
+
+* **Quick File Referencing** - Added a "+ Files" button in the Insight chat input field, making it easier and more intuitive to reference specific files during your conversation.
+
+* **Keyboard Navigation** - When using @ to mention files, you can now use the Up/Down arrow keys to navigate the suggestion list and the Tab or Enter key to select.
+
+* **Folder Management** - The "Delete Folder" button has been repositioned for a better user experience, and the loading speed when navigating into case folders has been improved.
+
+---------------------------------------
+
 #### February 23, 2026 Release
 
 This update focuses on upgrading the report editing experience and implementing backend architecture improvements for faster generation.

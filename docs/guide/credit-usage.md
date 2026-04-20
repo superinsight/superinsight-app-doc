@@ -2,27 +2,39 @@
 
 Superinsight uses a **credit-based system** that helps you efficiently manage your usage and allocate resources where they are needed. This page provides an overview of how the credit system works, so you can easily track your subscription and make the most of our services.
 
-## Subscription Plan
-Superinsight operates on a monthly credit allocation system based on your subscription plan. Below are the available tiers:
+## Subscription Plans
 
---------------------
-**Starter - Credits: 6 / $250 USD**
-<br>Ideal for firms handling a small to medium volume of cases.
---------------------
-**Pro - Credits: 18 / $500 USD**
-<br>Perfect for firms with high-volume needs.
---------------------
+Superinsight operates on a credit allocation system based on your subscription plan. Below are the available tiers:
+
+=== "Monthly"
+
+    | Plan | Price | Credits | Per Credit | Best For |
+    |------|-------|---------|------------|----------|
+    | **One Time Credits** | $80 one-time | 1 credit minimum | $80.00/credit | Buy prepaid credits with no subscription |
+    | **Starter** | $300/month | 4 credits/month | $75.00/credit | Advocates handling 1-2 cases per month |
+    | **Pro** | $600/month | 12 credits/month | $50.00/credit | Solo firms handling 3-6 cases per month |
+    | **Grow** | $1,500/month | 36 credits/month | $41.67/credit | Firms handling 10-20 cases per month |
+    | **Scale** | $3,000/month | 80 credits/month | $37.50/credit | Growing firms handling 20-50 cases per month |
+    | **Enterprise** | $6,000/month | 200 credits/month | $30.00/credit | Large firms handling 50-100+ cases per month |
+
+=== "Yearly"
+
+    | Plan | Price | Credits | Per Credit | Best For |
+    |------|-------|---------|------------|----------|
+    | **One Time Credits** | $80 one-time | 1 credit minimum | $80.00/credit | Buy prepaid credits with no subscription |
+    | **Starter** | $250/month | 4 credits/month | $62.50/credit | Advocates handling 1-2 cases per month |
+    | **Pro** | $500/month | 12 credits/month | $41.67/credit | Solo firms handling 3-6 cases per month |
+    | **Grow** | $1,250/month | 36 credits/month | $34.72/credit | Firms handling 10-20 cases per month |
+    | **Scale** | $2,500/month | 80 credits/month | $31.25/credit | Growing firms handling 20-50 cases per month |
+    | **Enterprise** | $5,000/month | 200 credits/month | $25.00/credit | Large firms handling 50-100+ cases per month |
+
+All subscription plans include:
+
+- Auto-renewal
+- Priority support
+- No credit card required to get started
 
 Credits are added to your account on the **first day of your billing cycle** and **expire after 30 days** if not used.
-
-## One-Time Credit Purchase
-
-If you don't want to commit to a monthly subscription, you can purchase credits on a one-time basis:
-
---------------------
-**One-Time - 1 Credit / $80 USD**
-<br>Purchase individual credits as needed without a subscription commitment.
---------------------
 
 ## Credits Cost per Report
 
@@ -45,7 +57,5 @@ If you need additional credits, click the **"UPGRADE"** button in the credits se
 ![Increase Credits](../assets/images/tutorial/credit-and-usage-increase-creadit.png)
 
 **Unused credits roll over** when you upgrade your subscription.
-
-For example, if your current subscription ends on January 31, 2025, and you have 4 remaining credits, upgrading to the Pro plan will give you a total of 22 credits (4 existing + 18 new) after payment.
 
 For any questions about our credit system, subscription assistance, or troubleshooting, please [contact our support team.](mailto:help@superinsight.ai)
