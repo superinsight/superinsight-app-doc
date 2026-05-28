@@ -683,6 +683,42 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#april-1-2026-release" class="md-nav__link">
+    <span class="md-ellipsis">
+      April 1, 2026 Release
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#march-23-2026-release" class="md-nav__link">
+    <span class="md-ellipsis">
+      March 23, 2026 Release
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#march-16-2026-release" class="md-nav__link">
+    <span class="md-ellipsis">
+      March 16, 2026 Release
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#march-2-2026-release" class="md-nav__link">
+    <span class="md-ellipsis">
+      March 2, 2026 Release
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#february-23-2026-release" class="md-nav__link">
     <span class="md-ellipsis">
       February 23, 2026 Release
@@ -914,6 +950,42 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#april-1-2026-release" class="md-nav__link">
+    <span class="md-ellipsis">
+      April 1, 2026 Release
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#march-23-2026-release" class="md-nav__link">
+    <span class="md-ellipsis">
+      March 23, 2026 Release
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#march-16-2026-release" class="md-nav__link">
+    <span class="md-ellipsis">
+      March 16, 2026 Release
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#march-2-2026-release" class="md-nav__link">
+    <span class="md-ellipsis">
+      March 2, 2026 Release
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#february-23-2026-release" class="md-nav__link">
     <span class="md-ellipsis">
       February 23, 2026 Release
@@ -1009,6 +1081,104 @@
 <div><h1 id="release-notes">Release Notes</h1>
 <h2 id="overview">Overview</h2>
 <p>Release notes provide the list of items on feature changes, known issues, fixes, workarounds, and deprecations for recent software releases.</p>
+<hr>
+<h4 id="april-1-2026-release">April 1, 2026 Release</h4>
+<p>This update introduces major enhancements to file management, expands supported upload formats, and includes key stability fixes for file parsing and permission management.</p>
+<p><strong>Improvements</strong></p>
+<ul>
+<li>
+<p><strong>Advanced File Management</strong></p>
+<ul>
+<li><strong>Rename</strong> - Users can now rename files and folders directly via the right-click context menu.</li>
+<li><strong>Move to Folder</strong> - Move files intuitively using drag-and-drop or the newly designed folder selection dialog. The system includes built-in safeguards and warnings to prevent accidental movement of files linked to active reports.</li>
+<li><strong>Retry Failed Pages</strong> - If a file encounters an error during processing, users can now specifically retry the failed pages. The system updates its status in real-time, eliminating the need to re-upload the entire document.</li>
+</ul>
+</li>
+<li>
+<p><strong>Expanded Upload Formats</strong> - Added support for image files (JPG, JPEG, PNG) and email files (EML, MSG), allowing for a wider variety of data sources to be imported for analysis.</p>
+</li>
+<li>
+<p><strong>Encrypted PDF Detection</strong> - The system now automatically detects password-protected PDFs during the upload stage and immediately displays a warning dialog, preventing downstream processing failures.</p>
+</li>
+<li>
+<p><strong>Upgraded Bookmark Extraction</strong> - Fixed and upgraded the technology used to extract PDF bookmarks. The system now reads and preserves bookmarks from all PDF structures without missing chapter information.</p>
+</li>
+</ul>
+<p><strong>Bug Fixes</strong></p>
+<ul>
+<li><strong>Shared Folder Permissions Fix</strong> - Resolved a permission resolution issue for sub-folders within Shared Cases, ensuring accurate read/write access for team collaboration.</li>
+</ul>
+<hr>
+<h4 id="march-23-2026-release">March 23, 2026 Release</h4>
+<p>This release focuses on resolving issues within the report editor and payment flow, enhancing system stability, and improving the output quality for specific report templates.</p>
+<p><strong>Improvements</strong></p>
+<ul>
+<li>
+<p><strong>Template Quality Enhancements</strong> - Upgraded the generation logic for the SSA 5-Step Chronology templates. This update improves structural consistency and the overall quality of the analysis.</p>
+</li>
+<li>
+<p><strong>Improved Payment Error Handling</strong> - Refined the error handling mechanism during the subscription and payment process. If a transaction fails, users will now see a clear error dialog instead of being stuck on a loading screen.</p>
+</li>
+</ul>
+<p><strong>Bug Fixes</strong></p>
+<ul>
+<li><strong>Report Editor Fix</strong> - Resolved an issue where the report editor interface could crash when users attempted to add a new section to a completely empty report.</li>
+</ul>
+<hr>
+<h4 id="march-16-2026-release">March 16, 2026 Release</h4>
+<p>This release includes updates to report progress tracking, multi-tasking capabilities in Report Insight, and backend infrastructure improvements for enhanced stability.</p>
+<p><strong>Features &amp; Improvements</strong></p>
+<ul>
+<li>
+<p><strong>Real-time Report Progress Bar</strong> - The Report List page now displays a real-time progress percentage for reports currently being generated, allowing users to track processing status.</p>
+</li>
+<li>
+<p><strong>Multi-Conversation &amp; Concurrent Questions in Report Insight</strong></p>
+<ul>
+<li><strong>Independent Conversations</strong> - Users can now open multiple independent conversation windows within a single report. Each conversation separately retains its history, selected files, and AI settings.</li>
+<li><strong>Concurrent Processing</strong> - Users can now submit multiple questions simultaneously. The system processes these requests in parallel and provides real-time status updates for each.</li>
+</ul>
+</li>
+<li>
+<p><strong>File Upload Notifications</strong> - Improved the notification mechanism for batch uploads. The system now displays clear error messages for unsupported or failed files, replacing the previous silent-skip behavior.</p>
+</li>
+<li>
+<p><strong>Optimized Source Citations</strong> - Refined the display logic for the Deep 2.0 engine in Report Insight to ensure more accurate and consistent source citations.</p>
+</li>
+</ul>
+<p><strong>Bug Fixes</strong></p>
+<ul>
+<li><strong>Fixed Deleted Conversation Display</strong> - Resolved an issue where previously deleted conversation histories would still appear on the Research and Report Insight pages.</li>
+</ul>
+<hr>
+<h4 id="march-2-2026-release">March 2, 2026 Release</h4>
+<p>This update brings greater flexibility to report management, introduces smart safety guards for file deletion, and significantly accelerates file processing speeds through major infrastructure upgrades.</p>
+<p><strong>Features &amp; Improvements</strong></p>
+<ul>
+<li>
+<p><strong>Custom Report Naming</strong> - You can now name your reports! Whether during creation or afterward by clicking the "Rename" button, customizing report names is now fully supported, helping you keep your projects perfectly organized.</p>
+</li>
+<li>
+<p><strong>Smart Deletion Safety Guards</strong> - To prevent accidental data loss, we have introduced a new verification system when deleting files:</p>
+<ul>
+<li>If you try to delete a file that is currently being used to generate a report, the system will block the deletion to ensure the process finishes successfully.</li>
+<li>If you try to delete a file that is linked to existing completed reports, a warning dialog will list the affected reports, asking for your confirmation before proceeding.</li>
+<li>Additionally, the system will now clearly notify you if a report cannot be "Rebuild" because its source file was previously deleted.</li>
+</ul>
+</li>
+</ul>
+<p><strong>UI &amp; Usability Enhancements</strong></p>
+<ul>
+<li>
+<p><strong>Quick File Referencing</strong> - Added a "+ Files" button in the Insight chat input field, making it easier and more intuitive to reference specific files during your conversation.</p>
+</li>
+<li>
+<p><strong>Keyboard Navigation</strong> - When using @ to mention files, you can now use the Up/Down arrow keys to navigate the suggestion list and the Tab or Enter key to select.</p>
+</li>
+<li>
+<p><strong>Folder Management</strong> - The "Delete Folder" button has been repositioned for a better user experience, and the loading speed when navigating into case folders has been improved.</p>
+</li>
+</ul>
 <hr>
 <h4 id="february-23-2026-release">February 23, 2026 Release</h4>
 <p>This update focuses on upgrading the report editing experience and implementing backend architecture improvements for faster generation.</p>
