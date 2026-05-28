@@ -6,6 +6,37 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
+#### June 12, 2026 Release *(Pre-Release)*
+
+!!! info "Scheduled Release"
+    This release is scheduled for **June 12, 2026** and has not yet gone live.
+
+This release introduces **Case Review** — a powerful replacement for the Research section — along with three specialized AI agents and updated pricing that applies across Case Review and all Reports.
+
+**New: Case Review**
+
+* **Case Review** replaces the Research section as the primary way to interact with your case files. You can start a Case Review with **0 credits** and have immediate access to all files within the case — no setup required.
+
+* **Research Deprecation** - The Research section will be **deprecated by end of June 2026**. Please transition your workflows to Case Review before then.
+
+**New: Case Review Agents**
+
+Three specialized agents are now available in Case Review, each designed for a distinct type of task:
+
+| Agent | Best For | Max Output | Cost per Request |
+|---|---|---|---|
+| **Agent Lite** | Finding specific information quickly — needle-in-a-haystack searches | ~1–10 pages | 0.05 credits |
+| **Agent Think** | Writing briefs, arguments, and other content requiring creative writing skills | ~1–10 pages | 0.25 credits |
+| **Agent Deep** | Processing thousands of pages and producing structured timelines and chronologies | Up to 1,000 pages | 0.25 credits |
+
+**Updated Pricing**
+
+* **Agent-based pricing** applies to all requests made in **Case Review and all Reports**.
+
+* **Daily Free Credits** - A daily allocation of free credits is provided for Lite agent usage, allowing lightweight queries without drawing from your credit balance.
+
+---------------------------------------
+
 #### April 1, 2026 Release
 
 This update introduces major enhancements to file management, expands supported upload formats, and includes key stability fixes for file parsing and permission management.
