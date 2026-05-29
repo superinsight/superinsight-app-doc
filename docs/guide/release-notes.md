@@ -6,10 +6,10 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
-#### June 3, 2026 Release *(Pre-Release)*
+#### June 10, 2026 Release *(Pre-Release)*
 
 !!! info "Scheduled Release"
-    This release is scheduled for **June 3, 2026** and has not yet gone live.
+    This release is scheduled for **June 10, 2026** and has not yet gone live.
 
 This release introduces **Case Review** — a powerful replacement for the Research section — along with three specialized AI agents and updated pricing that applies across Case Review and all Reports.
 
