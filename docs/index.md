@@ -1,19 +1,84 @@
-# What is Superinsight?
+<div class="home-hero" markdown>
 
-Superinsight is the #1 AI-driven medical record review solution for attorneys. Our technology analyzes complex medical records in minutes, uncovering hidden insights to strengthen your case, save time, and maximize wins—all backed by our no-risk, money-back guarantee.
+# Welcome to Superinsight
 
-Our platform is designed specifically for legal professionals handling complex medical cases, offering fast, reliable, and affordable medical record review for law firms across multiple practice areas including Social Security Disability, Personal Injury, Veterans Disability, Workers' Compensation, Mass Tort, and Medical Malpractice cases.
+Your guide to reviewing medical records, faster.
 
-## What does Superinsight offer?
+Whether you're opening Superinsight for the first time or looking up a specific task, start here!
 
-### 1. Industry-Leading Speed & Efficiency
+[Start with the Quickstart Guide :material-arrow-right:](quickstart.md){ .md-button .md-button--primary }
+[Open the App :material-open-in-new:](https://app.superinsight.me){ .md-button }
 
-Our AI system reviews thousands of pages of medical records in minutes instead of days or weeks, with no human bottlenecks in the review process. Law firm clients report time savings of up to 90% compared to traditional medical record review methods, allowing your legal team to focus on case strategy rather than document review.
+</div>
 
-### 2. Comprehensive Medical Analysis
+## Where would you like to go?
 
-Advanced algorithms identify key medical evidence that might otherwise be overlooked in complex documentation, with consistent reliability across all cases. Our system uncovers approximately 3x more relevant medical evidence compared to manual reviews, helping attorneys build stronger arguments and achieve better case outcomes.
+<div class="grid cards home-paths" markdown>
 
-### 3. Complete Security & Compliance
+-   :material-rocket-launch:{ .lg .middle } __I'm new here — show me how__
 
-Our medical record review platform operates with no human reviewers, ensuring maximum privacy protection for sensitive client information. We are fully HIPAA-compliant with advanced encryption and security protocols that exceed industry standards, giving law firms peace of mind when handling confidential medical data.
+    ---
+
+    Follow a short video and simple steps to create your first case, upload documents, and build a report.
+
+    [:octicons-arrow-right-24: Quickstart](quickstart.md)
+
+-   :material-laptop:{ .lg .middle } __I need to open or install Superinsight__
+
+    ---
+
+    Use Superinsight in your browser right away, or download the Windows desktop app.
+
+    [:octicons-arrow-right-24: Installation](download.md)
+
+-   :material-book-open-page-variant:{ .lg .middle } __I want help with a specific task__
+
+    ---
+
+    Learn how to manage cases, documents, reports, research, and more — one guide at a time.
+
+    [:octicons-arrow-right-24: How To Guide](guide/index.md)
+
+-   :material-lifebuoy:{ .lg .middle } __I need help from a person__
+
+    ---
+
+    Get unstuck with live help and support options when something doesn't look right.
+
+    [:octicons-arrow-right-24: Support](guide/support.md)
+
+</div>
+
+## What is Superinsight?
+
+Superinsight is the #1 AI-driven medical record review 
+solution for attorneys. Our technology analyzes complex 
+medical records in minutes, uncovering hidden insights to 
+strengthen your case, save time, and maximize wins—all backed 
+by our no-risk, money-back guarantee. 
+It is built for legal professionals working Social Security Disability, Personal Injury, Veterans Disability, Workers' Compensation, Mass Tort, and Medical Malpractice cases.
+
+<div class="grid cards home-benefits" markdown>
+
+-   :material-lightning-bolt:{ .lg .middle } __Faster reviews__
+
+    ---
+
+    Analyze thousands of pages in minutes, so your team can focus on case strategy.
+
+-   :material-magnify:{ .lg .middle } __Clearer insights__
+
+    ---
+
+    Surface relevant medical evidence that is easy to miss in long, messy records.
+
+-   :material-shield-check:{ .lg .middle } __Private & secure__
+
+    ---
+
+    HIPAA-conscious workflows designed to protect sensitive client information.
+
+</div>
+
+!!! tip "New here?"
+    Begin with the [Quickstart Guide](quickstart.md) — it walks you through everything you need for your first case.

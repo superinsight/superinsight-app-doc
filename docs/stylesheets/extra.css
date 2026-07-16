@@ -2,7 +2,132 @@
     --md-primary-fg-color:        #153464;
     --md-primary-fg-color--light: #153464;
     --md-primary-fg-color--dark:  #153464;
+    --home-accent: #153464;
+    --home-accent-soft: #eef2f8;
+    --home-border: #d8e0ec;
+    --home-muted: #5a6a7e;
   }
+
+/* Underline embedded links in page content */
+.md-typeset a {
+    text-decoration: underline;
+}
+
+.md-typeset a:hover {
+    text-decoration: underline;
+}
+
+/* Keep buttons and card CTAs clean (no underline) */
+.md-typeset a.md-button,
+.md-typeset .grid.cards a {
+    text-decoration: none;
+}
+
+.md-typeset a.md-button:hover,
+.md-typeset .grid.cards a:hover {
+    text-decoration: none;
+}
+
+/* ========== Homepage welcome ========== */
+
+.home-hero {
+    margin-bottom: 2rem;
+    padding: 1.75rem 1.75rem 1.5rem;
+    border-radius: 12px;
+    background:
+        linear-gradient(165deg, #f7f9fc 0%, #eef2f8 55%, #e6ecf5 100%);
+    border: 1px solid var(--home-border);
+}
+
+.home-hero h1 {
+    margin-top: 0;
+    margin-bottom: 0.6rem;
+    color: var(--home-accent);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+}
+
+.home-hero > p {
+    max-width: 40rem;
+    color: var(--home-muted);
+    font-size: 0.95rem;
+    line-height: 1.55;
+}
+
+.home-hero .md-button {
+    margin-top: 0.35rem;
+    margin-right: 0.5rem;
+    margin-bottom: 0.25rem;
+}
+
+.home-hero .md-button--primary {
+    background-color: var(--home-accent);
+    border-color: var(--home-accent);
+}
+
+.home-hero .md-button--primary:hover,
+.home-hero .md-button--primary:focus {
+    background-color: #0f2549;
+    border-color: #0f2549;
+}
+
+.home-hero .md-button:not(.md-button--primary) {
+    color: var(--home-accent);
+    border-color: var(--home-border);
+    background-color: #ffffff;
+}
+
+.home-hero .md-button:not(.md-button--primary):hover,
+.home-hero .md-button:not(.md-button--primary):focus {
+    border-color: var(--home-accent);
+    background-color: var(--home-accent-soft);
+}
+
+/* Path + benefit cards */
+.md-typeset .home-paths.grid.cards > ul > li,
+.md-typeset .home-benefits.grid.cards > ul > li {
+    border: 1px solid var(--home-border);
+    border-radius: 12px;
+    background-color: #ffffff;
+    box-shadow: none;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.md-typeset .home-paths.grid.cards > ul > li:hover,
+.md-typeset .home-benefits.grid.cards > ul > li:hover {
+    border-color: #b8c6db;
+    box-shadow: 0 6px 18px rgba(21, 52, 100, 0.08);
+    transform: translateY(-2px);
+}
+
+.md-typeset .home-paths.grid.cards > ul > li > :first-child,
+.md-typeset .home-benefits.grid.cards > ul > li > :first-child {
+    color: var(--home-accent);
+}
+
+.md-typeset .home-paths.grid.cards .twemoji,
+.md-typeset .home-benefits.grid.cards .twemoji {
+    color: var(--home-accent);
+}
+
+.md-typeset .home-paths.grid.cards hr,
+.md-typeset .home-benefits.grid.cards hr {
+    margin: 0.75rem 0;
+    border: none;
+    border-top: 1px solid var(--home-border);
+}
+
+.md-typeset .home-paths.grid.cards p,
+.md-typeset .home-benefits.grid.cards p {
+    color: var(--home-muted);
+    font-size: 0.85rem;
+    line-height: 1.5;
+}
+
+.md-typeset .home-paths.grid.cards a {
+    color: var(--home-accent);
+    font-weight: 600;
+}
 
 /* ScrollSpy TOC Highlighting */
 .md-nav__item .md-nav__link.active {

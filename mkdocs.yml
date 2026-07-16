@@ -6,30 +6,39 @@ theme:
   palette:
     primary: custom 
 nav:
-  - What is Superinsight: index.md
-  - Installation: download.md
+  - Home: index.md
+  - Open or Install Superinsight: download.md
   - Quickstart: quickstart.md
   - How To Guide:
     - Guide: guide/index.md
     - Manage Case: 
       - Overview: guide/case-contact.md
       - Integration: guide/case-integration.md
-    - How to Manage Reports: guide/manage-reports.md
-    - Manage Documents: guide/case-folder.md
+    - How do I manage my reports?: guide/manage-reports.md
+    - How do I organize my files?: guide/case-folder.md
     - Manage Research: guide/research.md
     - Manage Groups: guide/groups.md
     - Manage Organizations: guide/organizations.md
     - Manage Subscription: guide/subscription.md
     - Support: guide/support.md
-  - Credits and Usage: guide/credit-usage.md
-  - Release Notes: guide/release-notes.md
+  - Credits & Subscriptions:
+    - Credit Usage: guide/credit-usage.md
+    - Subscription Plans: guide/subscription.md
+  - Help & Support:
+    # - FAQ: guide/faq.md ** VINNY NEEDS TO CREATE FAQ PAGE **
+    - Contact Support: guide/support.md
+    - What's New? (Release Notes): guide/release-notes.md
+  - Legal:
+    - Privacy Policy: guide/privacy-policy.md
+    - Terms of Use: guide/terms-of-use.md
+    - HIPAA Notice: guide/hipaa-notice.md
+
+  # NOTE: Vinny wants to move these to the header instead of having them in the sidebar.
   - Login To App: https://app.superinsight.me
   - Official Website: https://www.superinsight.ai
-  - Privacy Policy: guide/privacy-policy.md
-  - Terms of Use: guide/terms-of-use.md
-  - HIPAA Notice: guide/hipaa-notice.md
 markdown_extensions:
   - attr_list
+  - md_in_html
   - admonition
   - pymdownx.details
   - pymdownx.superfences
