@@ -37,7 +37,7 @@ Whether you're opening Superinsight for the first time or looking up a specific 
 
     Learn how to manage cases, documents, reports, research, and more — one guide at a time.
 
-    [:octicons-arrow-right-24: How To Guide](guide/index.md)
+    [:octicons-arrow-right-24: How To Guide](guide/guideOverview.md)
 
 -   :material-lifebuoy:{ .lg .middle } __I need help from a person__
 

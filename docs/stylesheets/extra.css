@@ -28,6 +28,77 @@
     text-decoration: none;
 }
 
+/* Header brand logo */
+.md-header__button.md-logo img {
+    height: 1.8rem;
+    width: auto;
+}
+
+/* ========== Header quick links ========== */
+
+.md-header__links {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin-left: 0.35rem;
+    margin-right: 0.15rem;
+}
+
+.md-header__link {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    height: 1.7rem;
+    padding: 0 0.7rem;
+    border-radius: 999px;
+    border: 1px solid rgba(255, 255, 255, 0.55);
+    color: #ffffff !important;
+    background: transparent;
+    font-size: 0.62rem;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    line-height: 1;
+    text-decoration: none !important;
+    white-space: nowrap;
+    transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+}
+
+.md-header__link--primary {
+    display: inline-flex;
+    background: #ffffff;
+    border-color: #ffffff;
+    color: var(--home-accent) !important;
+}
+
+.md-header__link:hover,
+.md-header__link:focus {
+    background: rgba(255, 255, 255, 0.12);
+    border-color: #ffffff;
+    color: #ffffff !important;
+}
+
+.md-header__link--primary:hover,
+.md-header__link--primary:focus {
+    background: #eef2f8;
+    border-color: #eef2f8;
+    color: var(--home-accent) !important;
+}
+
+@media screen and (min-width: 60em) {
+    .md-header__link {
+        display: inline-flex;
+        height: 1.8rem;
+        padding: 0 0.85rem;
+        font-size: 0.65rem;
+    }
+
+    .md-header__links {
+        gap: 0.5rem;
+        margin-left: 0.5rem;
+        margin-right: 0.25rem;
+    }
+}
+
 /* ========== Homepage welcome ========== */
 
 .home-hero {

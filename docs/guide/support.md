@@ -40,7 +40,7 @@ Use this page to talk to a person, fix a common issue, or find a step-by-step gu
 </div>
 
 !!! tip "Before you contact us"
-    Many questions are already answered in the [Quickstart Guide](../quickstart.md) and [How To Guide](index.md). Checking those first can save you time.
+    Many questions are already answered in the [Quickstart Guide](../quickstart.md) and [How To Guide](guideOverview.md). Checking those first can save you time.
 
 ---
 
@@ -73,7 +73,7 @@ Begin here:
 
 1. [Open or install Superinsight](../download.md)
 2. Follow the [Quickstart Guide](../quickstart.md)
-3. Explore the [How To Guide](index.md) for specific tasks
+3. Explore the [How To Guide](guideOverview.md) for specific tasks
 
 ---
 
@@ -83,7 +83,7 @@ Begin here:
 | --- | --- |
 | Create my first case and report | [Quickstart](../quickstart.md) |
 | Open or install Superinsight | [Installation](../download.md) |
-| Learn a specific feature | [How To Guide](index.md) |
+| Learn a specific feature | [How To Guide](guideOverview.md) |
 | Understand credits | [Credit Usage](credit-usage.md) |
 | Manage my subscription | [Subscription](subscription.md) |
 | See what’s new | [Release Notes](release-notes.md) |
@@ -104,5 +104,5 @@ Begin here:
 ## Next steps
 
 - New to Superinsight? Start with the [Quickstart Guide](../quickstart.md)
-- Looking up a task? Browse the [How To Guide](index.md)
+- Looking up a task? Browse the [How To Guide](guideOverview.md)
 - Ready to work? [Open the App](https://app.superinsight.me)

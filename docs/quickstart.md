@@ -54,4 +54,4 @@ Follow these steps as demonstrated in the video above:
 
 ## Next Steps
 
-Ready to explore more advanced features? Continue with our detailed [How To Guide](guide/index.md) for comprehensive instructions on all Superinsight capabilities.
+Ready to explore more advanced features? Continue with our detailed [How To Guide](guide/guideOverview.md) for comprehensive instructions on all Superinsight capabilities.
