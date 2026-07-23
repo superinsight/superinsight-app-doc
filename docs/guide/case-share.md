@@ -65,12 +65,10 @@ If someone shares a case with you:
 
 ## Remove sharing
 
-- **If you shared the case:** open the share list and remove the person or group.
+- **If you shared the case:** open the share dialog, find the person or group under **Who has access to this case?**, and click the **Remove Access** (trash) icon next to their name.
 - **If a case was shared with you:** open the case and click **Disconnect**, then confirm.
 
-![Disconnect Button](../assets/images/tutorial/disconnect-case-1.png)
-
-![Confirm Disconnect](../assets/images/tutorial/disconnect-case-2.png)
+    ![Remove Access](../assets/images/tutorial/case-share-remove-access.png)
 
 ## Next steps
 

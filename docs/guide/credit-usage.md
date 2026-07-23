@@ -46,9 +46,7 @@ Each report requires a specific number of credits. You can view the credit cost 
 
 In the **Menu**, navigate to **Subscription** to check your subscription status and remaining credits for the current billing period.
 
-You can also track credit usage, whether by yourself or your entire organization, over a specific time frame.
-
-![Check Usage](../assets/images/tutorial/credit-and-usage-checkusage.png)
+Open the **Credit History** tab to see a detailed ledger of credit usage, subscription credits, and carryovers over time.
 
 ## Increase Your Credits
 

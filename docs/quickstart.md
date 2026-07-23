@@ -1,13 +1,12 @@
 # Quickstart
 
-This is a quickstart guide on how to use Superinsight.
-You will learn how to create your knowledge base of case contacts and how to discover insights from your daily massive and messy documentation even hand-written files like medical reports.
+Welcome to Superinsight. This guide walks you through the basics — creating your first case, uploading documents, and building a report — so you can turn large, complex files (including handwritten medical records) into clear, usable insights.
 
-If you don't have an account yet, sign up [for access](https://www.superinsight.ai/trial) here.
+If you do not have an account yet, [sign up here](https://www.superinsight.ai/app-register) to get started.
 
 ## Watch the Tutorial Video
 
-Follow along with this comprehensive video tutorial that demonstrates how to manage cases and create reports in Superinsight:
+Follow along with this video to see how to manage cases and build reports in Superinsight:
 
 <iframe width="560" height="315" 
 src="https://www.youtube.com/embed/sI9clpIOlis?rel=0&si=XJezGeCH_ctuhxxm" 
@@ -23,35 +22,35 @@ Follow these steps as demonstrated in the video above:
 
 ### 1. Create a New Case
 
-- **Navigate to Cases**: Click on "Cases" in the left sidebar
-- **Start New Case**: Click the "New Case" button
-- **Enter Case Details**: Fill in the case name and relevant information
-- **Add Contact Information**: Enter client contact details
+- **Open Cases**: Click **Cases** in the left sidebar
+- **Start a new case**: Click **New Case**
+- **Enter case details**: Add the client’s name and select an organization
+- **Add contact information**: Fill in any contact details you have
 
 ### 2. Upload Documents
 
-- **Access Documents**: Go to the Documents section within your case
-- **Upload Files**: Click to upload or drag and drop your files
-- **File Processing**: Wait for Superinsight to process your documents
-- **Verify Upload**: Ensure all files are successfully processed and ready
+- **Open Documents**: Go to the **Documents** tab inside your case
+- **Upload files**: Click **Upload File** and select your documents
+- **Wait for processing**: Superinsight will process your files in the background
+- **Confirm they are ready**: Make sure each file finishes processing before building a report
 
 ### 3. Build Your Report
 
-- **Navigate to Report tab in Case**: Go to the Reports section within your case
-- **Select Files**: Choose the files you want to include in your report
-- **Choose Report Type**: Select the appropriate report type
-- **Confirm Report Details**: Confirm credits usage, report type and files
-- **Generate Report**: Click "Build Report" to start the generation process
+- **Open Reports**: Go to the **Reports** tab inside your case
+- **Start building**: Click **Build a New Report** or **Build Report**
+- **Choose how to start**: Pick **Case Review** for a flexible workspace, or **Standard Report** for a template
+- **Select files and template**: Choose the documents and report type you need
+- **Generate the report**: Review the credit cost and submit to start generation
 
 ### 4. Review and Download
 
-- **Monitor Progress**: Track report generation status
-- **Review Results**: Open and review your completed report
-- **Download Report**: Save the report to your local device
+- **Monitor progress**: Watch the report status on the Reports list
+- **Review results**: Open the completed report and check the sections and citations
+- **Export**: Download the report as a .PDF or .DOCX when you are ready
 
-!!! tip "Pro Tip"
-    Watch the video multiple times to familiarize yourself with the interface before starting your first case.
+!!! tip "New here?"
+    Take a few minutes to watch the video above before your first case — it is the fastest way to get comfortable with the interface.
 
 ## Next Steps
 
-Ready to explore more advanced features? Continue with our detailed [How To Guide](guide/guideOverview.md) for comprehensive instructions on all Superinsight capabilities.
+When you are ready to go deeper, explore the [How To Guide](guide/guideOverview.md) for step-by-step instructions on every Superinsight feature.

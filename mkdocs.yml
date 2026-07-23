@@ -27,15 +27,15 @@ nav:
       - Delete a case: guide/case-delete.md
       - Update contact info: guide/case-contact-info.md
       - Integration: guide/case-integration.md
+    - How do I build a report?: guide/build-reports.md
     - How do I manage my reports?: guide/manage-reports.md
     - How do I organize my files?: guide/case-folder.md
-    - Manage Research: guide/research.md
+    - Research Insight: guide/research-insight.md
     - Manage Groups: guide/groups.md
     - Manage Organizations: guide/organizations.md
-    - Manage Subscription: guide/subscription.md
   - Credits & Subscriptions:
     - Credit Usage: guide/credit-usage.md
-    - Subscription Plans: guide/subscription.md
+    - Manage Subscription: guide/subscription.md
   - Help & Support:
     - FAQ: guide/FAQ.md 
     - Contact Support: guide/support.md

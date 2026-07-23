@@ -15,8 +15,9 @@ New to Superinsight? Start with the [Quickstart Guide](../quickstart.md) first â
 | Update case contact information | [Update contact info](case-contact-info.md) |
 | Connect Superinsight to my case system | [Case integration](case-integration.md) |
 | Upload and organize documents | [Organize my files](case-folder.md) |
-| Build, view, or download a report | [Manage my reports](manage-reports.md) |
-| Ask questions about my documents | [Research](research.md) |
+| Build a new report | [Build a report](build-reports.md) |
+| View, edit, or download a report | [Manage my reports](manage-reports.md) |
+| Ask questions inside a report | [Research Insight](research-insight.md) |
 | Create or manage a team group | [Manage groups](groups.md) |
 | Manage my organization and members | [Manage organizations](organizations.md) |
 | Check or change my subscription | [Manage subscription](subscription.md) |
