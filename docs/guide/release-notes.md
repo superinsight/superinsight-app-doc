@@ -6,10 +6,10 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
-#### July 29, 2026 Release — v2.4.4 *(Pre-Release)*
+#### August 11th, 2026 Release — v2.4.4 *(Pre-Release)*
 
 !!! info "Scheduled Release"
-    This release is scheduled for **July 29, 2026** and has not yet gone live.
+    This release is scheduled for **August 11th, 2026** and has not yet gone live.
 
 This release focuses on making document workflows more resilient, answers more reliable, and billing more transparent. You can now recover password-protected files, keep working while reports wait for passwords, get clearer payment and credit messages, and use a significantly upgraded **Auto** agent with downloadable artifacts and stronger answer quality.
 

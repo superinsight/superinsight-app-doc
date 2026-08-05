@@ -1,9 +1,10 @@
-site_name: Superinsight Documentation
+site_name: Superinsight Tutorial
 site_url: https://docs.superinsight.me/
 theme:
   name: material
   custom_dir: overrides
-  logo: assets/images/superinsight/2026Logo.png
+  logo: assets/images/superinsight/2026Logo-white.png
+  favicon: assets/images/superinsight/favicon.png
   palette:
     primary: custom
   features:
