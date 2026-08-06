@@ -1,0 +1,273 @@
+:root {
+    --md-primary-fg-color:        #153464;
+    --md-primary-fg-color--light: #153464;
+    --md-primary-fg-color--dark:  #153464;
+    --home-accent: #153464;
+    --home-accent-soft: #eef2f8;
+    --home-border: #d8e0ec;
+    --home-muted: #5a6a7e;
+  }
+
+/* Underline embedded links in page content */
+.md-typeset a {
+    text-decoration: underline;
+}
+
+.md-typeset a:hover {
+    text-decoration: underline;
+}
+
+/* Keep buttons and card CTAs clean (no underline) */
+.md-typeset a.md-button,
+.md-typeset .grid.cards a {
+    text-decoration: none;
+}
+
+.md-typeset a.md-button:hover,
+.md-typeset .grid.cards a:hover {
+    text-decoration: none;
+}
+
+/* Header brand logo */
+.md-header__button.md-logo img {
+    height: 1.8rem;
+    width: auto;
+}
+
+/* ========== Header quick links ========== */
+
+.md-header__links {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin-left: 0.35rem;
+    margin-right: 0.15rem;
+}
+
+.md-header__link {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    height: 1.7rem;
+    padding: 0 0.7rem;
+    border-radius: 999px;
+    border: 1px solid rgba(255, 255, 255, 0.55);
+    color: #ffffff !important;
+    background: transparent;
+    font-size: 0.62rem;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    line-height: 1;
+    text-decoration: none !important;
+    white-space: nowrap;
+    transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+}
+
+.md-header__link--primary {
+    display: inline-flex;
+    background: #ffffff;
+    border-color: #ffffff;
+    color: var(--home-accent) !important;
+}
+
+.md-header__link:hover,
+.md-header__link:focus {
+    background: rgba(255, 255, 255, 0.12);
+    border-color: #ffffff;
+    color: #ffffff !important;
+}
+
+.md-header__link--primary:hover,
+.md-header__link--primary:focus {
+    background: #eef2f8;
+    border-color: #eef2f8;
+    color: var(--home-accent) !important;
+}
+
+@media screen and (min-width: 60em) {
+    .md-header__link {
+        display: inline-flex;
+        height: 1.8rem;
+        padding: 0 0.85rem;
+        font-size: 0.65rem;
+    }
+
+    .md-header__links {
+        gap: 0.5rem;
+        margin-left: 0.5rem;
+        margin-right: 0.25rem;
+    }
+}
+
+/* ========== Homepage welcome ========== */
+
+.home-hero {
+    margin-bottom: 2rem;
+    padding: 1.75rem 1.75rem 1.5rem;
+    border-radius: 12px;
+    background:
+        linear-gradient(165deg, #f7f9fc 0%, #eef2f8 55%, #e6ecf5 100%);
+    border: 1px solid var(--home-border);
+}
+
+.home-hero h1 {
+    margin-top: 0;
+    margin-bottom: 0.6rem;
+    color: var(--home-accent);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+}
+
+.home-hero > p {
+    max-width: 40rem;
+    color: var(--home-muted);
+    font-size: 0.95rem;
+    line-height: 1.55;
+}
+
+.home-hero .md-button {
+    margin-top: 0.35rem;
+    margin-right: 0.5rem;
+    margin-bottom: 0.25rem;
+}
+
+.home-hero .md-button--primary {
+    background-color: var(--home-accent);
+    border-color: var(--home-accent);
+}
+
+.home-hero .md-button--primary:hover,
+.home-hero .md-button--primary:focus {
+    background-color: #0f2549;
+    border-color: #0f2549;
+}
+
+.home-hero .md-button:not(.md-button--primary) {
+    color: var(--home-accent);
+    border-color: var(--home-border);
+    background-color: #ffffff;
+}
+
+.home-hero .md-button:not(.md-button--primary):hover,
+.home-hero .md-button:not(.md-button--primary):focus {
+    border-color: var(--home-accent);
+    background-color: var(--home-accent-soft);
+}
+
+/* Path + benefit cards */
+.md-typeset .home-paths.grid.cards > ul > li,
+.md-typeset .home-benefits.grid.cards > ul > li {
+    border: 1px solid var(--home-border);
+    border-radius: 12px;
+    background-color: #ffffff;
+    box-shadow: none;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.md-typeset .home-paths.grid.cards > ul > li:hover,
+.md-typeset .home-benefits.grid.cards > ul > li:hover {
+    border-color: #b8c6db;
+    box-shadow: 0 6px 18px rgba(21, 52, 100, 0.08);
+    transform: translateY(-2px);
+}
+
+.md-typeset .home-paths.grid.cards > ul > li > :first-child,
+.md-typeset .home-benefits.grid.cards > ul > li > :first-child {
+    color: var(--home-accent);
+}
+
+.md-typeset .home-paths.grid.cards .twemoji,
+.md-typeset .home-benefits.grid.cards .twemoji {
+    color: var(--home-accent);
+}
+
+.md-typeset .home-paths.grid.cards hr,
+.md-typeset .home-benefits.grid.cards hr {
+    margin: 0.75rem 0;
+    border: none;
+    border-top: 1px solid var(--home-border);
+}
+
+.md-typeset .home-paths.grid.cards p,
+.md-typeset .home-benefits.grid.cards p {
+    color: var(--home-muted);
+    font-size: 0.85rem;
+    line-height: 1.5;
+}
+
+.md-typeset .home-paths.grid.cards a {
+    color: var(--home-accent);
+    font-weight: 600;
+}
+
+/* ScrollSpy TOC Highlighting */
+.md-nav__item .md-nav__link.active {
+    background-color: #eaecf0 !important;
+    border-radius: 4px;
+    font-weight: 600;
+}
+
+.md-nav__item .md-nav__link {
+    position: relative;
+    transition: background-color 0.2s ease, font-weight 0.2s ease;
+    padding: 4px 8px;
+    margin: 2px 0;
+}
+
+/* Smooth scroll behavior */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Center tabbed content labels */
+.md-typeset .tabbed-labels {
+    justify-content: center;
+    background-color: #f0f0f0;
+    border-radius: 20px;
+    padding: 3px;
+    width: fit-content;
+    margin: 0 auto 1rem auto;
+    border: none;
+    gap: 0;
+}
+
+/* Tab label styling - default black text (未選中) */
+.md-typeset .tabbed-labels > label {
+    padding: 4px 20px;
+    border-radius: 16px;
+    font-weight: 500;
+    font-size: 0.75rem;
+    line-height: 1;
+    color: #000000 !important;
+    background-color: transparent;
+    border: none;
+    transition: all 0.3s ease;
+}
+
+/* Active tab styling - blue background with white text (選中) */
+.md-typeset .tabbed-set > input:checked + label,
+.md-typeset .tabbed-labels > label:has(+ input:checked),
+.md-typeset [data-md-component="content"] .tabbed-set > input:checked + label,
+.md-typeset .tabbed-labels label[for].tabbed-labels--active,
+.md-typeset .tabbed-labels > label.tabbed-labels--active {
+    color: #ffffff !important;
+    background-color: #153464 !important;
+    font-weight: 700 !important;
+}
+
+/* Hide the default underline indicator */
+.md-typeset .tabbed-set > input:checked + label::after,
+.md-typeset .tabbed-labels--active::after,
+.md-typeset .tabbed-labels > label::after {
+    background-color: transparent !important;
+    display: none !important;
+    height: 0 !important;
+}
+
+/* Override any theme defaults for active state */
+.md-typeset .tabbed-labels > .tabbed-labels--active,
+.md-typeset .tabbed-labels label.tabbed-labels--active {
+    color: #ffffff !important;
+    background-color: #153464 !important;
+    font-weight: 700 !important;
+}

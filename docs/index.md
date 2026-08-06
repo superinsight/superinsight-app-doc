@@ -1,21 +1,84 @@
-# What is Superinsight?
+<div class="home-hero" markdown>
 
-Superinsight is a cutting-edge business intelligence tool designed to help you unlock valuable insights from your knowledge base.
+# Welcome to Superinsight
 
-## What does it do?
+Your guide to reviewing medical records, faster.
 
-### 1. Build Knowledge Base
+Whether you're opening Superinsight for the first time or looking up a specific task, start here!
 
-Superinsight is designed to help you easily access valuable information from your company's knowledge base. With Superinsight, you can quickly upload text, voice, or video files to create a comprehensive knowledge base that is easily searchable using natural language.
+[Start with the Quickstart Guide :material-arrow-right:](quickstart.md){ .md-button .md-button--primary }
+[Open the App :material-open-in-new:](https://app.superinsight.me){ .md-button }
 
-### 2. Discover Insights
+</div>
 
-Superinsight makes it easy for you to find the information you need, we use state-of-the-art large language models like GPT3 and GPT4 to help you discover key insights and trends within your knowledge base with precision and accuracy. Whether you're looking for customer feedback, market research, or internal performance data,
+## Where would you like to go?
 
-### 3. Share Knowledge
+<div class="grid cards home-paths" markdown>
 
-Superinsight makes it simple for you to share your knowledge base with others without compromising your source files. You can easily collaborate with team members or stakeholders, providing them with access to the information they need without having to share the underlying data.
+-   :material-rocket-launch:{ .lg .middle } __I'm new here — show me how__
 
-### 4. Export To Other Platforms
+    ---
 
-Superinsight helps you to export your knowledge base to other platforms or websites, Superinsight's chatbot integration feature allows you to do so with ease. With just a few clicks, you can seamlessly export your knowledge base and integrate it into other applications or websites.
+    Follow a short video and simple steps to create your first case, upload documents, and build a report.
+
+    [:octicons-arrow-right-24: Quickstart](quickstart.md)
+
+-   :material-laptop:{ .lg .middle } __I need to open or install Superinsight__
+
+    ---
+
+    Use Superinsight in your browser right away, or download the Windows desktop app.
+
+    [:octicons-arrow-right-24: Installation](download.md)
+
+-   :material-book-open-page-variant:{ .lg .middle } __I want help with a specific task__
+
+    ---
+
+    Learn how to manage cases, documents, reports, research, and more — one guide at a time.
+
+    [:octicons-arrow-right-24: How To Guide](guide/guideOverview.md)
+
+-   :material-lifebuoy:{ .lg .middle } __I need help from a person__
+
+    ---
+
+    Get unstuck with live help and support options when something doesn't look right.
+
+    [:octicons-arrow-right-24: Support](guide/support.md)
+
+</div>
+
+## What is Superinsight?
+
+Superinsight is the #1 AI-driven medical record review 
+solution for attorneys. Our technology analyzes complex 
+medical records in minutes, uncovering hidden insights to 
+strengthen your case, save time, and maximize wins—all backed 
+by our no-risk, money-back guarantee. 
+It is built for legal professionals working Social Security Disability, Personal Injury, Veterans Disability, Workers' Compensation, Mass Tort, and Medical Malpractice cases.
+
+<div class="grid cards home-benefits" markdown>
+
+-   :material-lightning-bolt:{ .lg .middle } __Faster reviews__
+
+    ---
+
+    Analyze thousands of pages in minutes, so your team can focus on case strategy.
+
+-   :material-magnify:{ .lg .middle } __Clearer insights__
+
+    ---
+
+    Surface relevant medical evidence that is easy to miss in long, messy records.
+
+-   :material-shield-check:{ .lg .middle } __Private & secure__
+
+    ---
+
+    HIPAA-conscious workflows designed to protect sensitive client information.
+
+</div>
+
+!!! tip "New here?"
+    Begin with the [Quickstart Guide](quickstart.md) — it walks you through everything you need for your first case.
