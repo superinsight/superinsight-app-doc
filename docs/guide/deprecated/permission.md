@@ -8,10 +8,10 @@ In the sharing list, you'll see a gear icon next to each recipient's name. Click
 
 You can set access permissions for the Documents, Reports, and Contact sections of this case. Each section can be configured with one of three permissions: **Write**, **Read**, or **None**.
 
-![Access Permission](../assets/images/tutorial/share-permission.png)
+![Access Permission](../../assets/images/tutorial/share-permission.png)
 
 ## Group Access Permissions
 
-In your [Group Settings](/guide/menu#3-manage-group), you can share all your cases with the group members if you own the group. Here, you can also set up the access permissions for all your group members.
+In your [Group Settings](/guide/deprecated/menu#3-manage-group), you can share all your cases with the group members if you own the group. Here, you can also set up the access permissions for all your group members.
 
-![Share with Group](../assets/images/tutorial/group-permission.png)
+![Share with Group](../../assets/images/tutorial/group-permission.png)

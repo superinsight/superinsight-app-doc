@@ -13,7 +13,7 @@ Navigate to **Subscription** from the left sidebar menu to access subscription m
 The subscription dashboard is organized into two main sections:
 
 - **Subscription Details**: View and manage your current plan, billing cycle, and upgrade options
-- **Credit Usage**: Monitor credit consumption, view usage history, and download usage reports
+- **Credit History**: Monitor credit consumption and view a detailed usage ledger
 
 ## Subscription Details
 
@@ -46,16 +46,44 @@ To upgrade your subscription plan:
 
 ![Subscription Upgrade](../assets/images/tutorial/subscription-upgrade.png)
 
-**Select New Plan**: Choose from available plan options in the upgrade modal
+**Select New Plan**: Choose from available plan options in the upgrade modal. Toggle **Monthly** or **Yearly** billing to compare options.
 
 #### Available Plan Options
 
-The plan selection interface shows different credit allocation options to meet your organization's needs:
+Superinsight offers several credit allocation tiers to meet your organization's needs:
 
-- **6 credits / month**: Standard plan for regular usage
-- **18 credits / month**: Enhanced plan for higher usage needs
+=== "Monthly"
 
-![Plan Selection](../assets/images/tutorial/subscription-plan.png)
+    | Plan | Price | Credits | Per Credit | Best For |
+    |------|-------|---------|------------|----------|
+    | **One Time Credits** | $80 one-time | 1 credit minimum | $80.00/credit | Buy prepaid credits with no subscription |
+    | **Starter** | $300/month | 4 credits/month | $75.00/credit | Advocates handling 1-2 cases per month |
+    | **Pro** | $600/month | 12 credits/month | $50.00/credit | Solo firms handling 3-6 cases per month |
+    | **Grow** | $1,500/month | 36 credits/month | $41.67/credit | Firms handling 10-20 cases per month |
+    | **Scale** | $3,000/month | 80 credits/month | $37.50/credit | Growing firms handling 20-50 cases per month |
+    | **Enterprise** | $6,000/month | 200 credits/month | $30.00/credit | Large firms handling 50-100+ cases per month |
+
+=== "Yearly"
+
+    | Plan | Price | Credits | Per Credit | Best For |
+    |------|-------|---------|------------|----------|
+    | **One Time Credits** | $80 one-time | 1 credit minimum | $80.00/credit | Buy prepaid credits with no subscription |
+    | **Starter** | $250/month | 4 credits/month | $62.50/credit | Advocates handling 1-2 cases per month |
+    | **Pro** | $500/month | 12 credits/month | $41.67/credit | Solo firms handling 3-6 cases per month |
+    | **Grow** | $1,250/month | 36 credits/month | $34.72/credit | Firms handling 10-20 cases per month |
+    | **Scale** | $2,500/month | 80 credits/month | $31.25/credit | Growing firms handling 20-50 cases per month |
+    | **Enterprise** | $5,000/month | 200 credits/month | $25.00/credit | Large firms handling 50-100+ cases per month |
+
+All subscription plans include:
+
+- Auto-renewal
+- Priority support
+- No credit card required to get started
+
+Credits are added to your account on the **first day of your billing cycle** and **expire after 30 days** if not used. **Unused credits roll over** when you upgrade your subscription.
+
+![Plan Selection](../assets/images/tutorial/credit-and-usage-increase-creadit.png)
+
 
 !!! info "About Credits"
     Credits are tied to your organization. They're used each time someone builds a report in a case under this organization.

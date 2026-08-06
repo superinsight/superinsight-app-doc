@@ -6,12 +6,66 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
-#### June 10, 2026 Release *(Pre-Release)*
+#### August 11th, 2026 Release — v2.4.4 *(Pre-Release)*
 
 !!! info "Scheduled Release"
-    This release is scheduled for **June 10, 2026** and has not yet gone live.
+    This release is scheduled for **August 11th, 2026** and has not yet gone live.
 
-This release introduces **Case Review** — a powerful replacement for the Research section — along with three specialized AI agents and updated pricing that applies across Case Review and all Reports.
+This release focuses on making document workflows more resilient, answers more reliable, and billing more transparent. You can now recover password-protected files, keep working while reports wait for passwords, get clearer payment and credit messages, and use a significantly upgraded **Auto** agent with downloadable artifacts and stronger answer quality.
+
+**New: Password-Protected PDFs**
+
+* **Upload and unlock** — Upload a password-protected PDF and unlock it directly in Superinsight with inline password entry and instant validation.
+* **Action required reports** — If a report depends on protected files, it **pauses** in an "Action required" state instead of failing and refunding your credits. Supply the passwords and the report resumes automatically.
+
+**New: Billing & Credits**
+
+* **Free question allowances** — Eligible accounts see how many free report questions remain in the current period, right in the chat experience.
+* **Payment failure visibility** — If a subscription renewal fails, a banner explains what happened and gives you a path to update billing. No more guessing why credits look wrong.
+* **Insufficient credits** — Asking a question without enough credits now shows a clear failure message instead of an endless loading state.
+* **Plans and promos** — Redesigned plans dialog with smoother loading, promo pricing, and clearer guidance when someone other than the account owner needs to purchase.
+
+**New: Upgraded Auto Agent**
+
+The **Auto** research agent is substantially improved:
+
+* **Downloadable outputs** — Generate assembled PDFs, CSV exports, and charts from your answers, delivered through secure login-protected download links you can share within your team.
+* **Better answer quality** — Answers start appearing sooner, with improved citations and more reliable list-style answers.
+
+**New: Streaming & Activities**
+
+* **Answers that survive a refresh** — Refresh the browser mid-answer and pick up where the response left off instead of losing progress.
+* **Progress updates** — Long answers show periodic progress updates, so the interface no longer looks frozen during extended research.
+* **Answer revisions** — When the agent revises a draft answer, the interface updates cleanly instead of leaving stale text behind.
+* **Activities panel** — Downloads, uploads, and exports are unified in a single **Activities** panel (badge on the app bar). In-progress exports recover after a page refresh — you won't lose track of a download you started.
+
+**New: Onboarding & Templates**
+
+* **Guided onboarding** — New registrations are walked through a step-by-step setup: agreement → case → file upload → report type, with progress tracking along the way.
+* **Advanced report templates** — Create advanced templates without waiting on a blocking spinner — builds run in the background. Receive an email when your template is ready, with a direct link to review it. Preview, save, and activate templates from a dedicated review page.
+
+**Improved: Workspace**
+
+* **Copy for Word** — Copy answers and sections as **Word-compatible rich text**.
+* **Citation navigation** — Click a citation to jump straight to the cited page in the source file.
+* **Export button** — Moved to the section sidebar for quicker access.
+* **Tab scroll position** — Preserved as you move between workspace tabs.
+* **Research display** — Restyled research/thinking display for easier reading during long answers.
+
+**Improvements**
+
+* **Auto agent reliability** — Search and research tools are offered more consistently, including on questions where source files already fit in context.
+* **Export quality** — Charts and images in exported PDFs stay within page margins instead of running off the edge.
+* **Report builds** — Zero-credit report types (such as Case Review) no longer hit unnecessary credit checks.
+* **Chronicle imports** — Improved tolerance for incomplete metadata from Chronicle, reducing stuck imports.
+* **Document processing** — More reliable OCR and file processing under load; fewer files incorrectly marked failed.
+* **Copied content** — Source links are stripped when copying answer text, so pasted content is cleaner for external documents.
+
+---------------------------------------
+
+#### June 10, 2026 Release
+
+This release introduced **Case Review** — a replacement for the Research section — along with three specialized AI agents and updated pricing that applies across Case Review and all Reports.
 
 **New: Case Review**
 
@@ -213,10 +267,10 @@ This update focuses on optimizing the payment synchronization, alongside fixes f
 
 ---------------------------------------
 
-#### [2025 Release History](/guide/release-history-2025)
+#### [2025 Release History](/guide/deprecated/release-history-2025)
 
 ---------------------------------------
 
-#### [2024 Release History](/guide/release-history)
+#### [2024 Release History](/guide/deprecated/release-history)
 
 ---------------------------------------

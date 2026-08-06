@@ -1,5 +1,8 @@
 # Manage Research
 
+!!! warning "Deprecated"
+    This guide describes the old **Research** section in the sidebar. It is being retired in favor of **[Research Insight](../research-insight.md)** — open a report from your case and ask questions there instead.
+
 ## Overview
 
 The **Research** feature is a powerful AI-powered tool that allows you to query your uploaded documents using natural language. This feature enables you to extract insights, find specific information, and get contextual answers from your document collection without manually searching through files.
@@ -39,7 +42,7 @@ To use the Research feature effectively, follow these key steps:
 Navigate to the **Research** section from the left sidebar. The Research tab provides a dedicated workspace for document querying and analysis.
 
 === "Research Section"
-    ![Research Section](../assets/images/tutorial/research-section.png)
+    ![Research Section](../../assets/images/tutorial/research-section.png)
 
 ### Selecting Source Files
 
@@ -51,12 +54,12 @@ Before you can start asking questions, you need to select one or more source fil
 === "Source Files Panel"
     Use the right-hand **Source Files** panel to select documents from either **My Documents** or **Case Documents**.
 
-    ![Source Files Panel](../assets/images/tutorial/research-filesource.png)
+    ![Source Files Panel](../../assets/images/tutorial/research-filesource.png)
 
 === "File Selection"
     Click on files to select them. **At least one file must be selected** to enable the Research feature. You can select multiple files for comprehensive analysis across multiple documents.
 
-    ![File Selection](../assets/images/tutorial/research-selectionfile.png)
+    ![File Selection](../../assets/images/tutorial/research-selectionfile.png)
 
 ### Starting a Conversation
 
@@ -83,7 +86,7 @@ Before you can start asking questions, you need to select one or more source fil
 - **Comparisons**: "Compare the recommendations between @file.name1 and @file.name2"
 
 === "Send Question"
-    ![Send Question](../assets/images/tutorial/research-ask.png)
+    ![Send Question](../../assets/images/tutorial/research-ask.png)
 
 ### Getting Responses
 
@@ -92,12 +95,12 @@ The Research feature will analyze your selected documents and provide contextual
 === "AI Response"
     The system processes your question and returns relevant information from your documents.
 
-    ![AI Response](../assets/images/tutorial/research-ai-response.png)
+    ![AI Response](../../assets/images/tutorial/research-ai-response.png)
 
 === "References"
     Responses include references to specific parts of your documents for verification. When you **click on a source link** in the AI response, the referenced document **opens in a panel** on the right side, showing the exact page and location where the information was found. This allows you to **verify the AI's answers** against the original source material.
 
-    ![References](../assets/images/tutorial/research-reference.png)
+    ![References](../../assets/images/tutorial/research-reference.png)
 
 ## Conversations Panel
 
@@ -110,7 +113,7 @@ The **Conversations** panel on the left side of the Research interface provides 
     2. Select new source files from the **Source Files** panel
     3. Begin asking questions about your newly selected documents
 
-    ![New Conversation](../assets/images/tutorial/research-new-conversation.png)
+    ![New Conversation](../../assets/images/tutorial/research-new-conversation.png)
 
 === "Delete Conversation"
     Remove unwanted conversations from your history to keep your workspace organized.
@@ -122,7 +125,7 @@ The **Conversations** panel on the left side of the Research interface provides 
     3. **Select Delete**: Choose **Delete** from the dropdown menu
     4. **Confirm**: Click **Yes** in the confirmation dialog
 
-    ![Delete Conversation](../assets/images/tutorial/research-delete-conversation.png)
+    ![Delete Conversation](../../assets/images/tutorial/research-delete-conversation.png)
 
     !!! warning "Permanent Action"
         Deleted conversations cannot be recovered.
@@ -132,7 +135,7 @@ The **Conversations** panel on the left side of the Research interface provides 
 === "Conversations History"
     All previous questions and answers are automatically saved and displayed in the Conversations panel. Each conversation is tied to the specific documents you selected when asking the question.
 
-    ![Conversations History](../assets/images/tutorial/research-history-conversation.png)
+    ![Conversations History](../../assets/images/tutorial/research-history-conversation.png)
 
 **Key Features:**
 

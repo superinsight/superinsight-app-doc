@@ -9,13 +9,13 @@ You can find the search bar at the top of the case contacts list. Type in the na
 If you have cases shared by your co-worker, you can quickly find the contact using the filter as well. You can also sort cases by contact name or update date to locate your cases more efficiently.
 
 === "Search Cases"
-    ![Search Cases](../assets/images/tutorial/search-cases.png)
+    ![Search Cases](../../assets/images/tutorial/search-cases.png)
 
 === "Filter Cases"
-    ![Filter Cases](../assets/images/tutorial/filter-cases.png)
+    ![Filter Cases](../../assets/images/tutorial/filter-cases.png)
 
 === "Sort Cases"
-    ![Sort Cases](../assets/images/tutorial/sort-cases.png)
+    ![Sort Cases](../../assets/images/tutorial/sort-cases.png)
 
 ## Search Documents
 
@@ -26,10 +26,10 @@ You can also search within a specific file, allowing Superinsight to find all th
 By default, your files are sorted by update date. You can also sort them by file name or label by clicking the column. To switch between ascending and descending order, simply click the column again.
 
 === "Search in Folder"
-    ![Search in Folder](../assets/images/tutorial/search-docs.png)
+    ![Search in Folder](../../assets/images/tutorial/search-docs.png)
 
 === "Search in File"
-    ![Search in File](../assets/images/tutorial/search-file.png)
+    ![Search in File](../../assets/images/tutorial/search-file.png)
 
 === "Sort Files"
-    ![Sort Documents](../assets/images/tutorial/sort-docs.png)
+    ![Sort Documents](../../assets/images/tutorial/sort-docs.png)

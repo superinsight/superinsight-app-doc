@@ -23,13 +23,13 @@ View and download legal documents. If you need to download the Business Associat
 
 Terms and conditions for using our platform.
 
-[View Terms of Use](terms-of-use.md)
+[View Terms of Use](../terms-of-use.md)
 
 #### Privacy Policy
 
 How we collect, use, and protect your data.
 
-[View Privacy Policy](privacy-policy.md)
+[View Privacy Policy](../privacy-policy.md)
 
 #### HIPAA Notice of Privacy Practices
 

@@ -37,7 +37,7 @@ View all your generated reports in an organized list format. Each report display
 
 ## Report Actions
 
-On the **Report List** page, you'll find Actions icons on the right side of each report row. These icons provide 4 different action buttons that offer various management options for your reports. These action buttons allow you to **download**, **edit**, **rebuild**, or **delete** individual reports as needed:
+On the **Report List** page, you'll find action icons on the right side of each report row. These icons let you **export**, **edit**, **rebuild**, or **delete** individual reports:
 
 <iframe width="560" height="315" 
 src="https://www.youtube.com/embed/_vZi64D9bw4?rel=0&si=-dNQ2faQo4jFltJ9" 
@@ -48,15 +48,15 @@ referrerpolicy="strict-origin-when-cross-origin"
 allowfullscreen></iframe>
 
 === "Download Report"
-    Download reports in various formats:
+    Export reports in various formats:
     
     - **PDF Format**: For offline viewing and sharing
     - **Docx Format**: For document editing and sharing
     
-    ![Download Report](../assets/images/tutorial/reports-download.png)
+    ![Export Report](../assets/images/tutorial/reports-download.png)
 
 === "Edit Report"
-    Click on any report to open and view its contents. This provides a full-screen reading experience with options to:
+    Click the **Edit** icon on a report row to open the report viewer. From there you can:
     
     - Navigate through different sections
     - Search within the report content
@@ -150,8 +150,8 @@ Modify the content and structure of existing reports to meet your specific needs
 To edit an existing report:
 
 1. Navigate to the Reports section and locate the report you want to modify
-2. Click on the report name to open the report viewer
-3. Click the **Edit** button in the report toolbar to enter editing mode
+2. Click the **Edit** icon on the report row to open the report viewer
+3. Click the **Edit** (pencil) icon next to a section in the left sidebar to enter editing mode
 
 ![Accessing the Editor](../assets/images/tutorial/reports-edit-section.png)
 
@@ -180,13 +180,7 @@ The report editor provides powerful tools for content modification:
     ![Section Management](../assets/images/tutorial/reports-edit-section-reorder.png)
 
 === "Report Insight"
-    Generate intelligent insights and analysis for your report:
-    
-    - **AI-powered suggestions** for content improvement
-    - **Summary generation** for key findings
-    - **Choose AI Model** to select your preferred AI model for generating insights
-    
-    ![Choose AI Model](../assets/images/tutorial/reports-edit-insight-ai.png)
+    Ask questions about your report using the **Report Insight** panel on the right. Research Insight chooses the best AI agent for your question — you do not need to pick a mode yourself.
     
     **Example questions you can ask:**
     
@@ -202,34 +196,7 @@ The report editor provides powerful tools for content modification:
     
     ![Report Insight](../assets/images/tutorial/reports-edit-insight.png)
 
-## Advanced Template
-
-Advanced Template provides a powerful way to create customized reports with more control over the output. Unlike Basic Templates that generate predefined report structures, Advanced Template allows you to define your own report sections and content requirements.
-
-### What is Advanced Template?
-
-Advanced Template is designed for users who need:
-
-- **Custom report structures** tailored to specific case requirements
-- **Flexible section definitions** to match your workflow
-- **Greater control** over the analysis and output format
-
-### How to Use Advanced Template
-
-1. When building a report, select **Advanced Templates** tab in the Choose Template step
-2. Choose an advanced template or create custom sections
-3. Define your specific requirements for each section
-4. Build the report with your customized structure
-
-### When to Use Advanced Template
-
-- When standard report templates don't meet your specific needs
-- When you need a unique report structure for a particular case type
-- When you want to focus on specific aspects of the medical records
-
-
-
-
+Need to create a new report or choose a template? See [Build a report](build-reports.md) for the full walkthrough — including standard templates, **Build My Own**, and **Advanced Templates**.
 
 <!--
 ## Batch Operations
@@ -247,14 +214,4 @@ Manage multiple reports simultaneously:
 
 === "Export Options"
     Export selected reports in various formats for external use or archival purposes.
-
-## Report Templates
-
-Access and manage report templates for consistent formatting:
-
-- **Standard Templates**: Pre-built templates for common report types
-- **Custom Templates**: Create and save your own report formats
-- **Template Settings**: Customize headers, footers, and styling options
-
-![Report Templates](../assets/images/tutorial/templates-dropdown.png)
 -->

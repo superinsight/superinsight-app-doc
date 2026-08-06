@@ -1,35 +1,53 @@
-site_name: Superinsight Documentation
+site_name: Superinsight Tutorial
 site_url: https://docs.superinsight.me/
 theme:
   name: material
-  logo: assets/images/superinsight/empty.png
+  custom_dir: overrides
+  logo: assets/images/superinsight/2026Logo-white.png
+  favicon: assets/images/superinsight/favicon.png
   palette:
-    primary: custom 
+    primary: custom
+  features:
+    - navigation.top
+    - navigation.tracking
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
 nav:
-  - What is Superinsight: index.md
-  - Installation: download.md
+  - Home: index.md
+  - Open or Install Superinsight: download.md
   - Quickstart: quickstart.md
   - How To Guide:
-    - Guide: guide/index.md
+    - Guide: guide/guideOverview.md
     - Manage Case: 
       - Overview: guide/case-contact.md
+      - Create a case: guide/case-create.md
+      - Find and open a case: guide/case-find.md
+      - Share a case: guide/case-share.md
+      - Delete a case: guide/case-delete.md
+      - Update contact info: guide/case-contact-info.md
       - Integration: guide/case-integration.md
-    - How to Manage Reports: guide/manage-reports.md
-    - Manage Documents: guide/case-folder.md
-    - Manage Research: guide/research.md
+    - How do I build a report?: guide/build-reports.md
+    - How do I manage my reports?: guide/manage-reports.md
+    - How do I organize my files?: guide/case-folder.md
+    - Research Insight: guide/research-insight.md
     - Manage Groups: guide/groups.md
     - Manage Organizations: guide/organizations.md
+  - Credits & Subscriptions:
+    - Credit Usage: guide/credit-usage.md
     - Manage Subscription: guide/subscription.md
-    - Support: guide/support.md
-  - Credits and Usage: guide/credit-usage.md
-  - Release Notes: guide/release-notes.md
-  - Login To App: https://app.superinsight.me
-  - Official Website: https://www.superinsight.ai
-  - Privacy Policy: guide/privacy-policy.md
-  - Terms of Use: guide/terms-of-use.md
-  - HIPAA Notice: guide/hipaa-notice.md
+  - Help & Support:
+    - FAQ: guide/FAQ.md 
+    - Contact Support: guide/support.md
+    - What's New? (Release Notes): guide/release-notes.md
+  - Legal:
+    - Privacy Policy: guide/privacy-policy.md
+    - Terms of Use: guide/terms-of-use.md
+    - HIPAA Notice: guide/hipaa-notice.md
 markdown_extensions:
   - attr_list
+  - md_in_html
   - admonition
   - pymdownx.details
   - pymdownx.superfences
@@ -48,6 +66,12 @@ extra:
   analytics:
     provider: google
     property: G-B69XP516VZ
+  header_buttons:
+    - name: Website
+      url: https://www.superinsight.ai
+    - name: Login to App
+      url: https://app.superinsight.me
+      primary: true
 extra_css:
   - stylesheets/extra.css
 extra_javascript:

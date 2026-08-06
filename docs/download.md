@@ -76,7 +76,7 @@ After installation:
     If you encounter any issues during download or installation:
     
     - Check our [Quickstart Guide](quickstart.md) for common solutions
-    - Visit our [How To Guide](guide/index.md) for detailed instructions
+    - Visit our [How To Guide](guide/guideOverview.md) for detailed instructions
     - Contact our support team through the app or website
 
 ## Which Option Should I Choose?
