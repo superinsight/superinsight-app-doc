@@ -1,0 +1,77 @@
+name: Build and deploy docs
+
+# Builds the MkDocs site and publishes it to GitHub Pages.
+#
+# This replaces the old manual ritual of building locally and copying the
+# output onto the gh-pages branch. See DEPLOYMENT.md for why that broke.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Never let two deploys race each other onto the live site.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # --strict turns MkDocs warnings (broken links, missing files, bad nav
+      # entries) into build failures. A loud failure here is the whole point:
+      # the previous setup always reported success while shipping stale HTML.
+      - name: Build site
+        run: mkdocs build --strict
+
+      # site/CNAME is what tells GitHub Pages that this repo owns
+      # docs.superinsight.me. It comes from docs/CNAME, which MkDocs copies
+      # verbatim. If that file is ever deleted the custom domain 404s, so fail
+      # the build instead of publishing a site that takes docs offline.
+      - name: Verify custom domain file survived the build
+        run: |
+          if [ ! -f site/CNAME ]; then
+            echo "::error::site/CNAME is missing. Restore docs/CNAME or the custom domain will break."
+            exit 1
+          fi
+          if ! grep -qx 'docs.superinsight.me' site/CNAME; then
+            echo "::error::site/CNAME does not contain docs.superinsight.me. Got: $(cat site/CNAME)"
+            exit 1
+          fi
+
+      - name: Upload Pages artifact
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: site
+
+  deploy:
+    # Pull requests build and validate only; they never touch the live site.
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5
