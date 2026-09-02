@@ -6,10 +6,45 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
-#### August 11th, 2026 Release — v2.4.4 *(Pre-Release)*
+#### August 19th, 2026 Release — v2.4.5
 
-!!! info "Scheduled Release"
-    This release is scheduled for **August 11th, 2026** and has not yet gone live.
+This release makes reports easier to recover when document processing hits a snag, gives you self-serve control over subscriptions, and lands the full **Templates** experience in the app. Activities and exports are more reliable after a closed tab or refresh, and several fixes improve uploads, large reports, and completion emails.
+
+**New: Recover Reports When Pages Fail**
+
+* **Action required instead of a dead end** — If some pages of a document fail to process, the report **pauses** with an "Action required" status instead of failing later with no way to continue.
+* **Retry failed pages** — See which files need attention and retry them in one step. When processing succeeds, the report resumes and finishes on its own — no need to start over.
+* **Retry before the report stalls** — If you build a report on files that already have failed pages, Superinsight retries those pages first so the report can move ahead without stopping right away.
+
+**New: Subscription Cancellation & Reactivation**
+
+* **Cancel at period end** — Cancel your subscription yourself. Access and credits continue through the end of the paid billing period — nothing is revoked immediately.
+* **Cancellation reasons** — Choose a reason (and optional details) when you cancel, so feedback is captured clearly.
+* **Reactivate** — If you cancel by mistake or change your mind before the period ends, reactivate from billing without starting a new purchase.
+
+**New: Templates Page**
+
+* **Dedicated Templates page** — Browse and manage report templates from a top-level **Templates** page in the left nav (desktop and mobile), with filters and clear status labels: Building, Draft, Published, and Failed.
+* **Organization templates** — Templates shared with your organization are marked clearly. Only the person who created a template can delete it, with a confirmation that explains when others may be affected.
+* **Advanced creation** — Create advanced templates in the background — close the wizard and track progress in **Activities**. Add optional reference materials and an example output, discard a preview if it is not right, and delete templates you no longer need.
+
+**Improved: Activities & Exports**
+
+* **Bulk downloads in the background** — Large zip downloads show progress in the Activities panel instead of a brief notification that disappears when you navigate away.
+* **Exports that survive a closed tab** — Finished exports are recovered when you reopen the app, and in-progress exports keep their place so you do not lose track of a download you started.
+* **Dismissals that stick** — Finished activity cards can be dismissed permanently; re-exporting a report brings it back to the top of the panel even if it was previously dismissed.
+
+**Improvements**
+
+* **Report completion emails** — Report-ready emails are sent more reliably when a report finishes.
+* **Large file uploads** — Large uploads are more reliable and no longer time out too early.
+* **Large reports** — Very large reports finish more reliably instead of appearing stuck for hours.
+* **Auto agent** — Auto research answers are more reliable and consistent.
+* **Chat & templates stability** — Fixes for chat recovery after a refresh, templates filtering, report builder crashes, and keeping your place in a source file when you open it from chat.
+
+---------------------------------------
+
+#### August 11th, 2026 Release — v2.4.4
 
 This release focuses on making document workflows more resilient, answers more reliable, and billing more transparent. You can now recover password-protected files, keep working while reports wait for passwords, get clearer payment and credit messages, and use a significantly upgraded **Auto** agent with downloadable artifacts and stronger answer quality.
 
