@@ -58,6 +58,14 @@ jobs:
             exit 1
           fi
 
+      # The reindex job waits until the live site serves this file with this
+      # commit before asking support to crawl, so a crawl never indexes the
+      # previous build under the new commit. JSON, not .txt: Cloudflare caches
+      # .txt for hours, but passes HTML, XML and JSON through like the pages
+      # support actually crawls.
+      - name: Stamp the build with its commit
+        run: printf '{"commit":"%s"}\n' "$GITHUB_SHA" > site/build.json
+
       - name: Upload Pages artifact
         if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v5
@@ -75,3 +83,85 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v5
+
+  # Asks each support service to re-crawl the published guide, so Live Help
+  # answers from the new docs. A separate job: a support outage must not mark
+  # the Pages publish as failed. Each environment runs only once its secret
+  # exists, so staging and prod switch on by adding DOCS_REINDEX_SECRET_STG
+  # and DOCS_REINDEX_SECRET_PROD. All three crawl the same docs site.
+  reindex:
+    if: github.event_name != 'pull_request'
+    needs: deploy
+    runs-on: ubuntu-latest
+    permissions: {}
+    timeout-minutes: 15
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - env: dev
+            api: https://support-api.superinsight.dev
+            secret: DOCS_REINDEX_SECRET_DEV
+          - env: staging
+            api: https://support-api.superinsight.net
+            secret: DOCS_REINDEX_SECRET_STG
+          - env: prod
+            api: https://support-api.superinsight.me
+            secret: DOCS_REINDEX_SECRET_PROD
+    name: reindex (${{ matrix.env }})
+    steps:
+      - name: Wait until docs.superinsight.me serves this commit
+        id: live
+        env:
+          SECRET: ${{ secrets[matrix.secret] }}
+        run: |
+          if [ -z "$SECRET" ]; then
+            echo "::notice::${{ matrix.secret }} is not set; skipping ${{ matrix.env }}."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          for _ in $(seq 1 40); do
+            live=$(curl -fsS --max-time 10 https://docs.superinsight.me/build.json 2>/dev/null | python3 -c 'import json,sys; print(json.load(sys.stdin).get("commit",""))' 2>/dev/null || true)
+            if [ "$live" = "$GITHUB_SHA" ]; then
+              echo "Live site serves $GITHUB_SHA."
+              exit 0
+            fi
+            sleep 15
+          done
+          echo "::error::docs.superinsight.me still serves '${live}' after 10 minutes, not $GITHUB_SHA. Not reindexing stale pages."
+          exit 1
+
+      # HMAC-SHA256 over "timestamp\nnonce\nbody", hex. The secret stays in
+      # the environment, not on a command line. Each attempt gets a new
+      # timestamp and nonce; the API rejects a reused nonce.
+      - name: Request reindex
+        if: steps.live.outputs.skip != 'true'
+        env:
+          SECRET: ${{ secrets[matrix.secret] }}
+          API: ${{ matrix.api }}
+        run: |
+          body=$(printf '{"application_id":"console","commit_sha":"%s"}' "$GITHUB_SHA")
+          for attempt in 1 2 3; do
+            ts=$(date +%s)
+            nonce=$(openssl rand -hex 16)
+            sig=$(printf '%s\n%s\n%s' "$ts" "$nonce" "$body" \
+              | python3 -c 'import hashlib,hmac,os,sys; print(hmac.new(os.environ["SECRET"].encode(), sys.stdin.buffer.read(), hashlib.sha256).hexdigest())')
+            code=$(curl -sS --max-time 20 -o response.json -w '%{http_code}' -X POST "$API/v1/docs/reindex" \
+              -H "Content-Type: application/json" \
+              -H "X-Support-Timestamp: $ts" \
+              -H "X-Support-Nonce: $nonce" \
+              -H "X-Support-Signature: sha256=$sig" \
+              --data "$body") || true
+            case "$code" in
+              202)
+                echo "Accepted: $(cat response.json)"
+                exit 0 ;;
+              400|401|403|404)
+                echo "::error::$API answered $code: $(cat response.json 2>/dev/null). 401 means DOCS_REINDEX_SECRET does not match /<env>/support/docs_reindex_secret."
+                exit 1 ;;
+            esac
+            echo "Attempt $attempt got $code; retrying."
+            sleep $((attempt * 20))
+          done
+          echo "::error::$API did not accept the reindex after 3 attempts."
+          exit 1
