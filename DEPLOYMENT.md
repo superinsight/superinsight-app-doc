@@ -108,6 +108,37 @@ This is also why the old `mkdocs gh-deploy` route was dangerous: it replaces the
 branch wholesale, and before `docs/CNAME` existed it would have dropped the
 domain binding.
 
+## Live Help reindex
+
+Live Help (the support service) answers from its own index of
+`docs.superinsight.me`, not from this repository. After every publish, the
+`reindex` job asks each environment's support API to crawl the site again
+(`POST /v1/docs/reindex`, HMAC-signed, `application_id: console`, `commit_sha`
+of the publish).
+
+- The build writes `site/build.json` with its commit. The job waits until the
+  live site serves that commit before calling support, so a crawl never
+  indexes the previous build under the new commit. Support has no way to tell:
+  it records whatever it fetched under the commit it was given, and a repeat
+  call for the same commit returns `created: false`.
+  - It is JSON on purpose: Cloudflare caches `.txt` for hours but passes HTML,
+    XML and JSON through, like the pages support crawls.
+- An environment runs only when its repository secret exists. Each one is a
+  copy of that environment's SSM SecureString:
+
+  | Secret                     | SSM parameter                        | Support API                           |
+  | -------------------------- | ------------------------------------ | ------------------------------------- |
+  | `DOCS_REINDEX_SECRET_DEV`  | `/dev/support/docs_reindex_secret`   | `https://support-api.superinsight.dev` |
+  | `DOCS_REINDEX_SECRET_STG`  | `/stg/support/docs_reindex_secret`   | `https://support-api.superinsight.net` |
+  | `DOCS_REINDEX_SECRET_PROD` | `/prod/support/docs_reindex_secret`  | `https://support-api.superinsight.me`  |
+
+  Add the staging and prod secrets once those support APIs are live.
+- `reindex` is its own job: a support outage turns that job red but leaves
+  the publish green.
+
+To check the result, look at the support worker log group
+(`/ecs/superinsight-<env>-support`). A 202 only means the job was queued.
+
 ## Working on the docs
 
 ```bash
@@ -144,6 +175,13 @@ names the file and the target. Fix the reference rather than removing the flag.
 **The site 404s entirely.** Confirm `docs/CNAME` still exists and still reads
 `docs.superinsight.me`, then confirm the Cloudflare record for `docs` still
 points at `superinsight.github.io`.
+
+**`reindex (<env>)` fails.**
+- *401:* the repository secret no longer matches
+  `/<env>/support/docs_reindex_secret`. Copy it again.
+- *"still serves … after 10 minutes":* the live site never showed the new
+  `build.json`. Check the Cloudflare and Pages cache, then re-run the
+  workflow. Re-running publishes the same commit and reindexes it.
 
 **`deploy-pages` fails with a configuration error.** The repository's Pages
 source must be set to **GitHub Actions**
