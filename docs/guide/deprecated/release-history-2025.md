@@ -84,8 +84,6 @@ This update introduces greater payment flexibility and improves the handling of 
 
 **June 30, 2025 Release**
 
-* Windows Desktop Application launched - download and install the desktop version for enhanced performance.
-
 * Report Editing feature added - modify and customize your generated reports directly within the platform.
 
 * Enhanced Insight functionality - ask questions about specific files or report sections for targeted analysis.

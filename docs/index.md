@@ -27,7 +27,7 @@ Whether you're opening Superinsight for the first time or looking up a specific 
 
     ---
 
-    Use Superinsight in your browser right away, or download the Windows desktop app.
+    Open Superinsight in your browser. No download or installation is required.
 
     [:octicons-arrow-right-24: Installation](download.md)
 
