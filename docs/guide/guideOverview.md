@@ -22,6 +22,14 @@ New to Superinsight? Start with the [Quickstart Guide](../quickstart.md) first â
 | Manage my organization and members | [Manage organizations](organizations.md) |
 | Check or change my subscription | [Manage subscription](subscription.md) |
 | Understand how credits work | [Credit usage](credit-usage.md) |
+| Sign in to my account | [Sign in](sign-in.md) |
+| Change the email on my account | [Change your email](change-email.md) |
+| Update my phone number | [Change your mobile number](change-phone.md) |
+| Change my name | [Change your name](change-name.md) |
+| Log out | [Log out](log-out.md) |
+| Cancel my subscription | [Cancel your subscription](cancel-subscription.md) |
+| Reactivate my subscription | [Reactivate your subscription](reactivate-subscription.md) |
+| Update my payment method | [Update your payment method](update-payment.md) |
 
 ## Not sure where to start?
 

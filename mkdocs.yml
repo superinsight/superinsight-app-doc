@@ -18,6 +18,12 @@ nav:
   - Home: index.md
   - Open or Install Superinsight: download.md
   - Quickstart: quickstart.md
+  - Account:
+    - Sign in: guide/sign-in.md
+    - Change your email: guide/change-email.md
+    - Change your mobile number: guide/change-phone.md
+    - Change your name: guide/change-name.md
+    - Log out: guide/log-out.md
   - How To Guide:
     - Guide: guide/guideOverview.md
     - Manage Case: 
@@ -37,6 +43,9 @@ nav:
   - Credits & Subscriptions:
     - Credit Usage: guide/credit-usage.md
     - Manage Subscription: guide/subscription.md
+    - Cancel your subscription: guide/cancel-subscription.md
+    - Reactivate your subscription: guide/reactivate-subscription.md
+    - Update your payment method: guide/update-payment.md
   - Help & Support:
     - FAQ: guide/FAQ.md 
     - Contact Support: guide/support.md
