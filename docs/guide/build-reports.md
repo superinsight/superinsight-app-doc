@@ -2,7 +2,7 @@
 
 Superinsight turns your case documents into structured reports — chronologies, summaries, disability analyses, and more. This guide walks you through **building a report** and **choosing the right template** for your case.
 
-For downloading, editing, rebuilding, or deleting reports after they are created, see [Manage my reports](manage-reports.md).
+For [downloading](manage-reports.md#how-do-i-download-a-report), [editing](manage-reports.md#how-do-i-edit-a-report), [rebuilding](manage-reports.md#how-do-i-rebuild-a-report), or [deleting](manage-reports.md#how-do-i-delete-a-report) reports after they are created, see [Manage my reports](manage-reports.md).
 
 <iframe width="560" height="315" 
 src="https://www.youtube.com/embed/sI9clpIOlis?rel=0&si=XJezGeCH_ctuhxxm" 

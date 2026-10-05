@@ -38,6 +38,12 @@ The subscription details panel shows:
 - **Current available credits** remaining in your account
 - **Upgrade button** to access plan management options
 
+### Cancel, reactivate, or update payment
+
+- [Cancel your subscription](cancel-subscription.md) — organization owners schedule the cancel from **More options**. The plan stays active until the date shown on **Cancellation scheduled**.
+- [Reactivate your subscription](reactivate-subscription.md) — click **REACTIVATE** while a cancel is scheduled, or **RESUBSCRIBE** after the plan has ended.
+- [Update your payment method](update-payment.md) — organization owners update a declined card from the payment banner, **UPDATE PAYMENT METHOD**, or the **billing portal** link.
+
 ### Upgrading Your Plan
 
 To upgrade your subscription plan:

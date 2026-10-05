@@ -15,13 +15,27 @@ New to Superinsight? Start with the [Quickstart Guide](../quickstart.md) first â
 | Update case contact information | [Update contact info](case-contact-info.md) |
 | Connect Superinsight to my case system | [Case integration](case-integration.md) |
 | Upload and organize documents | [Organize my files](case-folder.md) |
+| See which files I can upload | [What files can I upload?](case-folder.md#what-files-can-i-upload) |
 | Build a new report | [Build a report](build-reports.md) |
 | View, edit, or download a report | [Manage my reports](manage-reports.md) |
+| Download or export a report | [How do I download a report?](manage-reports.md#how-do-i-download-a-report) |
+| Rebuild a report | [How do I rebuild a report?](manage-reports.md#how-do-i-rebuild-a-report) |
+| Edit a report | [How do I edit a report?](manage-reports.md#how-do-i-edit-a-report) |
+| Delete a report | [How do I delete a report?](manage-reports.md#how-do-i-delete-a-report) |
+| Fix a report that says Action Required | [My report says Action Required](manage-reports.md#my-report-says-action-required) |
 | Ask questions inside a report | [Research Insight](research-insight.md) |
 | Create or manage a team group | [Manage groups](groups.md) |
 | Manage my organization and members | [Manage organizations](organizations.md) |
 | Check or change my subscription | [Manage subscription](subscription.md) |
 | Understand how credits work | [Credit usage](credit-usage.md) |
+| Sign in to my account | [Sign in](sign-in.md) |
+| Change the email on my account | [Change your email](change-email.md) |
+| Update my phone number | [Change your mobile number](change-phone.md) |
+| Change my name | [Change your name](change-name.md) |
+| Log out | [Log out](log-out.md) |
+| Cancel my subscription | [Cancel your subscription](cancel-subscription.md) |
+| Reactivate my subscription | [Reactivate your subscription](reactivate-subscription.md) |
+| Update my payment method | [Update your payment method](update-payment.md) |
 
 ## Not sure where to start?
 

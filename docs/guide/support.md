@@ -48,10 +48,14 @@ Use this page to talk to a person, fix a common issue, or find a step-by-step gu
 
 ### I can’t sign in
 
-1. Confirm you’re using the correct email for your Superinsight account
-2. Try resetting your password if prompted
-3. If you recently changed your email or phone number, make sure it’s verified
-4. Still stuck? Contact us through [Live Help](https://app.superinsight.me) or [email](mailto:help@superinsight.ai)
+Sign in with the mobile number on your account. Superinsight texts an SMS code to that number.
+
+1. Open Superinsight and enter that **Mobile Phone number**, including the country code
+2. Click **Sign In**, then enter the code in the **SMS code:** dialog and click **Submit**
+3. If you recently changed your mobile number, use the new number
+4. If the text does not arrive, follow [Sign in](sign-in.md)
+
+Still stuck? Contact us through [Live Help](https://app.superinsight.me) or [email](mailto:help@superinsight.ai)
 
 ### My file isn’t uploading or processing
 
@@ -86,6 +90,11 @@ Begin here:
 | Learn a specific feature | [How To Guide](guideOverview.md) |
 | Understand credits | [Credit Usage](credit-usage.md) |
 | Manage my subscription | [Subscription](subscription.md) |
+| Sign in | [Sign in](sign-in.md) |
+| Change the email on my account | [Change your email](change-email.md) |
+| Update my phone number | [Change your mobile number](change-phone.md) |
+| Cancel my subscription | [Cancel your subscription](cancel-subscription.md) |
+| Update my payment method | [Update your payment method](update-payment.md) |
 | See what’s new | [Release Notes](release-notes.md) |
 
 ---
