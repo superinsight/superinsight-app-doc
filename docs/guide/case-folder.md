@@ -27,8 +27,22 @@ To upload documents for reports and Research Insight:
 
 4. Wait for files to finish processing before using them in reports. Larger medical records can take longer.
 
+## What files can I upload?
+
+Use this section when a file will not upload, when you need the file size limit, or when you want the list of supported formats.
+
+**Documents** (My Documents and Case Documents) accept:
+
+PDF, DOC, DOCX, TXT, JPG, JPEG, PNG, TIF, TIFF, EML, MSG, and ZIP
+
+**Reports** accept the same formats, except ZIP.
+
+The maximum size of one file is **2 GB**.
+
 !!! tip "Password-protected PDFs"
     Superinsight supports password-protected PDFs. When you select an encrypted file, you will be prompted for the password so it can unlock and process the document.
+
+If a report later shows **Action Required** because a file is still locked, see [My report says Action Required](manage-reports.md#my-report-says-action-required).
 
 ## Folder Management
 

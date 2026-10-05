@@ -13,17 +13,19 @@ Still stuck? Contact us through [Live Help](https://app.superinsight.me) or [ema
 
 ### My file isn’t uploading or processing.
 
-1. Check that the file finished selecting / uploading
-2. Wait a moment — larger medical records can take longer to process
-3. Refresh the page and check whether the file status changed
-4. Try uploading again if it failed
-5. If it still fails, tell Support the file name and what you see on screen
+1. Confirm the file is a supported type and under **2 GB**. See [What files can I upload?](case-folder.md#what-files-can-i-upload)
+2. Check that the file finished selecting / uploading
+3. Wait a moment — larger medical records can take longer to process
+4. Refresh the page and check whether the file status changed
+5. Try uploading again if it failed
+6. If it still fails, tell Support the file name and what you see on screen
 
 ### My report is taking a long time.
 
 1. Open the case and check the report status
-2. Wait for processing to finish before downloading
-3. If it stays stuck for a long time, contact Support with the case name and report type
+2. If the status is **Action Required**, follow [My report says Action Required](manage-reports.md#my-report-says-action-required)
+3. Wait for processing to finish before downloading
+4. If it stays stuck for a long time, contact Support with the case name and report type
 
 ### My report is not building, even though I have credits.
 

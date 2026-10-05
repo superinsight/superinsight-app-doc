@@ -15,8 +15,14 @@ New to Superinsight? Start with the [Quickstart Guide](../quickstart.md) first â
 | Update case contact information | [Update contact info](case-contact-info.md) |
 | Connect Superinsight to my case system | [Case integration](case-integration.md) |
 | Upload and organize documents | [Organize my files](case-folder.md) |
+| See which files I can upload | [What files can I upload?](case-folder.md#what-files-can-i-upload) |
 | Build a new report | [Build a report](build-reports.md) |
 | View, edit, or download a report | [Manage my reports](manage-reports.md) |
+| Download or export a report | [How do I download a report?](manage-reports.md#how-do-i-download-a-report) |
+| Rebuild a report | [How do I rebuild a report?](manage-reports.md#how-do-i-rebuild-a-report) |
+| Edit a report | [How do I edit a report?](manage-reports.md#how-do-i-edit-a-report) |
+| Delete a report | [How do I delete a report?](manage-reports.md#how-do-i-delete-a-report) |
+| Fix a report that says Action Required | [My report says Action Required](manage-reports.md#my-report-says-action-required) |
 | Ask questions inside a report | [Research Insight](research-insight.md) |
 | Create or manage a team group | [Manage groups](groups.md) |
 | Manage my organization and members | [Manage organizations](organizations.md) |

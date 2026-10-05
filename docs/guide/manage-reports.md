@@ -31,7 +31,7 @@ View all your generated reports in an organized list format. Each report display
 
 - **Report Name**: The title or identifier of the report
 - **Creation Date**: When the report was generated
-- **Status**: Current status (Completed, In Progress, Failed)
+- **Status**: Current status (Ready, In Progress, Processing, Action Required, Failed)
 - **Report Type**: The type of report (Medical Chronology, Basic Summary, Advanced Mode, etc.)
 - **Case Association**: Which case the report is linked to
 
@@ -47,49 +47,102 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 referrerpolicy="strict-origin-when-cross-origin" 
 allowfullscreen></iframe>
 
-=== "Download Report"
-    Export reports in various formats:
-    
-    - **PDF Format**: For offline viewing and sharing
-    - **Docx Format**: For document editing and sharing
-    
-    ![Export Report](../assets/images/tutorial/reports-download.png)
+## How do I download a report?
 
-=== "Edit Report"
-    Click the **Edit** icon on a report row to open the report viewer. From there you can:
-    
-    - Navigate through different sections
-    - Search within the report content
-    - View referenced documents
-    
-    ![View Report](../assets/images/tutorial/reports-edit.png)
+Download or export a finished report from the report row as **PDF** or **DOCX**.
 
-=== "Rebuild Report"
-    Regenerate a report with updated file:
-    
-    1. Click **Rebuild** button
-    2. **Select** updated source file
-    3. Click **Rebuild** to start the regeneration process
-    
-    The rebuilt report will replace the original version while maintaining the same report ID and creation date reference.
-    
-    ![Rebuild Report](../assets/images/tutorial/reports-rebuild1.png)
-    
-    ![Rebuild Report Dialog](../assets/images/tutorial/reports-rebuild2.png)
-    
-    !!! Warning "Rebuild Limit"
-        You can only rebuild each report three times. This limitation helps maintain system stability and ensures optimal performance. Once you reach the rebuild limit, you'll need to create a new report if further changes are required. The rebuild feature is free and does not consume any credits.
+1. Open a **case** and go to the **Reports** tab.
+2. On the report row, click **Export**.
+3. In **Export Report**, choose a **Format**: **PDF** or **DOCX**.
+4. Leave **Include all sections** on to export the whole report. From the report viewer you can turn it off and pick sections. **Include source files** adds the source documents to the export.
+5. Click **Export**.
 
-=== "Delete Report"
-    Remove reports that are no longer needed:
-    
-    1. **Click** the delete icon
-    2. **Confirm** the deletion in the dialog
-    
-    !!! Warning "Permanent Deletion"
-        **Deleted reports cannot be recovered.** Once deleted, the report is permanently removed from the system.
-    
-    ![Delete Report](../assets/images/tutorial/reports-delete.png)
+![Export Report](../assets/images/tutorial/reports-download.png)
+
+!!! success "You're done when…"
+    The file downloads, or the export appears in the **Activities** panel while it finishes.
+
+## How do I rebuild a report?
+
+Rebuild a report when you want a new version from the same case, including after you add or change source files. A rebuild does not use credits.
+
+1. Open a **case** and go to the **Reports** tab.
+2. On the report row, click **Rebuild Report**.
+3. The dialog title is **Rebuild Report (n/3)**. It asks, “Are you unsatisfied with the result? Let's try it again.”
+4. Review **Source Files**. To change them, click **Edit**, update the selection in **Edit Source Files**, then click **Done**.
+5. Click **Rebuild**. Click **Cancel** to close the dialog without rebuilding.
+
+![Rebuild Report](../assets/images/tutorial/reports-rebuild1.png)
+
+![Rebuild Report Dialog](../assets/images/tutorial/reports-rebuild2.png)
+
+!!! success "You're done when…"
+    Superinsight shows **Rebuild Requested**. The new version is ready within 10 minutes. Large source files can take longer.
+
+!!! warning "Rebuild limit"
+    Each report can be rebuilt 3 times. After that, the dialog title is **Rebuild Limit Reached** and the message is “You have used all your available chances to rebuild reports. Please contact us for further support.” Click **Message Us** to reach Live Help.
+
+## How do I edit a report?
+
+Click **Edit Report** on a report row to open the report viewer. From there you can move through sections, search the report, and view referenced documents.
+
+![View Report](../assets/images/tutorial/reports-edit.png)
+
+### Open a section for editing
+
+1. Open the report with **Edit Report**.
+2. Click the **Edit** (pencil) icon next to a section in the left sidebar.
+
+![Accessing the Editor](../assets/images/tutorial/reports-edit-section.png)
+
+### Change the text
+
+The editor includes bold, italic, underline, font size, alignment, and spacing. You can rename a heading, such as changing “Personal Information” to “Case Information.”
+
+![Text Editing](../assets/images/tutorial/reports-edit-section2.png)
+
+### Change the sections
+
+Add a section, drag sections to reorder them, or remove a section or paragraph you do not need.
+
+![Section Management](../assets/images/tutorial/reports-edit-section-reorder.png)
+
+### Ask a question about the report
+
+Use the **Report Insight** panel on the right. Research Insight chooses the AI agent for the question.
+
+Examples:
+
+- Does the medical evidence clearly link the injury to the incident in question?
+- What treatments were provided, and were there any unexplained gaps in care?
+- What is the patient's prognosis, and are future treatments or surgeries anticipated?
+- Are there any inconsistencies between medical records, witness statements, and other evidence?
+- What are the key points?
+
+![Report Insight](../assets/images/tutorial/reports-edit-insight.png)
+
+Need a new report or a different template? See [Build a report](build-reports.md).
+
+## How do I delete a report?
+
+Delete a report you no longer need. A deleted report cannot be recovered.
+
+1. Open a **case** and go to the **Reports** tab.
+2. On the report row, click **Delete Report**.
+3. In **Delete Report**, read “Are you sure you want to delete this report?”
+4. Click **Delete**.
+
+![Delete Report](../assets/images/tutorial/reports-delete.png)
+
+## My report says Action Required
+
+A report with status **Action Required** is waiting on you before it can finish. Click the **Action Required** status.
+
+- **Protected files.** The hint says “Click Action Required to unlock the protected files.” Enter the password for each protected file, then submit. The report continues after the passwords are accepted.
+- **Pages that could not be read.** The hint says “Click Action Required to retry the failed pages.” Retry those pages. The report resumes after the retry is accepted.
+- **Something else is needed.** The hint says “Click Action Required to see what's needed.” Follow the prompt in the dialog.
+
+If the report stays on **In Progress** or **Processing** for a long time and is not **Action Required**, wait for processing to finish, then check the status again.
 
 <!--
 ## Filter and Search
@@ -140,63 +193,6 @@ Each report includes detailed information about:
 - **Copy Feature**: Easily copy report content, sections, or entire reports for reuse in other cases or documents
 
 
-
-## Edit Report
-
-Modify the content and structure of existing reports to meet your specific needs. The editing feature provides comprehensive tools for customizing report content while maintaining professional formatting.
-
-### Accessing the Editor
-
-To edit an existing report:
-
-1. Navigate to the Reports section and locate the report you want to modify
-2. Click the **Edit** icon on the report row to open the report viewer
-3. Click the **Edit** (pencil) icon next to a section in the left sidebar to enter editing mode
-
-![Accessing the Editor](../assets/images/tutorial/reports-edit-section.png)
-
-### Editing Features
-
-The report editor provides powerful tools for content modification:
-
-=== "Text Editing"
-    Make direct changes to report content:
-    
-    - **Rich text editor** with formatting options (bold, italic, underline)
-    - **Font size adjustments** for different text elements
-    - **Text alignment** and spacing controls
-    
-    For example, you can change section headings like "Personal Information" to "Case Information" to better reflect your content structure.
-    
-    ![Text Editing](../assets/images/tutorial/reports-edit-section2.png)
-
-=== "Section Management"
-    Organize and restructure report content:
-    
-    - **Add sections** with custom headings and content
-    - **Reorder sections** using drag-and-drop
-    - **Remove unwanted sections** or paragraphs
-    
-    ![Section Management](../assets/images/tutorial/reports-edit-section-reorder.png)
-
-=== "Report Insight"
-    Ask questions about your report using the **Report Insight** panel on the right. Research Insight chooses the best AI agent for your question — you do not need to pick a mode yourself.
-    
-    **Example questions you can ask:**
-    
-    - Does the medical evidence clearly link the injury to the incident in question?
-    
-    - What treatments were provided, and were there any unexplained gaps in care?
-    
-    - What is the patient's prognosis, and are future treatments or surgeries anticipated?
-    
-    - Are there any inconsistencies between medical records, witness statements, and other evidence?
-    
-    - What are the key points?
-    
-    ![Report Insight](../assets/images/tutorial/reports-edit-insight.png)
-
-Need to create a new report or choose a template? See [Build a report](build-reports.md) for the full walkthrough — including standard templates, **Build My Own**, and **Advanced Templates**.
 
 <!--
 ## Batch Operations
