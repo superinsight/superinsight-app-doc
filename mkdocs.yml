@@ -56,7 +56,21 @@ nav:
     - HIPAA Notice: guide/hipaa-notice.md
   - Superinsight Expert Witness:
     - Overview: v2/guide/index.md
-    - Support: v2/guide/support.md
+    - For expert witnesses:
+      - Getting started: v2/guide/experts/getting-started.md
+      - Your profile: v2/guide/experts/profile.md
+      - Home: v2/guide/experts/home.md
+      - Cases: v2/guide/experts/cases.md
+      - Case Evaluation: v2/guide/experts/case-evaluation.md
+      - Opportunities and billing: v2/guide/experts/opportunities-and-billing.md
+      - The phone app: v2/guide/experts/phone.md
+    - For law firms:
+      - Getting started: v2/guide/firms/getting-started.md
+      - Cases and records: v2/guide/firms/cases-and-records.md
+      - Tasks and your plan: v2/guide/firms/tasks-and-plan.md
+      - Experts and services: v2/guide/firms/experts-and-services.md
+      - Your team: v2/guide/firms/team.md
+    - Help & Support: v2/guide/support.md
     - Privacy Policy: v2/guide/privacy-policy.md
 markdown_extensions:
   - attr_list
