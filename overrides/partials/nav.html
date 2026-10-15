@@ -1,0 +1,50 @@
+{#-
+  Custom sidebar: Material's nav.html (mkdocs-material 9.7.7), with the v2
+  section (pages under v2/) taken out of the v1 list and drawn below it under
+  its own heading. Keep in step with Material's nav.html when bumping it.
+-#}
+{% import "partials/nav-item.html" as item with context %}
+{% set class = "md-nav md-nav--primary" %}
+{% if "navigation.tabs" in features %}
+  {% set class = class ~ " md-nav--lifted" %}
+{% endif %}
+{% if "toc.integrate" in features %}
+  {% set class = class ~ " md-nav--integrated" %}
+{% endif %}
+{% set product = namespace(section=none) %}
+<nav class="{{ class }}" aria-label="{{ lang.t('nav') }}" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}" title="{{ config.site_name | e }}" class="md-nav__button md-logo" aria-label="{{ config.site_name }}" data-md-component="logo">
+      {% include "partials/logo.html" %}
+    </a>
+    {{ config.site_name }}
+  </label>
+  {% if config.repo_url %}
+    <div class="md-nav__source">
+      {% include "partials/source.html" %}
+    </div>
+  {% endif %}
+  <ul class="md-nav__list" data-md-scrollfix>
+    {% for nav_item in nav.items %}
+      {% if nav_item.children and nav_item.children[0].url and nav_item.children[0].url.startswith("v2/") %}
+        {% set product.section = nav_item %}
+      {% else %}
+        {% set path = "__nav_" ~ loop.index %}
+        {{ item.render(nav_item, path, 1) }}
+      {% endif %}
+    {% endfor %}
+    {#- Inside the list, not after it: in the mobile drawer the list is the
+        scrolling element, and anything after it is pinned to the bottom. -#}
+    {% if product.section %}
+      <li class="si-nav-product">
+        <p class="si-nav-product__title" id="si-nav-product-title">{{ product.section.title }}</p>
+        <ul class="md-nav__list" aria-labelledby="si-nav-product-title">
+          {% for nav_item in product.section.children %}
+            {% set path = "__nav_v2_" ~ loop.index %}
+            {{ item.render(nav_item, path, 1) }}
+          {% endfor %}
+        </ul>
+      </li>
+    {% endif %}
+  </ul>
+</nav>

@@ -271,3 +271,35 @@ html {
     background-color: #153464 !important;
     font-weight: 700 !important;
 }
+
+/* v2 docs: their own group below v1's menu (overrides/partials/nav.html). */
+.si-nav-product {
+    margin-top: 1rem;
+    padding-top: .8rem;
+    border-top: .05rem solid var(--md-default-fg-color--lightest);
+}
+
+/* Material indents every list in the sidebar ([dir="ltr"] .md-nav--primary
+   .md-nav__list); this one sits inside v1's list but is a peer of it. */
+[dir] .md-nav--primary .si-nav-product > .md-nav__list {
+    padding-left: 0;
+}
+
+.si-nav-product__title {
+    margin: 0 0 .2rem;
+    color: var(--md-default-fg-color--light);
+    font-size: .7rem;
+    font-weight: 700;
+}
+
+/* In the drawer, v1's items are full-width rows with their own dividers. */
+@media screen and (max-width: 76.234375em) {
+    .si-nav-product {
+        margin-top: 0;
+        padding-top: 0;
+    }
+
+    .si-nav-product__title {
+        padding: 1.2rem .8rem .4rem;
+    }
+}

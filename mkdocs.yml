@@ -50,14 +50,14 @@ nav:
     - FAQ: guide/FAQ.md 
     - Contact Support: guide/support.md
     - What's New? (Release Notes): guide/release-notes.md
-  - Superinsight Expert Witness:
-    - v2/guide/index.md
-    - Support: v2/guide/support.md
-    - Privacy Policy: v2/guide/privacy-policy.md
   - Legal:
     - Privacy Policy: guide/privacy-policy.md
     - Terms of Use: guide/terms-of-use.md
     - HIPAA Notice: guide/hipaa-notice.md
+  - Superinsight Expert Witness:
+    - Overview: v2/guide/index.md
+    - Support: v2/guide/support.md
+    - Privacy Policy: v2/guide/privacy-policy.md
 markdown_extensions:
   - attr_list
   - md_in_html
