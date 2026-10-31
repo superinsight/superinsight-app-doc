@@ -11,7 +11,7 @@ By accessing our Site or our Service, you accept our Privacy Policy, and you con
 
 ### 1.  INFORMATION WE COLLECT
 
-We collect “Non-Personal Information” and “Personal Information.” **Non-Personal Information** includes information that cannot be used to personally identify you, such as anonymous usage data, general demographic information we may collect, referring/exit pages and URLs, platform types, preferences you submit, and preferences that are generated based on the data you submit and number of clicks. **Personal Information** includes your email and phone number, which you submit to us through the registration process at the Site.
+We collect “Non-Personal Information” and “Personal Information.” **Non-Personal Information** includes information that cannot be used to personally identify you, such as anonymous usage data, general demographic information we may collect, referring/exit pages and URLs, platform types, preferences you submit, and preferences that are generated based on the data you submit and number of clicks. **Personal Information** includes your email and phone number, which you submit to us through the registration process at the Site. We use your mobile phone number to send you SMS (text messages) for your account, including one-time verification codes.
 
 #### i.  Information collected via Technology
 
@@ -23,7 +23,7 @@ Superinsight may use both persistent and session cookies; persistent cookies rem
 
 #### ii.  Information you provide us by registering for an account
 
-In addition to the information provided automatically by your browser when you visit the Site, to become a subscriber to the Service you will need to create a personal profile. You can create a profile by registering with the Service and entering your phone number. By registering, you are authorizing us to collect, store and use your phone number in accordance with this Privacy Policy.
+In addition to the information provided automatically by your browser when you visit the Site, to become a subscriber to the Service you will need to create a personal profile. You can create a profile by registering with the Service and entering your phone number. By registering, you are authorizing us to collect, store and use your phone number in accordance with this Privacy Policy, including to send you SMS (text messages) such as one-time codes to sign in and to confirm a change to your mobile number. Providing your mobile number and requesting a code is your opt-in to receive those text messages.
 
 #### iii.  Children’s Privacy
 
@@ -33,11 +33,19 @@ The Site and the Service are not directed to anyone under the age of 13. The Sit
 
 **Personal Information**
 
-Except as otherwise stated in this Privacy Policy, we do not sell, trade, rent or otherwise share for marketing purposes your Personal Information with third parties without your consent. We do not share Personal Information with any vendors who are performing services for Superinsight, such as artificial intelligence or large language model companies, or third parties integration services like cloud drives and databases.
+Except as otherwise stated in this Privacy Policy, we do not sell, trade, rent or otherwise share for marketing purposes your Personal Information with third parties without your consent. We do not share Personal Information with any vendors who are performing services for Superinsight, such as artificial intelligence or large language model companies, or third parties integration services like cloud drives and databases. The only exception is sharing your phone number with our text-messaging provider so we can deliver SMS (text messages) to you, as described below. That sharing is not for marketing.
 
-In general, the Personal Information you provide to us is used to help us communicate with you. For example, we use Personal Information to provide technical support and inform users about promotional offers.
+In general, the Personal Information you provide to us is used to help us communicate with you. For example, we use Personal Information to provide technical support and inform users about promotional offers. We do not use your SMS opt-in or consent to send marketing or promotional text messages.
 
 We may share Personal Information with outside parties if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to meet any applicable legal process or enforceable governmental request; to enforce applicable Terms of Service, including investigation of potential violations; address fraud, security or technical concerns; or to protect against harm to the rights, property, or safety of our users or the public as required or permitted by law.
+
+**SMS and text messaging**
+
+We send SMS (text messages) to the mobile phone number on your account. These messages are for your account, including one-time verification codes to sign in and to confirm a change to your mobile number. We send a message when you request a code. Message frequency depends on how often you sign in or update your number. Message and data rates may apply.
+
+We share your phone number with our text-messaging provider only as needed to deliver those messages to you. We do not sell, rent, or share your mobile information, SMS opt-in, or consent with third parties or affiliates for marketing or promotional purposes.
+
+No mobile information will be shared with third parties or affiliates for marketing or promotional purposes. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
 
 **Non-Personal Information**
 
@@ -53,7 +61,7 @@ We further protect your information from potential security breaches by implemen
 
 ### 4.  YOUR RIGHTS REGARDING THE USE OF YOUR PERSONAL INFORMATION
 
-You have the right at any time to prevent us from contacting you for marketing purposes.  When we send a promotional communication to a user, the user can indicate that you do not wish to receive marketing communications from us by contacting us at [help@superinsight.ai](mailto:help@superinsight.ai). Please note that notwithstanding the promotional preferences you indicate, we may continue to send you administrative messages including, for example, periodic updates to our Privacy Policy.
+You have the right at any time to prevent us from contacting you for marketing purposes.  When we send a promotional communication to a user, the user can indicate that you do not wish to receive marketing communications from us by contacting us at [help@superinsight.ai](mailto:help@superinsight.ai). Please note that notwithstanding the promotional preferences you indicate, we may continue to send you administrative messages including, for example, periodic updates to our Privacy Policy and SMS (text messages) that are one-time verification codes for your account. SMS opt-in data is not used for marketing and is not shared for marketing.
 
 ### 5. LINKS TO OTHER WEBSITES
 
@@ -71,7 +79,7 @@ Superinsight reserves the right to change this policy and our Terms of Service a
 
 If you have any questions regarding this Privacy Policy or the practices of this Site, please contact us by sending an email to [help@superinsight.ai](mailto:help@superinsight.ai).
 
-Last Updated: This Privacy Policy was last updated on August 21st, 2023.
+Last Updated: This Privacy Policy was last updated on October 31, 2026.
 
 
 © 2023 All rights reserved by Superinsight
