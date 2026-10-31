@@ -33,11 +33,9 @@ After creating a group, invite members using these methods:
     ![Invite New Member](../assets/images/tutorial/group-invite-member.png)
 
 === "Import from Organization"
-    **Import existing organization members** to your group. Invited members must accept before joining.
+    **Import existing organization members** to your group. Choose an organization, select members, and click **Invite**.
 
-    ![Import New Member](../assets/images/tutorial/group-import-organization1.png)
-
-    ![Import Confirmation](../assets/images/tutorial/group-import-organization2.png)
+    ![Import from Organization](../assets/images/tutorial/group-import-organization1.png)
 
 === "Member List"
     View all members in the group. **Group owners can remove any member**.

@@ -6,12 +6,101 @@ Release notes provide the list of items on feature changes, known issues, fixes,
 
 ---------------------------------------
 
-#### June 10, 2026 Release *(Pre-Release)*
+#### August 19th, 2026 Release — v2.4.5
 
-!!! info "Scheduled Release"
-    This release is scheduled for **June 10, 2026** and has not yet gone live.
+This release makes reports easier to recover when document processing hits a snag, gives you self-serve control over subscriptions, and lands the full **Templates** experience in the app. Activities and exports are more reliable after a closed tab or refresh, and several fixes improve uploads, large reports, and completion emails.
 
-This release introduces **Case Review** — a powerful replacement for the Research section — along with three specialized AI agents and updated pricing that applies across Case Review and all Reports.
+**New: Recover Reports When Pages Fail**
+
+* **Action required instead of a dead end** — If some pages of a document fail to process, the report **pauses** with an "Action required" status instead of failing later with no way to continue.
+* **Retry failed pages** — See which files need attention and retry them in one step. When processing succeeds, the report resumes and finishes on its own — no need to start over.
+* **Retry before the report stalls** — If you build a report on files that already have failed pages, Superinsight retries those pages first so the report can move ahead without stopping right away.
+
+**New: Subscription Cancellation & Reactivation**
+
+* **Cancel at period end** — Cancel your subscription yourself. Access and credits continue through the end of the paid billing period — nothing is revoked immediately.
+* **Cancellation reasons** — Choose a reason (and optional details) when you cancel, so feedback is captured clearly.
+* **Reactivate** — If you cancel by mistake or change your mind before the period ends, reactivate from billing without starting a new purchase.
+
+**New: Templates Page**
+
+* **Dedicated Templates page** — Browse and manage report templates from a top-level **Templates** page in the left nav (desktop and mobile), with filters and clear status labels: Building, Draft, Published, and Failed.
+* **Organization templates** — Templates shared with your organization are marked clearly. Only the person who created a template can delete it, with a confirmation that explains when others may be affected.
+* **Advanced creation** — Create advanced templates in the background — close the wizard and track progress in **Activities**. Add optional reference materials and an example output, discard a preview if it is not right, and delete templates you no longer need.
+
+**Improved: Activities & Exports**
+
+* **Bulk downloads in the background** — Large zip downloads show progress in the Activities panel instead of a brief notification that disappears when you navigate away.
+* **Exports that survive a closed tab** — Finished exports are recovered when you reopen the app, and in-progress exports keep their place so you do not lose track of a download you started.
+* **Dismissals that stick** — Finished activity cards can be dismissed permanently; re-exporting a report brings it back to the top of the panel even if it was previously dismissed.
+
+**Improvements**
+
+* **Report completion emails** — Report-ready emails are sent more reliably when a report finishes.
+* **Large file uploads** — Large uploads are more reliable and no longer time out too early.
+* **Large reports** — Very large reports finish more reliably instead of appearing stuck for hours.
+* **Auto agent** — Auto research answers are more reliable and consistent.
+* **Chat & templates stability** — Fixes for chat recovery after a refresh, templates filtering, report builder crashes, and keeping your place in a source file when you open it from chat.
+
+---------------------------------------
+
+#### August 11th, 2026 Release — v2.4.4
+
+This release focuses on making document workflows more resilient, answers more reliable, and billing more transparent. You can now recover password-protected files, keep working while reports wait for passwords, get clearer payment and credit messages, and use a significantly upgraded **Auto** agent with downloadable artifacts and stronger answer quality.
+
+**New: Password-Protected PDFs**
+
+* **Upload and unlock** — Upload a password-protected PDF and unlock it directly in Superinsight with inline password entry and instant validation.
+* **Action required reports** — If a report depends on protected files, it **pauses** in an "Action required" state instead of failing and refunding your credits. Supply the passwords and the report resumes automatically.
+
+**New: Billing & Credits**
+
+* **Free question allowances** — Eligible accounts see how many free report questions remain in the current period, right in the chat experience.
+* **Payment failure visibility** — If a subscription renewal fails, a banner explains what happened and gives you a path to update billing. No more guessing why credits look wrong.
+* **Insufficient credits** — Asking a question without enough credits now shows a clear failure message instead of an endless loading state.
+* **Plans and promos** — Redesigned plans dialog with smoother loading, promo pricing, and clearer guidance when someone other than the account owner needs to purchase.
+
+**New: Upgraded Auto Agent**
+
+The **Auto** research agent is substantially improved:
+
+* **Downloadable outputs** — Generate assembled PDFs, CSV exports, and charts from your answers, delivered through secure login-protected download links you can share within your team.
+* **Better answer quality** — Answers start appearing sooner, with improved citations and more reliable list-style answers.
+
+**New: Streaming & Activities**
+
+* **Answers that survive a refresh** — Refresh the browser mid-answer and pick up where the response left off instead of losing progress.
+* **Progress updates** — Long answers show periodic progress updates, so the interface no longer looks frozen during extended research.
+* **Answer revisions** — When the agent revises a draft answer, the interface updates cleanly instead of leaving stale text behind.
+* **Activities panel** — Downloads, uploads, and exports are unified in a single **Activities** panel (badge on the app bar). In-progress exports recover after a page refresh — you won't lose track of a download you started.
+
+**New: Onboarding & Templates**
+
+* **Guided onboarding** — New registrations are walked through a step-by-step setup: agreement → case → file upload → report type, with progress tracking along the way.
+* **Advanced report templates** — Create advanced templates without waiting on a blocking spinner — builds run in the background. Receive an email when your template is ready, with a direct link to review it. Preview, save, and activate templates from a dedicated review page.
+
+**Improved: Workspace**
+
+* **Copy for Word** — Copy answers and sections as **Word-compatible rich text**.
+* **Citation navigation** — Click a citation to jump straight to the cited page in the source file.
+* **Export button** — Moved to the section sidebar for quicker access.
+* **Tab scroll position** — Preserved as you move between workspace tabs.
+* **Research display** — Restyled research/thinking display for easier reading during long answers.
+
+**Improvements**
+
+* **Auto agent reliability** — Search and research tools are offered more consistently, including on questions where source files already fit in context.
+* **Export quality** — Charts and images in exported PDFs stay within page margins instead of running off the edge.
+* **Report builds** — Zero-credit report types (such as Case Review) no longer hit unnecessary credit checks.
+* **Chronicle imports** — Improved tolerance for incomplete metadata from Chronicle, reducing stuck imports.
+* **Document processing** — More reliable OCR and file processing under load; fewer files incorrectly marked failed.
+* **Copied content** — Source links are stripped when copying answer text, so pasted content is cleaner for external documents.
+
+---------------------------------------
+
+#### June 10, 2026 Release
+
+This release introduced **Case Review** — a replacement for the Research section — along with three specialized AI agents and updated pricing that applies across Case Review and all Reports.
 
 **New: Case Review**
 
@@ -213,10 +302,10 @@ This update focuses on optimizing the payment synchronization, alongside fixes f
 
 ---------------------------------------
 
-#### [2025 Release History](/guide/release-history-2025)
+#### [2025 Release History](/guide/deprecated/release-history-2025)
 
 ---------------------------------------
 
-#### [2024 Release History](/guide/release-history)
+#### [2024 Release History](/guide/deprecated/release-history)
 
 ---------------------------------------

@@ -1,61 +1,77 @@
-# Share Case
+# Share a Case
 
+Share a case so teammates or stakeholders can view documents, reports, and contact details — with the access level you choose.
 
-Sometimes, you might need to share case information with your stakeholders. For example, you might share medical chronology reports with a physician for review or STR files with your claimant if you're practicing VA.
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/GmUYhPkIbOU?rel=0&si=ce4dFYqS2eZy8ZLn" 
+title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+referrerpolicy="strict-origin-when-cross-origin" 
+allowfullscreen></iframe>
 
-Now, you can share your cases with any stakeholder who needs to access files and reports. You can also share cases with your co-workers, allowing them to collaborate and build reports.
+## Share with a user or group
 
-## Share Your Cases
+1. Open the **Cases** list.
+2. Click the three-dot menu (⋮) next to the case name.
+3. Select **Share**.
 
-To share a case, click the "**Share**" button in the left navigation panel or the three-dot "Action" button next to the case name.
+    ![Share Case](../assets/images/tutorial/case-share-case-bottom.png)
 
-You can share your cases with an individual user via email invitation or with user groups you own or belong to.
+4. Choose who to share with:
+    - **User** — one person
+    - **Group** — a whole team or group
 
-After sharing a case, you’ll see a shared list below, showing who has access to the case.
+    ![Share Options](../assets/images/tutorial/case-share-case-as.png)
 
-=== "Click to Share"
-    ![Share Case](../assets/images/tutorial/share-case-1.png)
+5. If you chose **User**, enter their email address. You can add more people one at a time.
 
-=== "Share with User or Group"
-    ![Select Whom](../assets/images/tutorial/share-case-2.png)
+    ![Enter Email](../assets/images/tutorial/case-share-case-enter-email.png)
 
-=== "Share List"
-    ![Share List](../assets/images/tutorial/share-case-3.png)
+6. Confirm the share. Invited people appear under **Who has access to this case?**
 
+You can also start sharing from the **Share** button in the left panel when a case is open.
 
-In the sharing list, you'll find a gear icon and a delete icon next to each recipient. Use these to adjust access permissions or remove sharing.
+## Set access permissions
 
-You can set access permissions for the **Documents**, **Reports**, and **Contact** sections of the case. Each section can be configured with one of three permissions: **Write**, **Read**, or **None**.
+Control what each person or group can do.
 
-![Access Permission](../assets/images/tutorial/share-permission.png)
+1. In **Who has access to this case?**, click the **gear icon** next to a person or group.
 
-## Accept the Sharing
+    ![Access Control Button](../assets/images/tutorial/case-share-case-access-control-1.png)
 
-When someone shares a case with you via email, you’ll receive an email invitation. Additionally, you'll get an in-app notification.
+2. For **Documents**, **Reports**, and **Contact**, choose:
+    - **Read** — view only
+    - **Write** — view and edit
+    - **None** — no access
+3. Click **Update** to save.
 
-=== "Email Invitation"
-    ![Email Invitation](../assets/images/tutorial/share-invite-email.png)
+    ![Access Role](../assets/images/tutorial/case-share-case-access-control-2.png)
 
-=== "App Invitation"
-    ![App Invitation](../assets/images/tutorial/share-invite-app.png)
+!!! tip "Example"
+    You might let a reviewer **Read** Documents but set Contact to **None**.
 
-=== "Invite Notification"
-    ![App Notification](../assets/images/tutorial/share-invite-notification.png)
+## Accept a shared case
 
-After accepting the invitation, the case will appear in your case list. You can distinguish between cases shared individually and cases shared with a group by the icon next to each case.
+If someone shares a case with you:
 
-=== "Individual Shared"
-    ![Individual Shared](../assets/images/tutorial/share-individual.png)
+1. Check your email invitation and/or in-app notification.
+2. Accept the invitation.
+3. Open **Cases** — the shared case will appear in your list.
 
-=== "Group Shared"
-    ![Group Shared](../assets/images/tutorial/share-group.png)
+![Email Invitation](../assets/images/tutorial/share-invite-email.png)
 
-## Disconnect the Sharing
+![App Invitation](../assets/images/tutorial/share-invite-app.png)
 
-If you no longer need access to a shared case, you can remove it by clicking the **Disconnect** button.
+## Remove sharing
 
-=== "Disconnect Button"
-    ![Disconnect Button](../assets/images/tutorial/disconnect-case-1.png)
+- **If you shared the case:** open the share dialog, find the person or group under **Who has access to this case?**, and click the **Remove Access** (trash) icon next to their name.
+- **If a case was shared with you:** open the case and click **Disconnect**, then confirm.
 
-=== "Confirm Disconnect"
-    ![Confirm Disconnect](../assets/images/tutorial/disconnect-case-2.png)
+    ![Remove Access](../assets/images/tutorial/case-share-remove-access.png)
+
+## Next steps
+
+- [Find and open a case](case-find.md)
+- [Manage groups](groups.md) — share with a whole team at once
+- [Manage organizations](organizations.md)
