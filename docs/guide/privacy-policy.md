@@ -11,7 +11,7 @@ By accessing our Site or our Service, you accept our Privacy Policy, and you con
 
 ### 1.  INFORMATION WE COLLECT
 
-We collect “Non-Personal Information” and “Personal Information.” **Non-Personal Information** includes information that cannot be used to personally identify you, such as anonymous usage data, general demographic information we may collect, referring/exit pages and URLs, platform types, preferences you submit, and preferences that are generated based on the data you submit and number of clicks. **Personal Information** includes your email and phone number, which you submit to us through the registration process at the Site. We use your mobile phone number to send you SMS (text messages) for your account, including one-time verification codes.
+We collect “Non-Personal Information” and “Personal Information.” **Non-Personal Information** includes information that cannot be used to personally identify you, such as anonymous usage data, general demographic information we may collect, referring/exit pages and URLs, platform types, preferences you submit, and preferences that are generated based on the data you submit and number of clicks. **Personal Information** includes your email and phone number, which you submit to us through the registration process at the Site. We use your mobile phone number to send you SMS (text messages). Those texts include one-time verification codes and, if you opt in, copies of the text messages the Social Security Administration (SSA) sends to your Superinsight number.
 
 #### i.  Information collected via Technology
 
@@ -23,7 +23,7 @@ Superinsight may use both persistent and session cookies; persistent cookies rem
 
 #### ii.  Information you provide us by registering for an account
 
-In addition to the information provided automatically by your browser when you visit the Site, to become a subscriber to the Service you will need to create a personal profile. You can create a profile by registering with the Service and entering your phone number. By registering, you are authorizing us to collect, store and use your phone number in accordance with this Privacy Policy, including to send you SMS (text messages) such as one-time codes to sign in and to confirm a change to your mobile number. Providing your mobile number and requesting a code is your opt-in to receive those text messages.
+In addition to the information provided automatically by your browser when you visit the Site, to become a subscriber to the Service you will need to create a personal profile. You can create a profile by registering with the Service and entering your phone number. By registering, you are authorizing us to collect, store and use your phone number in accordance with this Privacy Policy, including to send you SMS (text messages) such as one-time codes to sign in and to confirm a change to your mobile number. If you opt in to SMS forwarding, we also use that number to send copies of SSA text messages, as described below. Providing your mobile number and requesting a code, or turning on forwarding, is your opt-in to receive the text messages described in this Privacy Policy.
 
 #### iii.  Children’s Privacy
 
@@ -41,11 +41,23 @@ We may share Personal Information with outside parties if we have a good-faith b
 
 **SMS and text messaging**
 
-We send SMS (text messages) to the mobile phone number on your account. These messages are for your account, including one-time verification codes to sign in and to confirm a change to your mobile number. We send a message when you request a code. Message frequency depends on how often you sign in or update your number. Message and data rates may apply.
+We send SMS (text messages) to the mobile phone number on your account. Some of these messages are one-time verification codes to sign in, to confirm a change to your mobile number, or to confirm the phone that should receive forwarded texts. We send a verification message when you request a code. Message frequency for those codes depends on how often you sign in, update your number, or turn forwarding on. Message and data rates may apply.
 
-We share your phone number with our text-messaging provider only as needed to deliver those messages to you. We do not sell, rent, or share your mobile information, SMS opt-in, or consent with third parties or affiliates for marketing or promotional purposes.
+If you opt in to SMS forwarding, we also send you copies of text messages from the Social Security Administration, as described in the next section. Those forwarded texts are not verification codes from Superinsight.
+
+We share your phone number, and the content of any text we send you, with our text-messaging provider only as needed to deliver those messages to you. We do not sell, rent, or share your mobile information, SMS opt-in, or consent with third parties or affiliates for marketing or promotional purposes.
 
 No mobile information will be shared with third parties or affiliates for marketing or promotional purposes. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
+
+**SMS forwarding**
+
+SMS forwarding is optional. It is not required to use Superinsight. If you turn it on, Superinsight sends copies of the text messages the Social Security Administration (SSA) sends to your Superinsight number, and delivers those copies to the personal mobile phone you provide.
+
+A forwarded text contains the content of SSA’s message, not a Superinsight verification code. That content is the message SSA sent, which can include sign-in codes and other messages SSA sends during an SSA sign-in. Message frequency varies and is usually a few messages per SSA sign-in. Message and data rates may apply.
+
+Before any SSA message is forwarded, we text a one-time PIN to the personal number you enter so we can confirm the phone is yours. Nothing is forwarded until you enter that PIN. You can turn forwarding off in the Service at any time. You can also reply STOP to opt out of these texts or HELP for help.
+
+We use the content of a forwarded message only to deliver that copy to you. We do not use forwarded message content, or your opt-in to forwarding, to send marketing or promotional text messages. We do not sell, rent, or share forwarded message content or your SMS forwarding opt-in with third parties or affiliates for marketing or promotional purposes. We share your phone number and the forwarded message content with our text-messaging provider only as needed to deliver the copy to you. Text messaging originator opt-in data and consent will not be shared with any third parties.
 
 **Non-Personal Information**
 
@@ -61,7 +73,7 @@ We further protect your information from potential security breaches by implemen
 
 ### 4.  YOUR RIGHTS REGARDING THE USE OF YOUR PERSONAL INFORMATION
 
-You have the right at any time to prevent us from contacting you for marketing purposes.  When we send a promotional communication to a user, the user can indicate that you do not wish to receive marketing communications from us by contacting us at [help@superinsight.ai](mailto:help@superinsight.ai). Please note that notwithstanding the promotional preferences you indicate, we may continue to send you administrative messages including, for example, periodic updates to our Privacy Policy and SMS (text messages) that are one-time verification codes for your account. SMS opt-in data is not used for marketing and is not shared for marketing.
+You have the right at any time to prevent us from contacting you for marketing purposes.  When we send a promotional communication to a user, the user can indicate that you do not wish to receive marketing communications from us by contacting us at [help@superinsight.ai](mailto:help@superinsight.ai). Please note that notwithstanding the promotional preferences you indicate, we may continue to send you administrative messages including, for example, periodic updates to our Privacy Policy, SMS (text messages) that are one-time verification codes for your account, and, if you opt in, copies of SSA text messages forwarded to your phone. SMS opt-in data and forwarded message content are not used for marketing and are not shared for marketing.
 
 ### 5. LINKS TO OTHER WEBSITES
 
